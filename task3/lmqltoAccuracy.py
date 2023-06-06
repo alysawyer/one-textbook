@@ -48,6 +48,7 @@ def main():
             data = json.load(f)
         infoList = file_path.stem.split(".")
         jsonName = ".".join([infoList[2], infoList[0], infoList[1], parser.parse_args().second_argument])
+        print("results/" + jsonName + ".json")
         with open("results/" + jsonName + ".json", "w") as outfile:
             outfile.write(str(calcAccuracy(data["codes"])))
 

@@ -13,7 +13,6 @@ from functools import partial
 async def query(c):
     '''takes in a dict that includes lmql prompt and the true answer,
     returns 1 if the model is correctand 0 if wrong'''
-    print("making requet HEHEOOO")
     output = (await lmql.run(c["code"], output_writer=lmql.stream("RESPONSE")))
     if output[0].variables['ANSWER'].strip() == c["answer"]:
         return 1
@@ -54,14 +53,11 @@ def main():
     file_path = Path.cwd()/parser.parse_args().second_argument
     with file_path.open(mode='r',encoding="utf-8") as f:
         data = json.load(f)
-    print(file_path)
     infoList = file_path.stem.split(".")
-    print(infoList)
     
     jsonName = ".".join([infoList[2], infoList[0], infoList[1], infoList[3],  parser.parse_args().third_argument])
     with open("results/" + jsonName + ".json", "w") as outfile:
         outfile.write(str(calcAccuracy(data["codes"])))
-        print(str(calcAccuracy(data["codes"])))
 
 if __name__ == "__main__":
     main()

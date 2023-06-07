@@ -1,5 +1,7 @@
 import pandas as pd 
 import os
+from pathlib import Path
+
 # text-ada-001.capitvlvm_1.style1.quizTypeA.json
 
 def create_pivot_table(df, index, columns, values): 
@@ -14,14 +16,15 @@ data = []
 for filename in os.listdir(directory):
     filePath = os.path.join(directory, filename)
     if os.path.isfile(filePath):
-        with open(filePath) as f:
-           accuracy = float(f.read())
-        model, chapter, style, quiz_type = filename.split(".")[0:4]
-        data.append([model, chapter, style, quiz_type, accuracy])
+        path = Path(filePath)
+        if path.stat().st_size > 0:
+            with open(filePath) as f:
+                accuracy = float(f.read())
+        model, chapter, style, question_type, quiz_type = filename.split(".")[0:5]
+        data.append([model, chapter, style, question_type, quiz_type, accuracy])
 
 
 # making data frame
-# text-ada-001.CAPITVLVM_I.style9.mc.PENSVM-A.json
 df = pd.DataFrame(data, columns=["model", "chapter", "style", "question_type", "quiz_type", "accuracy"])
 
 # pivoting to make specific tables

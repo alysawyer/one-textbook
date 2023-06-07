@@ -1,5 +1,7 @@
 for dir in PENSVM-*; do
     if [ -d "$dir" ]; then
-	python3 iterateTest.py "$dir"
+	    for FILE in "$dir"/*; do 
+	    	python3 get_accuracy.py $FILE $dir 
+    	    done
     fi
 done

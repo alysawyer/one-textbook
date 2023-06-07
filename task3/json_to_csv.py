@@ -21,7 +21,8 @@ for filename in os.listdir(directory):
 
 
 # making data frame
-df = pd.DataFrame(data, columns=["model", "chapter", "style", "quiz_type", "accuracy"])
+# text-ada-001.CAPITVLVM_I.style9.mc.PENSVM-A.json
+df = pd.DataFrame(data, columns=["model", "chapter", "style", "question_type", "quiz_type", "accuracy"])
 
 # pivoting to make specific tables
 

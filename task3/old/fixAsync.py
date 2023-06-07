@@ -1,11 +1,14 @@
-import lmql
-import asyncio
-import json
 import os
+os.environ['PYTHONASYNCIODEBUG'] = '1'
+import asyncio
+import lmql
+import json
 import sys
 import csv
 from pathlib import Path
 import argparse
+import aiometer
+from functools import partial
 
 async def query(c):
     '''takes in a dict that includes lmql prompt and the true answer,
@@ -14,6 +17,10 @@ async def query(c):
     if output[0].variables['ANSWER'].strip() == c["answer"]:
         return 1
     return 0
+
+async def run(codes):
+    results = await aiometer.run_all([partial(query,c) for c in codes], max_per_second=1)
+    return results
 
 def calcAccuracy(codes):
     '''calculates accuracy based on outputs from query
@@ -34,8 +41,8 @@ def calcAccuracy(codes):
     '''
     # using query to prompt model with questions in parallel 
     loop = asyncio.get_event_loop()
-    results = loop.run_until_complete(asyncio.gather(*[query(c) for c in codes]))
-
+    
+    results = loop.run_until_complete(run(codes))
     return round(sum(results)/len(results), 2)
 
 def main():
@@ -46,8 +53,7 @@ def main():
     for file_path in (Path.cwd()/parser.parse_args().second_argument).glob("*.json"):
         with file_path.open(mode='r',encoding="utf-8") as f:
             data = json.load(f)
-        print(calcAccuracy(data["codes"]))
-        asyncio.wait(10)
+        print(str(calcAccuracy(data["codes"])))
 
 if __name__ == "__main__":
     main()

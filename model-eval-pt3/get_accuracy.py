@@ -22,16 +22,16 @@ async def run(codes):
     results = await aiometer.run_all([partial(query,c) for c in codes], max_per_second=.2, max_at_once=5)
     return results
 
-def calcAccuracy(codes):
+def calc_accuracy(codes):
     '''calculates accuracy based on outputs from query
-    >>> calcAccuracy([{'code': ('argmax "Q: Fill in the missing words: Italia ~ Europa est; Graecia ~ in Europa est. '
+    >>> calc_accuracy([{'code': ('argmax "Q: Fill in the missing words: Italia ~ Europa est; Graecia ~ in Europa est. '
     ...                 'Answer Choices: (A) in quoque (B) ne non (C) ubi (D) non sed '
     ...                 'A: [ANSWER]" from "openai/text-davinci-003" where ANSWER in ["A", "B","C", "D"]'),'answer': 'A'}, {'code': ('argmax' 
     ...                 '"Q: Fill in the missing words: ~ est Arabia? In Asia est Arabia. '
     ...                 'Answer Choices: (A) in quoque (B) ne non (C) ubi (D) non sed '
     ...                 'A: [ANSWER]" from "openai/text-davinci-003" where ANSWER in ["A", "B","C", "D"]'),'answer':'C'}])
     0.5
-    >>> calcAccuracy([{'code': ('argmax "Q: Fill in the tilde: Italia in Europa ~. '
+    >>> calc_accuracy([{'code': ('argmax "Q: Fill in the tilde: Italia in Europa ~. '
     ...                 'Answer Choices: (A) est (B) sunt '
     ...                 'A: [ANSWER]" from "openai/text-davinci-003" where ANSWER in ["A", "B"]'),'answer': 'A'}, {'code': ('argmax'
     ...                 '"Q: Fill in the tilde: Italia et Gallia in Europa ~. '
@@ -53,11 +53,11 @@ def main():
     file_path = Path.cwd()/parser.parse_args().second_argument
     with file_path.open(mode='r',encoding="utf-8") as f:
         data = json.load(f)
-    infoList = file_path.stem.split(".")
+    info_list = file_path.stem.split(".")
     
-    jsonName = ".".join([infoList[2], infoList[0], infoList[1], infoList[3],  parser.parse_args().third_argument])
-    with open("results/" + jsonName + ".json", "w") as outfile:
-        outfile.write(str(calcAccuracy(data["codes"])))
+    json_name = ".".join([info_list[2], info_list[0], info_list[1], info_list[3],  parser.parse_args().third_argument])
+    with open("results/" + json_name + ".json", "w") as outfile:
+        outfile.write(str(calc_accuracy(data["codes"])))
 
 if __name__ == "__main__":
     main()

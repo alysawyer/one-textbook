@@ -56,6 +56,9 @@ def main():
    
 
     parser.add_argument('third_argument')
+
+    print(Path.cwd()/parser.parse_args().second_argument,parser.parse_args().third_argument)
+    
     file_path = Path.cwd()/parser.parse_args().second_argument
     with file_path.open(mode='r',encoding="utf-8") as f:
         data = json.load(f)

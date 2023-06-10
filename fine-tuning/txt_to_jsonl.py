@@ -20,5 +20,5 @@ def generate_section_text(selected_capitvlvms):
         for text in result:
             file.write(text + "\n")
 
-selected_sections = ["1"]  # Specify the section numbers here
+selected_sections = [1,2,3]  # Specify the section numbers here
 generate_section_text(selected_sections)

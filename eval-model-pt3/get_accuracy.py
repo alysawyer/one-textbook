@@ -49,24 +49,25 @@ def main():
     # opening json file
     parser = argparse.ArgumentParser()
     parser.add_argument('second_argument')
+
     file_path = Path.cwd()/parser.parse_args().second_argument
     with file_path.open(mode='r',encoding="utf-8") as f:
          data = json.load(f)
-    print(calc_accuracy(data["codes"]))
-   
 
-    parser.add_argument('third_argument')
-
-    print(Path.cwd()/parser.parse_args().second_argument,parser.parse_args().third_argument)
+    # parser.add_argument('third_argument')
+    # print(Path.cwd()/parser.parse_args().second_argument,parser.parse_args().third_argument)
     
     file_path = Path.cwd()/parser.parse_args().second_argument
     with file_path.open(mode='r',encoding="utf-8") as f:
         data = json.load(f)
-    info_list = file_path.stem.split(".")
+    info_list = parser.parse_args().second_argument.split(".")
+
     
-    json_name = ".".join([info_list[2], info_list[0], info_list[1], info_list[3],  parser.parse_args().third_argument])
-    with open("results/" + json_name + ".json", "w") as outfile:
-        outfile.write(str(calc_accuracy(data["codes"])))
+    json_name = ".".join([info_list[3], info_list[1], info_list[2], info_list[0].split("/")[1], info_list[4]])
+    
+    print(json_name)
+    with open("results/" + json_name, "w") as outfile:
+         outfile.write(str(calc_accuracy(data["codes"])))
 
 if __name__ == "__main__":
     main()

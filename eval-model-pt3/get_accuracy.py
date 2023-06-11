@@ -61,9 +61,9 @@ def main():
     with file_path.open(mode='r',encoding="utf-8") as f:
         data = json.load(f)
     info_list = parser.parse_args().second_argument.split(".")
-
+    print(info_list)
     
-    json_name = ".".join([info_list[3], info_list[1], info_list[2], info_list[0].split("/")[1], info_list[4]])
+    json_name = ".".join([info_list[0].split("/")[2], info_list[3], info_list[1], info_list[2], info_list[0].split("/")[1], info_list[4]])
     
     print(json_name)
     with open("results/" + json_name, "w") as outfile:

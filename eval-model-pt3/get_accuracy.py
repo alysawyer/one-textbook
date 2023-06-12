@@ -66,7 +66,7 @@ def main():
     json_name = ".".join([info_list[0].split("/")[2], info_list[3], info_list[1], info_list[2], info_list[0].split("/")[1], info_list[4]])
     
     print(json_name)
-    with open("results/" + json_name, "w") as outfile:
+    with open("results-capV/" + json_name, "w") as outfile:
          outfile.write(str(calc_accuracy(data["codes"])))
 
 if __name__ == "__main__":

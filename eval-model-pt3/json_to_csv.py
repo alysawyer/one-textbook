@@ -1,7 +1,6 @@
 import pandas as pd 
 import matplotlib.pyplot as plt
 import os
-# text-ada-001.capitvlvm_1.style1.quizTypeA.json
 
 roman_to_decimal = {
     'I': 1,
@@ -70,34 +69,34 @@ df = pd.DataFrame(data, columns=["model", "chapter", "style", "quiz_type", "ques
 df['chapter'] = df['chapter'].str.split('_').str[1].map(roman_to_decimal)
 print(df)
 # pivoting to make specific tables
-
+output_directory = "results-formatted/"
 # model chapter table
 pivot_df_model_chapter = create_pivot_table(df, 'model', 'chapter', 'accuracy')
-pivot_df_model_chapter.to_csv('results-model-chapter.csv')
+pivot_df_model_chapter.to_csv(output_directory + 'results-model-chapter.csv')
 
 # model chapter plot
 pivot_df_model_chapter.T.plot(kind='line').set(xlabel='Chapter', ylabel='Accuracy', title='Accuracy per model and chapter')
 plt.legend(title='Model', loc='upper right')
-plt.savefig('model_chap.png')
+plt.savefig(output_directory + 'model_chap.png')
 
 # prompt quiz type table fixing ada
 ada_df = df[df['model'] == 'text-ada-001']
 
 pivot_df_style_quiztype = create_pivot_table(ada_df, 'style', 'quiz_type', 'accuracy')
-pivot_df_style_quiztype.to_csv('results-style-quiz_type-ada.csv')
+pivot_df_style_quiztype.to_csv(output_directory + 'results-style-quiz_type-ada.csv')
 
 # question_type model table
 pivot_df_model_question_type = create_pivot_table(df, 'model', 'question_type', 'accuracy')
-pivot_df_model_question_type.to_csv('results-model-questionType.csv')
+pivot_df_model_question_type.to_csv(output_directory + 'results-model-questionType.csv')
 
 # chapter quiz type table
 pivot_df_chapter_quiztype = create_pivot_table(df, 'chapter', 'quiz_type', 'accuracy')
-pivot_df_chapter_quiztype.to_csv('results-chapter-quiz_type.csv')
+pivot_df_chapter_quiztype.to_csv(output_directory + 'results-chapter-quiz_type.csv')
 
 # prompt style accuracy
 pivot_df_model_style = create_pivot_table(df, 'model', 'style', 'accuracy')
-pivot_df_model_style.to_csv('results-model-style.csv')
+pivot_df_model_style.to_csv(output_directory + 'results-model-style.csv')
 
 pivot_df_model_style.T.plot(kind='bar').set(xlabel='Style', ylabel='Accuracy', title='Accuracy per model and prompt style')
 plt.legend(title='Model', loc='upper right')
-plt.savefig('model_style.png')
+plt.savefig(output_directory + 'model_style.png')

@@ -1,5 +1,6 @@
 import re
 import json
+import os
 
 def dict_to_jsonl(dictionary, file_path):
     ''' converts the dictionary to jsonl format for openai api'''
@@ -106,12 +107,18 @@ def every_char_replacement(input_string, num_chars_removed):
     return result_dict
 
 
-file_path = "input.txt" #TODO: make more generic 
+folder_path = "../data/llpsi"
+selected_capitvlvms = [1]
 output_dict = {}
-with open(file_path, 'r') as file:
-        for line in file:
-            if not line.startswith("#"):
-                output_dict.update(whole_word_replacement(line.rstrip("\n")))
-                output_dict.update(suffix_replacement(line.rstrip("\n")))
 
-dict_to_jsonl(output_dict, "output.jsonl") #TODO: give better output name
+for filename in os.listdir(folder_path):
+    if "section" in filename:
+        capitvlvm_number = filename.split(".")[0].split("_")[1]
+        if int(capitvlvm_number) in selected_capitvlvms and "en" not in filename:
+            with open(os.path.join(folder_path, filename), "r") as file:
+                for line in file:
+                    if not line.startswith("#"):
+                        output_dict.update(whole_word_replacement(line.rstrip("\n")))
+                        output_dict.update(suffix_replacement(line.rstrip("\n")))
+
+                dict_to_jsonl(output_dict, "ch" + capitvlvm_number + "_ quizzes.jsonl") #TODO: give better output

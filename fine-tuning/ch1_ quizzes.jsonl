@@ -1,0 +1,953 @@
+{"prompt": "~ et II numeri sunt.", "completion": "I"}
+{"prompt": "I ~ II numeri sunt.", "completion": "et"}
+{"prompt": "I et ~ numeri sunt.", "completion": "II"}
+{"prompt": "I et II ~ sunt.", "completion": "numeri"}
+{"prompt": "I et II numeri ~.", "completion": "sunt"}
+{"prompt": "I et II numer~ sunt.", "completion": "i"}
+{"prompt": "~ quoque numerus est.", "completion": "III"}
+{"prompt": "III ~ numerus est.", "completion": "quoque"}
+{"prompt": "III quoque ~ est.", "completion": "numerus"}
+{"prompt": "III quoque numerus ~.", "completion": "est"}
+{"prompt": "III quoqu~ numerus est.", "completion": "e"}
+{"prompt": "III quoque numer~ est.", "completion": "us"}
+{"prompt": "~, II, III numeri Romani sunt.", "completion": "I"}
+{"prompt": "I, ~, III numeri Romani sunt.", "completion": "II"}
+{"prompt": "I, II, ~ numeri Romani sunt.", "completion": "III"}
+{"prompt": "I, II, III ~ Romani sunt.", "completion": "numeri"}
+{"prompt": "I, II, III numeri ~ sunt.", "completion": "Romani"}
+{"prompt": "I, II, III numeri Romani ~.", "completion": "sunt"}
+{"prompt": "I, II, III numer~ Romani sunt.", "completion": "i"}
+{"prompt": "I, II, III numeri Roman~ sunt.", "completion": "i"}
+{"prompt": "~ et II sunt parvi numeri.", "completion": "I"}
+{"prompt": "I ~ II sunt parvi numeri.", "completion": "et"}
+{"prompt": "I et ~ sunt parvi numeri.", "completion": "II"}
+{"prompt": "I et II ~ parvi numeri.", "completion": "sunt"}
+{"prompt": "I et II sunt ~ numeri.", "completion": "parvi"}
+{"prompt": "I et II sunt parvi ~.", "completion": "numeri"}
+{"prompt": "I et II sunt parv~ numeri.", "completion": "i"}
+{"prompt": "I et II sunt parvi numer~.", "completion": "i"}
+{"prompt": "~ magnus numerus est.", "completion": "_CIC"}
+{"prompt": "_CIC ~ numerus est.", "completion": "magnus"}
+{"prompt": "_CIC magnus ~ est.", "completion": "numerus"}
+{"prompt": "_CIC magnus numerus ~.", "completion": "est"}
+{"prompt": "_CIC magn~ numerus est.", "completion": "us"}
+{"prompt": "_CIC magnus numer~ est.", "completion": "us"}
+{"prompt": "~ et B litterae sunt.", "completion": "A"}
+{"prompt": "A ~ B litterae sunt.", "completion": "et"}
+{"prompt": "A et ~ litterae sunt.", "completion": "B"}
+{"prompt": "A et B ~ sunt.", "completion": "litterae"}
+{"prompt": "A et B litterae ~.", "completion": "sunt"}
+{"prompt": "A et B litter~ sunt.", "completion": "ae"}
+{"prompt": "~ quoque littera est.", "completion": "C"}
+{"prompt": "C ~ littera est.", "completion": "quoque"}
+{"prompt": "C quoque ~ est.", "completion": "littera"}
+{"prompt": "C quoque littera ~.", "completion": "est"}
+{"prompt": "C quoqu~ littera est.", "completion": "e"}
+{"prompt": "C quoque litter~ est.", "completion": "a"}
+{"prompt": "~, B, C sunt tres litterae.", "completion": "A"}
+{"prompt": "A, ~, C sunt tres litterae.", "completion": "B"}
+{"prompt": "A, B, ~ sunt tres litterae.", "completion": "C"}
+{"prompt": "A, B, C ~ tres litterae.", "completion": "sunt"}
+{"prompt": "A, B, C sunt ~ litterae.", "completion": "tres"}
+{"prompt": "A, B, C sunt tres ~.", "completion": "litterae"}
+{"prompt": "A, B, C sunt tr~ litterae.", "completion": "es"}
+{"prompt": "A, B, C sunt tres litter~.", "completion": "ae"}
+{"prompt": "~ est littera prima (I), B littera secunda (II), C littera tertia (III).", "completion": "A"}
+{"prompt": "A ~ littera prima (I), B littera secunda (II), C littera tertia (III).", "completion": "est"}
+{"prompt": "A est ~ prima (I), B littera secunda (II), C littera tertia (III).", "completion": "littera"}
+{"prompt": "A est littera ~ (I), B littera secunda (II), C littera tertia (III).", "completion": "prima"}
+{"prompt": "A est littera prima (~), B littera secunda (II), C littera tertia (III).", "completion": "I"}
+{"prompt": "A est littera prima (I), ~ littera secunda (II), C littera tertia (III).", "completion": "B"}
+{"prompt": "A est littera prima (I), B littera ~ (II), C littera tertia (III).", "completion": "secunda"}
+{"prompt": "A est littera prima (I), B littera secunda (~), C littera tertia (III).", "completion": "II"}
+{"prompt": "A est littera prima (I), B littera secunda (II), ~ littera tertia (III).", "completion": "C"}
+{"prompt": "A est littera prima (I), B littera secunda (II), C littera ~ (III).", "completion": "tertia"}
+{"prompt": "A est littera prima (I), B littera secunda (II), C littera tertia (~).", "completion": "III"}
+{"prompt": "A est litter~ prima (I), B littera secunda (II), C littera tertia (III).", "completion": "a"}
+{"prompt": "A est littera prim~ (I), B littera secunda (II), C littera tertia (III).", "completion": "a"}
+{"prompt": "A est littera prima (I), B littera secund~ (II), C littera tertia (III).", "completion": "a"}
+{"prompt": "A est littera prima (I), B littera secunda (II), C littera terti~ (III).", "completion": "a"}
+{"prompt": "~ littera Graeca est.", "completion": "_Gamma"}
+{"prompt": "_Gamma ~ Graeca est.", "completion": "littera"}
+{"prompt": "_Gamma littera ~ est.", "completion": "Graeca"}
+{"prompt": "_Gamma littera Graeca ~.", "completion": "est"}
+{"prompt": "_Gamm~ littera Graeca est.", "completion": "a"}
+{"prompt": "_Gamma litter~ Graeca est.", "completion": "a"}
+{"prompt": "_Gamma littera Graec~ est.", "completion": "a"}
+{"prompt": "~ est littera Latina.", "completion": "C"}
+{"prompt": "C ~ littera Latina.", "completion": "est"}
+{"prompt": "C est ~ Latina.", "completion": "littera"}
+{"prompt": "C est littera ~.", "completion": "Latina"}
+{"prompt": "C est litter~ Latina.", "completion": "a"}
+{"prompt": "C est littera Latin~.", "completion": "a"}
+{"prompt": "~ et D litterae Latinae sunt.", "completion": "C"}
+{"prompt": "C ~ D litterae Latinae sunt.", "completion": "et"}
+{"prompt": "C et ~ litterae Latinae sunt.", "completion": "D"}
+{"prompt": "C et D ~ Latinae sunt.", "completion": "litterae"}
+{"prompt": "C et D litterae ~ sunt.", "completion": "Latinae"}
+{"prompt": "C et D litterae Latinae ~.", "completion": "sunt"}
+{"prompt": "C et D litter~ Latinae sunt.", "completion": "ae"}
+{"prompt": "C et D litterae Latin~ sunt.", "completion": "ae"}
+{"prompt": "~ et _Delta sunt litterae Graecae.", "completion": "_Gamma"}
+{"prompt": "_Gamma ~ _Delta sunt litterae Graecae.", "completion": "et"}
+{"prompt": "_Gamma et ~ sunt litterae Graecae.", "completion": "_Delta"}
+{"prompt": "_Gamma et _Delta ~ litterae Graecae.", "completion": "sunt"}
+{"prompt": "_Gamma et _Delta sunt ~ Graecae.", "completion": "litterae"}
+{"prompt": "_Gamma et _Delta sunt litterae ~.", "completion": "Graecae"}
+{"prompt": "_Gamm~ et _Delta sunt litterae Graecae.", "completion": "a"}
+{"prompt": "_Gamma et _Delt~ sunt litterae Graecae.", "completion": "a"}
+{"prompt": "_Gamma et _Delta sunt litter~ Graecae.", "completion": "ae"}
+{"prompt": "_Gamma et _Delta sunt litterae Graec~.", "completion": "ae"}
+{"prompt": "*~* et *oppidum* vocabula Latina sunt.", "completion": "Fluvius"}
+{"prompt": "*Fluvius* ~ *oppidum* vocabula Latina sunt.", "completion": "et"}
+{"prompt": "*Fluvius* et *~* vocabula Latina sunt.", "completion": "oppidum"}
+{"prompt": "*Fluvius* et *oppidum* ~ Latina sunt.", "completion": "vocabula"}
+{"prompt": "*Fluvius* et *oppidum* vocabula ~ sunt.", "completion": "Latina"}
+{"prompt": "*Fluvius* et *oppidum* vocabula Latina ~.", "completion": "sunt"}
+{"prompt": "*Fluvi~* et *oppidum* vocabula Latina sunt.", "completion": "us"}
+{"prompt": "*Fluvius* et *oppid~* vocabula Latina sunt.", "completion": "um"}
+{"prompt": "*Fluvius* et *oppidum* vocabul~ Latina sunt.", "completion": "a"}
+{"prompt": "*Fluvius* et *oppidum* vocabula Latin~ sunt.", "completion": "a"}
+{"prompt": "*~* quoque vocabulum Latinum est.", "completion": "Ubi"}
+{"prompt": "*Ubi* ~ vocabulum Latinum est.", "completion": "quoque"}
+{"prompt": "*Ubi* quoque ~ Latinum est.", "completion": "vocabulum"}
+{"prompt": "*Ubi* quoque vocabulum ~ est.", "completion": "Latinum"}
+{"prompt": "*Ubi* quoque vocabulum Latinum ~.", "completion": "est"}
+{"prompt": "*Ub~* quoque vocabulum Latinum est.", "completion": "i"}
+{"prompt": "*Ubi* quoqu~ vocabulum Latinum est.", "completion": "e"}
+{"prompt": "*Ubi* quoque vocabul~ Latinum est.", "completion": "um"}
+{"prompt": "*Ubi* quoque vocabulum Latin~ est.", "completion": "um"}
+{"prompt": "~ vocabulo *ubi* sunt tres litterae.", "completion": "In"}
+{"prompt": "In ~ *ubi* sunt tres litterae.", "completion": "vocabulo"}
+{"prompt": "In vocabulo *~* sunt tres litterae.", "completion": "ubi"}
+{"prompt": "In vocabulo *ubi* ~ tres litterae.", "completion": "sunt"}
+{"prompt": "In vocabulo *ubi* sunt ~ litterae.", "completion": "tres"}
+{"prompt": "In vocabulo *ubi* sunt tres ~.", "completion": "litterae"}
+{"prompt": "In vocabulo *ub~* sunt tres litterae.", "completion": "i"}
+{"prompt": "In vocabulo *ubi* sunt tr~ litterae.", "completion": "es"}
+{"prompt": "In vocabulo *ubi* sunt tres litter~.", "completion": "ae"}
+{"prompt": "~ capitulo primo mille vocabula sunt.", "completion": "In"}
+{"prompt": "In ~ primo mille vocabula sunt.", "completion": "capitulo"}
+{"prompt": "In capitulo ~ mille vocabula sunt.", "completion": "primo"}
+{"prompt": "In capitulo primo ~ vocabula sunt.", "completion": "mille"}
+{"prompt": "In capitulo primo mille ~ sunt.", "completion": "vocabula"}
+{"prompt": "In capitulo primo mille vocabula ~.", "completion": "sunt"}
+{"prompt": "In capitulo primo mill~ vocabula sunt.", "completion": "e"}
+{"prompt": "In capitulo primo mille vocabul~ sunt.", "completion": "a"}
+{"prompt": "~ vocabulo *insula* sex litterae et tres syllabae sunt: syllaba prima *in-*, secunda *-su-*, tertia *-la*.", "completion": "In"}
+{"prompt": "In ~ *insula* sex litterae et tres syllabae sunt: syllaba prima *in-*, secunda *-su-*, tertia *-la*.", "completion": "vocabulo"}
+{"prompt": "In vocabulo *~* sex litterae et tres syllabae sunt: syllaba prima *in-*, secunda *-su-*, tertia *-la*.", "completion": "insula"}
+{"prompt": "In vocabulo *insula* ~ litterae et tres syllabae sunt: syllaba prima *in-*, secunda *-su-*, tertia *-la*.", "completion": "sex"}
+{"prompt": "In vocabulo *insula* sex ~ et tres syllabae sunt: syllaba prima *in-*, secunda *-su-*, tertia *-la*.", "completion": "litterae"}
+{"prompt": "In vocabulo *insula* sex litterae ~ tres syllabae sunt: syllaba prima *in-*, secunda *-su-*, tertia *-la*.", "completion": "et"}
+{"prompt": "In vocabulo *insula* sex litterae et ~ syllabae sunt: syllaba prima *in-*, secunda *-su-*, tertia *-la*.", "completion": "tres"}
+{"prompt": "In vocabulo *insula* sex litterae et tres ~ sunt: syllaba prima *in-*, secunda *-su-*, tertia *-la*.", "completion": "syllabae"}
+{"prompt": "In vocabulo *insula* sex litterae et tres syllabae ~: syllaba prima *in-*, secunda *-su-*, tertia *-la*.", "completion": "sunt"}
+{"prompt": "In vocabulo *insula* sex litterae et tres syllabae sunt: ~ prima *in-*, secunda *-su-*, tertia *-la*.", "completion": "syllaba"}
+{"prompt": "In vocabulo *insula* sex litterae et tres syllabae sunt: syllaba ~ *in-*, secunda *-su-*, tertia *-la*.", "completion": "prima"}
+{"prompt": "In vocabulo *insula* sex litterae et tres syllabae sunt: syllaba prima *~-*, secunda *-su-*, tertia *-la*.", "completion": "in"}
+{"prompt": "In vocabulo *insula* sex litterae et tres syllabae sunt: syllaba prima *in-*, ~ *-su-*, tertia *-la*.", "completion": "secunda"}
+{"prompt": "In vocabulo *insula* sex litterae et tres syllabae sunt: syllaba prima *in-*, secunda *-~-*, tertia *-la*.", "completion": "su"}
+{"prompt": "In vocabulo *insula* sex litterae et tres syllabae sunt: syllaba prima *in-*, secunda *-su-*, ~ *-la*.", "completion": "tertia"}
+{"prompt": "In vocabulo *insula* sex litterae et tres syllabae sunt: syllaba prima *in-*, secunda *-su-*, tertia *-~*.", "completion": "la"}
+{"prompt": "In vocabulo *insul~* sex litterae et tres syllabae sunt: syllaba prima *in-*, secunda *-su-*, tertia *-la*.", "completion": "a"}
+{"prompt": "In vocabulo *insula* sex litter~ et tres syllabae sunt: syllaba prima *in-*, secunda *-su-*, tertia *-la*.", "completion": "ae"}
+{"prompt": "In vocabulo *insula* sex litterae et tr~ syllabae sunt: syllaba prima *in-*, secunda *-su-*, tertia *-la*.", "completion": "es"}
+{"prompt": "In vocabulo *insula* sex litterae et tres syllab~ sunt: syllaba prima *in-*, secunda *-su-*, tertia *-la*.", "completion": "ae"}
+{"prompt": "In vocabulo *insula* sex litterae et tres syllabae sunt: syllab~ prima *in-*, secunda *-su-*, tertia *-la*.", "completion": "a"}
+{"prompt": "In vocabulo *insula* sex litterae et tres syllabae sunt: syllaba prim~ *in-*, secunda *-su-*, tertia *-la*.", "completion": "a"}
+{"prompt": "In vocabulo *insula* sex litterae et tres syllabae sunt: syllaba prima *in-*, secund~ *-su-*, tertia *-la*.", "completion": "a"}
+{"prompt": "In vocabulo *insula* sex litterae et tres syllabae sunt: syllaba prima *in-*, secunda *-su-*, terti~ *-la*.", "completion": "a"}
+{"prompt": "In vocabulo *insula* sex litterae et tres syllabae sunt: syllaba prima *in-*, secunda *-su-*, tertia *-l~*.", "completion": "a"}
+{"prompt": "~ vocabulo *non* sunt tres litterae et una syllaba.", "completion": "In"}
+{"prompt": "In ~ *non* sunt tres litterae et una syllaba.", "completion": "vocabulo"}
+{"prompt": "In vocabulo *~* sunt tres litterae et una syllaba.", "completion": "non"}
+{"prompt": "In vocabulo *non* ~ tres litterae et una syllaba.", "completion": "sunt"}
+{"prompt": "In vocabulo *non* sunt ~ litterae et una syllaba.", "completion": "tres"}
+{"prompt": "In vocabulo *non* sunt tres ~ et una syllaba.", "completion": "litterae"}
+{"prompt": "In vocabulo *non* sunt tres litterae ~ una syllaba.", "completion": "et"}
+{"prompt": "In vocabulo *non* sunt tres litterae et ~ syllaba.", "completion": "una"}
+{"prompt": "In vocabulo *non* sunt tres litterae et una ~.", "completion": "syllaba"}
+{"prompt": "In vocabulo *non* sunt tr~ litterae et una syllaba.", "completion": "es"}
+{"prompt": "In vocabulo *non* sunt tres litter~ et una syllaba.", "completion": "ae"}
+{"prompt": "In vocabulo *non* sunt tres litterae et un~ syllaba.", "completion": "a"}
+{"prompt": "In vocabulo *non* sunt tres litterae et una syllab~.", "completion": "a"}
+{"prompt": "~ est III?", "completion": "Quid"}
+{"prompt": "Quid ~ III?", "completion": "est"}
+{"prompt": "Quid est ~?", "completion": "Sparta"}
+{"prompt": "~ numerus Romanus est.", "completion": "III"}
+{"prompt": "III ~ Romanus est.", "completion": "numerus"}
+{"prompt": "III numerus ~ est.", "completion": "Romanus"}
+{"prompt": "III numerus Romanus ~.", "completion": "est"}
+{"prompt": "III numer~ Romanus est.", "completion": "us"}
+{"prompt": "III numerus Roman~ est.", "completion": "us"}
+{"prompt": "~ quid est?", "completion": "Rhenus"}
+{"prompt": "_Gamma ~ est?", "completion": "quid"}
+{"prompt": "_Gamma quid ~?", "completion": "est"}
+{"prompt": "_Gamm~ quid est?", "completion": "a"}
+{"prompt": "~ C littera Graeca est?", "completion": "Num"}
+{"prompt": "Num ~ littera Graeca est?", "completion": "C"}
+{"prompt": "Num C ~ Graeca est?", "completion": "littera"}
+{"prompt": "Num C littera ~ est?", "completion": "Graeca"}
+{"prompt": "Num C littera Graeca ~?", "completion": "est"}
+{"prompt": "N~ C littera Graeca est?", "completion": "um"}
+{"prompt": "Num C litter~ Graeca est?", "completion": "a"}
+{"prompt": "Num C littera Graec~ est?", "completion": "a"}
+{"prompt": "~ littera Graeca, sed littera Latina est C.", "completion": "Non"}
+{"prompt": "Non ~ Graeca, sed littera Latina est C.", "completion": "littera"}
+{"prompt": "Non littera ~, sed littera Latina est C.", "completion": "Graeca"}
+{"prompt": "Non littera Graeca, ~ littera Latina est C.", "completion": "sed"}
+{"prompt": "Non littera Graeca, sed littera ~ est C.", "completion": "Latina"}
+{"prompt": "Non littera Graeca, sed littera Latina ~ C.", "completion": "est"}
+{"prompt": "Non littera Graeca, sed littera Latina est ~.", "completion": "C"}
+{"prompt": "Non litter~ Graeca, sed littera Latina est C.", "completion": "a"}
+{"prompt": "Non littera Graec~, sed littera Latina est C.", "completion": "a"}
+{"prompt": "Non littera Graeca, sed littera Latin~ est C.", "completion": "a"}
+{"prompt": "~ B littera prima?", "completion": "Estne"}
+{"prompt": "Estne ~ littera prima?", "completion": "B"}
+{"prompt": "Estne B ~ prima?", "completion": "littera"}
+{"prompt": "Estne B littera ~?", "completion": "prima"}
+{"prompt": "Estn~ B littera prima?", "completion": "e"}
+{"prompt": "Estne B litter~ prima?", "completion": "a"}
+{"prompt": "Estne B littera prim~?", "completion": "a"}
+{"prompt": "~ non littera prima, sed secunda est.", "completion": "B"}
+{"prompt": "B ~ littera prima, sed secunda est.", "completion": "non"}
+{"prompt": "B non ~ prima, sed secunda est.", "completion": "littera"}
+{"prompt": "B non littera ~, sed secunda est.", "completion": "prima"}
+{"prompt": "B non littera prima, ~ secunda est.", "completion": "sed"}
+{"prompt": "B non littera prima, sed ~ est.", "completion": "secunda"}
+{"prompt": "B non littera prima, sed secunda ~.", "completion": "est"}
+{"prompt": "B non litter~ prima, sed secunda est.", "completion": "a"}
+{"prompt": "B non littera prim~, sed secunda est.", "completion": "a"}
+{"prompt": "B non littera prima, sed secund~ est.", "completion": "a"}
+{"prompt": "~ est *non*?", "completion": "Quid"}
+{"prompt": "Quid ~ *non*?", "completion": "est"}
+{"prompt": "Quid est *~*?", "completion": "non"}
+{"prompt": "*~* est vocabulum Latinum.", "completion": "Non"}
+{"prompt": "*Non* ~ vocabulum Latinum.", "completion": "est"}
+{"prompt": "*Non* est ~ Latinum.", "completion": "vocabulum"}
+{"prompt": "*Non* est vocabulum ~.", "completion": "Latinum"}
+{"prompt": "*Non* est vocabul~ Latinum.", "completion": "um"}
+{"prompt": "*Non* est vocabulum Latin~.", "completion": "um"}
+{"prompt": "*~*, *sed*, *magnus*, *numerus* vocabula Latina sunt.", "completion": "Non"}
+{"prompt": "*Non*, *~*, *magnus*, *numerus* vocabula Latina sunt.", "completion": "sed"}
+{"prompt": "*Non*, *sed*, *~*, *numerus* vocabula Latina sunt.", "completion": "magnus"}
+{"prompt": "*Non*, *sed*, *magnus*, *~* vocabula Latina sunt.", "completion": "numerus"}
+{"prompt": "*Non*, *sed*, *magnus*, *numerus* ~ Latina sunt.", "completion": "vocabula"}
+{"prompt": "*Non*, *sed*, *magnus*, *numerus* vocabula ~ sunt.", "completion": "Latina"}
+{"prompt": "*Non*, *sed*, *magnus*, *numerus* vocabula Latina ~.", "completion": "sunt"}
+{"prompt": "*Non*, *sed*, *magn~*, *numerus* vocabula Latina sunt.", "completion": "us"}
+{"prompt": "*Non*, *sed*, *magnus*, *numer~* vocabula Latina sunt.", "completion": "us"}
+{"prompt": "*Non*, *sed*, *magnus*, *numerus* vocabul~ Latina sunt.", "completion": "a"}
+{"prompt": "*Non*, *sed*, *magnus*, *numerus* vocabula Latin~ sunt.", "completion": "a"}
+{"prompt": "*~* quoque vocabulum Latinum est!", "completion": "Vocabulum"}
+{"prompt": "*Vocabulum* ~ vocabulum Latinum est!", "completion": "quoque"}
+{"prompt": "*Vocabulum* quoque ~ Latinum est!", "completion": "vocabulum"}
+{"prompt": "*Vocabulum* quoque vocabulum ~ est!", "completion": "Latinum"}
+{"prompt": "*Vocabulum* quoque vocabulum Latinum ~!", "completion": "est"}
+{"prompt": "*Vocabul~* quoque vocabulum Latinum est!", "completion": "um"}
+{"prompt": "*Vocabulum* quoqu~ vocabulum Latinum est!", "completion": "e"}
+{"prompt": "*Vocabulum* quoque vocabul~ Latinum est!", "completion": "um"}
+{"prompt": "*Vocabulum* quoque vocabulum Latin~ est!", "completion": "um"}
+{"prompt": "~ in Italia est.", "completion": "Roma"}
+{"prompt": "Roma ~ Italia est.", "completion": "in"}
+{"prompt": "Roma in ~ est.", "completion": "Italia"}
+{"prompt": "Roma in Italia ~.", "completion": "est"}
+{"prompt": "Rom~ in Italia est.", "completion": "a"}
+{"prompt": "Roma in Itali~ est.", "completion": "a"}
+{"prompt": "~ in Europa est.", "completion": "Italia"}
+{"prompt": "Italia ~ Europa est.", "completion": "in"}
+{"prompt": "Italia in ~ est.", "completion": "Europa"}
+{"prompt": "Italia in Europa ~.", "completion": "est"}
+{"prompt": "Itali~ in Europa est.", "completion": "a"}
+{"prompt": "Italia in Europ~ est.", "completion": "a"}
+{"prompt": "Graecia ~ Europa est.", "completion": "in"}
+{"prompt": "Graecia in ~ est.", "completion": "Europa"}
+{"prompt": "Graecia in Europa ~.", "completion": "est"}
+{"prompt": "Graeci~ in Europa est.", "completion": "a"}
+{"prompt": "Graecia in Europ~ est.", "completion": "a"}
+{"prompt": "~ et Graecia in Europa sunt.", "completion": "Italia"}
+{"prompt": "Italia ~ Graecia in Europa sunt.", "completion": "et"}
+{"prompt": "Italia et ~ in Europa sunt.", "completion": "Graecia"}
+{"prompt": "Italia et Graecia ~ Europa sunt.", "completion": "in"}
+{"prompt": "Italia et Graecia in ~ sunt.", "completion": "Europa"}
+{"prompt": "Italia et Graecia in Europa ~.", "completion": "sunt"}
+{"prompt": "Itali~ et Graecia in Europa sunt.", "completion": "a"}
+{"prompt": "Italia et Graeci~ in Europa sunt.", "completion": "a"}
+{"prompt": "Italia et Graecia in Europ~ sunt.", "completion": "a"}
+{"prompt": "~ quoque in Europa est.", "completion": "Britannia"}
+{"prompt": "Hispania ~ in Europa est.", "completion": "quoque"}
+{"prompt": "Hispania quoque ~ Europa est.", "completion": "in"}
+{"prompt": "Hispania quoque in ~ est.", "completion": "Europa"}
+{"prompt": "Hispania quoque in Europa ~.", "completion": "est"}
+{"prompt": "Hispani~ quoque in Europa est.", "completion": "a"}
+{"prompt": "Hispania quoqu~ in Europa est.", "completion": "e"}
+{"prompt": "Hispania quoque in Europ~ est.", "completion": "a"}
+{"prompt": "~ et Italia et Graecia in Europa sunt.", "completion": "Hispania"}
+{"prompt": "Hispania ~ Italia et Graecia in Europa sunt.", "completion": "et"}
+{"prompt": "Hispania et ~ et Graecia in Europa sunt.", "completion": "Italia"}
+{"prompt": "Hispania et Italia et ~ in Europa sunt.", "completion": "Graecia"}
+{"prompt": "Hispania et Italia et Graecia ~ Europa sunt.", "completion": "in"}
+{"prompt": "Hispania et Italia et Graecia in ~ sunt.", "completion": "Europa"}
+{"prompt": "Hispania et Italia et Graecia in Europa ~.", "completion": "sunt"}
+{"prompt": "Hispani~ et Italia et Graecia in Europa sunt.", "completion": "a"}
+{"prompt": "Hispania et Itali~ et Graecia in Europa sunt.", "completion": "a"}
+{"prompt": "Hispania et Italia et Graeci~ in Europa sunt.", "completion": "a"}
+{"prompt": "Hispania et Italia et Graecia in Europ~ sunt.", "completion": "a"}
+{"prompt": "~ in Europa non est, Aegyptus in Africa est.", "completion": "Aegyptus"}
+{"prompt": "Aegyptus ~ Europa non est, Aegyptus in Africa est.", "completion": "in"}
+{"prompt": "Aegyptus in ~ non est, Aegyptus in Africa est.", "completion": "Europa"}
+{"prompt": "Aegyptus in Europa ~ est, Aegyptus in Africa est.", "completion": "non"}
+{"prompt": "Aegyptus in Europa non ~, Aegyptus in Africa est.", "completion": "est"}
+{"prompt": "Aegyptus in Europa non est, Aegyptus in ~ est.", "completion": "Africa"}
+{"prompt": "Aegypt~ in Europa non est, Aegyptus in Africa est.", "completion": "us"}
+{"prompt": "Aegyptus in Europ~ non est, Aegyptus in Africa est.", "completion": "a"}
+{"prompt": "Aegyptus in Europa non est, Aegyptus in Afric~ est.", "completion": "a"}
+{"prompt": "~ non in Africa est, Gallia est in Europa.", "completion": "Gallia"}
+{"prompt": "Gallia ~ in Africa est, Gallia est in Europa.", "completion": "non"}
+{"prompt": "Gallia non ~ Africa est, Gallia est in Europa.", "completion": "in"}
+{"prompt": "Gallia non in ~ est, Gallia est in Europa.", "completion": "Africa"}
+{"prompt": "Gallia non in Africa ~, Gallia est in Europa.", "completion": "est"}
+{"prompt": "Gallia non in Africa est, Gallia est in ~.", "completion": "Europa"}
+{"prompt": "Galli~ non in Africa est, Gallia est in Europa.", "completion": "a"}
+{"prompt": "Gallia non in Afric~ est, Gallia est in Europa.", "completion": "a"}
+{"prompt": "Gallia non in Africa est, Gallia est in Europ~.", "completion": "a"}
+{"prompt": "~ non est in Europa, sed in Asia.", "completion": "Syria"}
+{"prompt": "Syria ~ est in Europa, sed in Asia.", "completion": "non"}
+{"prompt": "Syria non ~ in Europa, sed in Asia.", "completion": "est"}
+{"prompt": "Syria non est ~ Europa, sed in Asia.", "completion": "in"}
+{"prompt": "Syria non est in ~, sed in Asia.", "completion": "Europa"}
+{"prompt": "Syria non est in Europa, ~ in Asia.", "completion": "sed"}
+{"prompt": "Syria non est in Europa, sed in ~.", "completion": "Asia"}
+{"prompt": "Syri~ non est in Europa, sed in Asia.", "completion": "a"}
+{"prompt": "Syria non est in Europ~, sed in Asia.", "completion": "a"}
+{"prompt": "Syria non est in Europa, sed in Asi~.", "completion": "a"}
+{"prompt": "~ quoque in Asia est.", "completion": "Arabia"}
+{"prompt": "Arabia ~ in Asia est.", "completion": "quoque"}
+{"prompt": "Arabia quoque ~ Asia est.", "completion": "in"}
+{"prompt": "Arabia quoque in ~ est.", "completion": "Asia"}
+{"prompt": "Arabia quoque in Asia ~.", "completion": "est"}
+{"prompt": "Arabi~ quoque in Asia est.", "completion": "a"}
+{"prompt": "Arabia quoqu~ in Asia est.", "completion": "e"}
+{"prompt": "Arabia quoque in Asi~ est.", "completion": "a"}
+{"prompt": "~ et Arabia in Asia sunt.", "completion": "Syria"}
+{"prompt": "Syria ~ Arabia in Asia sunt.", "completion": "et"}
+{"prompt": "Syria et ~ in Asia sunt.", "completion": "Arabia"}
+{"prompt": "Syria et Arabia ~ Asia sunt.", "completion": "in"}
+{"prompt": "Syria et Arabia in ~ sunt.", "completion": "Asia"}
+{"prompt": "Syria et Arabia in Asia ~.", "completion": "sunt"}
+{"prompt": "Syri~ et Arabia in Asia sunt.", "completion": "a"}
+{"prompt": "Syria et Arabi~ in Asia sunt.", "completion": "a"}
+{"prompt": "Syria et Arabia in Asi~ sunt.", "completion": "a"}
+{"prompt": "~ non in Asia, sed Europa est.", "completion": "Germania"}
+{"prompt": "Germania ~ in Asia, sed Europa est.", "completion": "non"}
+{"prompt": "Germania non ~ Asia, sed Europa est.", "completion": "in"}
+{"prompt": "Germania non in ~, sed Europa est.", "completion": "Asia"}
+{"prompt": "Germania non in Asia, ~ Europa est.", "completion": "sed"}
+{"prompt": "Germania non in Asia, sed ~ est.", "completion": "Europa"}
+{"prompt": "Germania non in Asia, sed Europa ~.", "completion": "est"}
+{"prompt": "Germani~ non in Asia, sed Europa est.", "completion": "a"}
+{"prompt": "Germania non in Asi~, sed Europa est.", "completion": "a"}
+{"prompt": "Germania non in Asia, sed Europ~ est.", "completion": "a"}
+{"prompt": "Britannia ~ in Europa est.", "completion": "quoque"}
+{"prompt": "Britannia quoque ~ Europa est.", "completion": "in"}
+{"prompt": "Britannia quoque in ~ est.", "completion": "Europa"}
+{"prompt": "Britannia quoque in Europa ~.", "completion": "est"}
+{"prompt": "Britanni~ quoque in Europa est.", "completion": "a"}
+{"prompt": "Britannia quoqu~ in Europa est.", "completion": "e"}
+{"prompt": "Britannia quoque in Europ~ est.", "completion": "a"}
+{"prompt": "~ et Britannia sunt in Europa.", "completion": "Germania"}
+{"prompt": "Germania ~ Britannia sunt in Europa.", "completion": "et"}
+{"prompt": "Germania et ~ sunt in Europa.", "completion": "Britannia"}
+{"prompt": "Germania et Britannia ~ in Europa.", "completion": "sunt"}
+{"prompt": "Germania et Britannia sunt ~ Europa.", "completion": "in"}
+{"prompt": "Germania et Britannia sunt in ~.", "completion": "Europa"}
+{"prompt": "Germani~ et Britannia sunt in Europa.", "completion": "a"}
+{"prompt": "Germania et Britanni~ sunt in Europa.", "completion": "a"}
+{"prompt": "Germania et Britannia sunt in Europ~.", "completion": "a"}
+{"prompt": "~ Gallia in Europa?", "completion": "Estne"}
+{"prompt": "Estne ~ in Europa?", "completion": "Nilus"}
+{"prompt": "Estne Gallia ~ Europa?", "completion": "in"}
+{"prompt": "Estne Gallia in ~?", "completion": "Europa"}
+{"prompt": "Estn~ Gallia in Europa?", "completion": "e"}
+{"prompt": "Estne Galli~ in Europa?", "completion": "a"}
+{"prompt": "Estne Gallia in Europ~?", "completion": "a"}
+{"prompt": "Gallia ~ Europa est.", "completion": "in"}
+{"prompt": "Gallia in ~ est.", "completion": "Europa"}
+{"prompt": "Gallia in Europa ~.", "completion": "est"}
+{"prompt": "Galli~ in Europa est.", "completion": "a"}
+{"prompt": "Gallia in Europ~ est.", "completion": "a"}
+{"prompt": "~ Roma in Gallia?", "completion": "Estne"}
+{"prompt": "Estne ~ in Gallia?", "completion": "Roma"}
+{"prompt": "Estne Roma ~ Gallia?", "completion": "in"}
+{"prompt": "Estne Roma in ~?", "completion": "Gallia"}
+{"prompt": "Estn~ Roma in Gallia?", "completion": "e"}
+{"prompt": "Estne Rom~ in Gallia?", "completion": "a"}
+{"prompt": "Estne Roma in Galli~?", "completion": "a"}
+{"prompt": "~ in Gallia non est.", "completion": "Roma"}
+{"prompt": "Roma ~ Gallia non est.", "completion": "in"}
+{"prompt": "Roma in ~ non est.", "completion": "Gallia"}
+{"prompt": "Roma in Gallia ~ est.", "completion": "non"}
+{"prompt": "Roma in Gallia non ~.", "completion": "est"}
+{"prompt": "Rom~ in Gallia non est.", "completion": "a"}
+{"prompt": "Roma in Galli~ non est.", "completion": "a"}
+{"prompt": "~ est Roma?", "completion": "Ubi"}
+{"prompt": "Ubi ~ Roma?", "completion": "est"}
+{"prompt": "Ubi est ~?", "completion": "Sparta"}
+{"prompt": "Ub~ est Roma?", "completion": "i"}
+{"prompt": "Ubi est Rom~?", "completion": "a"}
+{"prompt": "~ est in Italia.", "completion": "Roma"}
+{"prompt": "Roma ~ in Italia.", "completion": "est"}
+{"prompt": "Roma est ~ Italia.", "completion": "in"}
+{"prompt": "Roma est in ~.", "completion": "Italia"}
+{"prompt": "Rom~ est in Italia.", "completion": "a"}
+{"prompt": "Roma est in Itali~.", "completion": "a"}
+{"prompt": "~ est Italia?", "completion": "Ubi"}
+{"prompt": "Ubi ~ Italia?", "completion": "est"}
+{"prompt": "Ub~ est Italia?", "completion": "i"}
+{"prompt": "Ubi est Itali~?", "completion": "a"}
+{"prompt": "~ sunt Gallia et Hispania?", "completion": "Ubi"}
+{"prompt": "Ubi ~ Gallia et Hispania?", "completion": "sunt"}
+{"prompt": "Ubi sunt ~ et Hispania?", "completion": "Gallia"}
+{"prompt": "Ubi sunt Gallia ~ Hispania?", "completion": "et"}
+{"prompt": "Ubi sunt Gallia et ~?", "completion": "Hispania"}
+{"prompt": "Ub~ sunt Gallia et Hispania?", "completion": "i"}
+{"prompt": "Ubi sunt Galli~ et Hispania?", "completion": "a"}
+{"prompt": "Ubi sunt Gallia et Hispani~?", "completion": "a"}
+{"prompt": "~ et Hispania in Europa sunt.", "completion": "Gallia"}
+{"prompt": "Gallia ~ Hispania in Europa sunt.", "completion": "et"}
+{"prompt": "Gallia et ~ in Europa sunt.", "completion": "Hispania"}
+{"prompt": "Gallia et Hispania ~ Europa sunt.", "completion": "in"}
+{"prompt": "Gallia et Hispania in ~ sunt.", "completion": "Europa"}
+{"prompt": "Gallia et Hispania in Europa ~.", "completion": "sunt"}
+{"prompt": "Galli~ et Hispania in Europa sunt.", "completion": "a"}
+{"prompt": "Gallia et Hispani~ in Europa sunt.", "completion": "a"}
+{"prompt": "Gallia et Hispania in Europ~ sunt.", "completion": "a"}
+{"prompt": "~ Nilus in Europa?", "completion": "Estne"}
+{"prompt": "Estne Nilus ~ Europa?", "completion": "in"}
+{"prompt": "Estne Nilus in ~?", "completion": "Europa"}
+{"prompt": "Estn~ Nilus in Europa?", "completion": "e"}
+{"prompt": "Estne Nil~ in Europa?", "completion": "us"}
+{"prompt": "Estne Nilus in Europ~?", "completion": "a"}
+{"prompt": "~ in Europa non est.", "completion": "Nilus"}
+{"prompt": "Nilus ~ Europa non est.", "completion": "in"}
+{"prompt": "Nilus in ~ non est.", "completion": "Europa"}
+{"prompt": "Nilus in Europa ~ est.", "completion": "non"}
+{"prompt": "Nilus in Europa non ~.", "completion": "est"}
+{"prompt": "Nil~ in Europa non est.", "completion": "us"}
+{"prompt": "Nilus in Europ~ non est.", "completion": "a"}
+{"prompt": "~ est Nilus?", "completion": "Ubi"}
+{"prompt": "Ubi ~ Nilus?", "completion": "est"}
+{"prompt": "Ub~ est Nilus?", "completion": "i"}
+{"prompt": "Ubi est Nil~?", "completion": "us"}
+{"prompt": "~ in Africa est.", "completion": "Nilus"}
+{"prompt": "Nilus ~ Africa est.", "completion": "in"}
+{"prompt": "Nilus in ~ est.", "completion": "Africa"}
+{"prompt": "Nilus in Africa ~.", "completion": "est"}
+{"prompt": "Nil~ in Africa est.", "completion": "us"}
+{"prompt": "Nilus in Afric~ est.", "completion": "a"}
+{"prompt": "~ ubi est?", "completion": "Rhenus"}
+{"prompt": "Rhenus ~ est?", "completion": "quid"}
+{"prompt": "Rhenus ubi ~?", "completion": "est"}
+{"prompt": "Rhen~ ubi est?", "completion": "us"}
+{"prompt": "Rhenus ub~ est?", "completion": "i"}
+{"prompt": "~ est in Germania.", "completion": "Rhenus"}
+{"prompt": "Rhenus ~ in Germania.", "completion": "est"}
+{"prompt": "Rhenus est ~ Germania.", "completion": "in"}
+{"prompt": "Rhenus est in ~.", "completion": "Germania"}
+{"prompt": "Rhen~ est in Germania.", "completion": "us"}
+{"prompt": "Rhenus est in Germani~.", "completion": "a"}
+{"prompt": "~ fluvius est.", "completion": "Rhenus"}
+{"prompt": "Nilus ~ est.", "completion": "fluvius"}
+{"prompt": "Nilus fluvius ~.", "completion": "est"}
+{"prompt": "Nil~ fluvius est.", "completion": "us"}
+{"prompt": "Nilus fluvi~ est.", "completion": "us"}
+{"prompt": "Rhenus ~ est.", "completion": "fluvius"}
+{"prompt": "Rhenus fluvius ~.", "completion": "est"}
+{"prompt": "Rhen~ fluvius est.", "completion": "us"}
+{"prompt": "Rhenus fluvi~ est.", "completion": "us"}
+{"prompt": "~ et Rhenus fluvii sunt.", "completion": "Nilus"}
+{"prompt": "Nilus ~ Rhenus fluvii sunt.", "completion": "et"}
+{"prompt": "Nilus et ~ fluvii sunt.", "completion": "Rhenus"}
+{"prompt": "Nilus et Rhenus ~ sunt.", "completion": "fluvii"}
+{"prompt": "Nilus et Rhenus fluvii ~.", "completion": "sunt"}
+{"prompt": "Nil~ et Rhenus fluvii sunt.", "completion": "us"}
+{"prompt": "Nilus et Rhen~ fluvii sunt.", "completion": "us"}
+{"prompt": "Nilus et Rhenus fluvi~ sunt.", "completion": "i"}
+{"prompt": "~ quoque fluvius est.", "completion": "Danuvius"}
+{"prompt": "Danuvius ~ fluvius est.", "completion": "quoque"}
+{"prompt": "Danuvius quoque ~ est.", "completion": "fluvius"}
+{"prompt": "Danuvius quoque fluvius ~.", "completion": "est"}
+{"prompt": "Danuvi~ quoque fluvius est.", "completion": "us"}
+{"prompt": "Danuvius quoqu~ fluvius est.", "completion": "e"}
+{"prompt": "Danuvius quoque fluvi~ est.", "completion": "us"}
+{"prompt": "~ et Danuvius sunt fluvii in Germania.", "completion": "Rhenus"}
+{"prompt": "Rhenus ~ Danuvius sunt fluvii in Germania.", "completion": "et"}
+{"prompt": "Rhenus et ~ sunt fluvii in Germania.", "completion": "Danuvius"}
+{"prompt": "Rhenus et Danuvius ~ fluvii in Germania.", "completion": "sunt"}
+{"prompt": "Rhenus et Danuvius sunt ~ in Germania.", "completion": "fluvii"}
+{"prompt": "Rhenus et Danuvius sunt fluvii ~ Germania.", "completion": "in"}
+{"prompt": "Rhenus et Danuvius sunt fluvii in ~.", "completion": "Germania"}
+{"prompt": "Rhen~ et Danuvius sunt fluvii in Germania.", "completion": "us"}
+{"prompt": "Rhenus et Danuvi~ sunt fluvii in Germania.", "completion": "us"}
+{"prompt": "Rhenus et Danuvius sunt fluvi~ in Germania.", "completion": "i"}
+{"prompt": "Rhenus et Danuvius sunt fluvii in Germani~.", "completion": "a"}
+{"prompt": "~ fluvius in Italia est.", "completion": "Tiberis"}
+{"prompt": "Tiberis ~ in Italia est.", "completion": "fluvius"}
+{"prompt": "Tiberis fluvius ~ Italia est.", "completion": "in"}
+{"prompt": "Tiberis fluvius in ~ est.", "completion": "Italia"}
+{"prompt": "Tiberis fluvius in Italia ~.", "completion": "est"}
+{"prompt": "Tiber~ fluvius in Italia est.", "completion": "is"}
+{"prompt": "Tiberis fluvi~ in Italia est.", "completion": "us"}
+{"prompt": "Tiberis fluvius in Itali~ est.", "completion": "a"}
+{"prompt": "~ fluvius magnus est.", "completion": "Nilus"}
+{"prompt": "Nilus ~ magnus est.", "completion": "fluvius"}
+{"prompt": "Nilus fluvius ~ est.", "completion": "magnus"}
+{"prompt": "Nilus fluvius magnus ~.", "completion": "est"}
+{"prompt": "Nil~ fluvius magnus est.", "completion": "us"}
+{"prompt": "Nilus fluvi~ magnus est.", "completion": "us"}
+{"prompt": "Nilus fluvius magn~ est.", "completion": "us"}
+{"prompt": "~ non est fluvius magnus, Tiberius fluvius parvus est.", "completion": "Tiberis"}
+{"prompt": "Tiberis ~ est fluvius magnus, Tiberius fluvius parvus est.", "completion": "non"}
+{"prompt": "Tiberis non ~ fluvius magnus, Tiberius fluvius parvus est.", "completion": "est"}
+{"prompt": "Tiberis non est ~ magnus, Tiberius fluvius parvus est.", "completion": "fluvius"}
+{"prompt": "Tiberis non est fluvius ~, Tiberius fluvius parvus est.", "completion": "magnus"}
+{"prompt": "Tiberis non est fluvius magnus, ~ fluvius parvus est.", "completion": "Tiberius"}
+{"prompt": "Tiberis non est fluvius magnus, Tiberius fluvius ~ est.", "completion": "parvus"}
+{"prompt": "Tiber~ non est fluvius magnus, Tiberius fluvius parvus est.", "completion": "is"}
+{"prompt": "Tiberis non est fluvi~ magnus, Tiberius fluvius parvus est.", "completion": "us"}
+{"prompt": "Tiberis non est fluvius magn~, Tiberius fluvius parvus est.", "completion": "us"}
+{"prompt": "Tiberis non est fluvius magnus, Tiberi~ fluvius parvus est.", "completion": "us"}
+{"prompt": "Tiberis non est fluvius magnus, Tiberius fluvius parv~ est.", "completion": "us"}
+{"prompt": "~ non est fluvius parvus, sed fluvius magnus.", "completion": "Rhenus"}
+{"prompt": "Rhenus ~ est fluvius parvus, sed fluvius magnus.", "completion": "non"}
+{"prompt": "Rhenus non ~ fluvius parvus, sed fluvius magnus.", "completion": "est"}
+{"prompt": "Rhenus non est ~ parvus, sed fluvius magnus.", "completion": "fluvius"}
+{"prompt": "Rhenus non est fluvius ~, sed fluvius magnus.", "completion": "parvus"}
+{"prompt": "Rhenus non est fluvius parvus, ~ fluvius magnus.", "completion": "sed"}
+{"prompt": "Rhenus non est fluvius parvus, sed fluvius ~.", "completion": "magnus"}
+{"prompt": "Rhen~ non est fluvius parvus, sed fluvius magnus.", "completion": "us"}
+{"prompt": "Rhenus non est fluvi~ parvus, sed fluvius magnus.", "completion": "us"}
+{"prompt": "Rhenus non est fluvius parv~, sed fluvius magnus.", "completion": "us"}
+{"prompt": "Rhenus non est fluvius parvus, sed fluvius magn~.", "completion": "us"}
+{"prompt": "~ et Rhenus non fluvii parvi, sed fluvii magni sunt.", "completion": "Nilus"}
+{"prompt": "Nilus ~ Rhenus non fluvii parvi, sed fluvii magni sunt.", "completion": "et"}
+{"prompt": "Nilus et ~ non fluvii parvi, sed fluvii magni sunt.", "completion": "Rhenus"}
+{"prompt": "Nilus et Rhenus ~ fluvii parvi, sed fluvii magni sunt.", "completion": "non"}
+{"prompt": "Nilus et Rhenus non ~ parvi, sed fluvii magni sunt.", "completion": "fluvii"}
+{"prompt": "Nilus et Rhenus non fluvii ~, sed fluvii magni sunt.", "completion": "parvi"}
+{"prompt": "Nilus et Rhenus non fluvii parvi, ~ fluvii magni sunt.", "completion": "sed"}
+{"prompt": "Nilus et Rhenus non fluvii parvi, sed fluvii ~ sunt.", "completion": "magni"}
+{"prompt": "Nilus et Rhenus non fluvii parvi, sed fluvii magni ~.", "completion": "sunt"}
+{"prompt": "Nil~ et Rhenus non fluvii parvi, sed fluvii magni sunt.", "completion": "us"}
+{"prompt": "Nilus et Rhen~ non fluvii parvi, sed fluvii magni sunt.", "completion": "us"}
+{"prompt": "Nilus et Rhenus non fluvi~ parvi, sed fluvii magni sunt.", "completion": "i"}
+{"prompt": "Nilus et Rhenus non fluvii parv~, sed fluvii magni sunt.", "completion": "i"}
+{"prompt": "Nilus et Rhenus non fluvii parvi, sed fluvii magn~ sunt.", "completion": "i"}
+{"prompt": "~ quoque fluvius magnus est.", "completion": "Danuvius"}
+{"prompt": "Danuvius ~ fluvius magnus est.", "completion": "quoque"}
+{"prompt": "Danuvius quoque ~ magnus est.", "completion": "fluvius"}
+{"prompt": "Danuvius quoque fluvius ~ est.", "completion": "magnus"}
+{"prompt": "Danuvius quoque fluvius magnus ~.", "completion": "est"}
+{"prompt": "Danuvi~ quoque fluvius magnus est.", "completion": "us"}
+{"prompt": "Danuvius quoqu~ fluvius magnus est.", "completion": "e"}
+{"prompt": "Danuvius quoque fluvi~ magnus est.", "completion": "us"}
+{"prompt": "Danuvius quoque fluvius magn~ est.", "completion": "us"}
+{"prompt": "~ insula est.", "completion": "Creta"}
+{"prompt": "Corsica ~ est.", "completion": "insula"}
+{"prompt": "Corsica insula ~.", "completion": "est"}
+{"prompt": "Corsic~ insula est.", "completion": "a"}
+{"prompt": "Corsica insul~ est.", "completion": "a"}
+{"prompt": "~ et Sardinia et Sicilia insulae sunt.", "completion": "Corsica"}
+{"prompt": "Corsica ~ Sardinia et Sicilia insulae sunt.", "completion": "et"}
+{"prompt": "Corsica et ~ et Sicilia insulae sunt.", "completion": "Sardinia"}
+{"prompt": "Corsica et Sardinia et ~ insulae sunt.", "completion": "Sicilia"}
+{"prompt": "Corsica et Sardinia et Sicilia ~ sunt.", "completion": "insulae"}
+{"prompt": "Corsica et Sardinia et Sicilia insulae ~.", "completion": "sunt"}
+{"prompt": "Corsic~ et Sardinia et Sicilia insulae sunt.", "completion": "a"}
+{"prompt": "Corsica et Sardini~ et Sicilia insulae sunt.", "completion": "a"}
+{"prompt": "Corsica et Sardinia et Sicili~ insulae sunt.", "completion": "a"}
+{"prompt": "Corsica et Sardinia et Sicilia insul~ sunt.", "completion": "ae"}
+{"prompt": "~ quoque insula est.", "completion": "Britannia"}
+{"prompt": "Britannia ~ insula est.", "completion": "quoque"}
+{"prompt": "Britannia quoque ~ est.", "completion": "insula"}
+{"prompt": "Britannia quoque insula ~.", "completion": "est"}
+{"prompt": "Britanni~ quoque insula est.", "completion": "a"}
+{"prompt": "Britannia quoqu~ insula est.", "completion": "e"}
+{"prompt": "Britannia quoque insul~ est.", "completion": "a"}
+{"prompt": "~ insula non est.", "completion": "Italia"}
+{"prompt": "Italia ~ non est.", "completion": "insula"}
+{"prompt": "Italia insula ~ est.", "completion": "non"}
+{"prompt": "Italia insula non ~.", "completion": "est"}
+{"prompt": "Itali~ insula non est.", "completion": "a"}
+{"prompt": "Italia insul~ non est.", "completion": "a"}
+{"prompt": "~ insula magna est.", "completion": "Sicilia"}
+{"prompt": "Sicilia ~ magna est.", "completion": "insula"}
+{"prompt": "Sicilia insula ~ est.", "completion": "magna"}
+{"prompt": "Sicilia insula magna ~.", "completion": "est"}
+{"prompt": "Sicili~ insula magna est.", "completion": "a"}
+{"prompt": "Sicilia insul~ magna est.", "completion": "a"}
+{"prompt": "Sicilia insula magn~ est.", "completion": "a"}
+{"prompt": "~ est insula parva.", "completion": "Melita"}
+{"prompt": "Melita ~ insula parva.", "completion": "est"}
+{"prompt": "Melita est ~ parva.", "completion": "insula"}
+{"prompt": "Melita est insula ~.", "completion": "parva"}
+{"prompt": "Melit~ est insula parva.", "completion": "a"}
+{"prompt": "Melita est insul~ parva.", "completion": "a"}
+{"prompt": "Melita est insula parv~.", "completion": "a"}
+{"prompt": "~ non insula parva, sed insula magna est.", "completion": "Britannia"}
+{"prompt": "Britannia ~ insula parva, sed insula magna est.", "completion": "non"}
+{"prompt": "Britannia non ~ parva, sed insula magna est.", "completion": "insula"}
+{"prompt": "Britannia non insula ~, sed insula magna est.", "completion": "parva"}
+{"prompt": "Britannia non insula parva, ~ insula magna est.", "completion": "sed"}
+{"prompt": "Britannia non insula parva, sed insula ~ est.", "completion": "magna"}
+{"prompt": "Britannia non insula parva, sed insula magna ~.", "completion": "est"}
+{"prompt": "Britanni~ non insula parva, sed insula magna est.", "completion": "a"}
+{"prompt": "Britannia non insul~ parva, sed insula magna est.", "completion": "a"}
+{"prompt": "Britannia non insula parv~, sed insula magna est.", "completion": "a"}
+{"prompt": "Britannia non insula parva, sed insula magn~ est.", "completion": "a"}
+{"prompt": "~ et Sardinia non insula parvae, sed insulae magnae sunt.", "completion": "Sicilia"}
+{"prompt": "Sicilia ~ Sardinia non insula parvae, sed insulae magnae sunt.", "completion": "et"}
+{"prompt": "Sicilia et ~ non insula parvae, sed insulae magnae sunt.", "completion": "Sardinia"}
+{"prompt": "Sicilia et Sardinia ~ insula parvae, sed insulae magnae sunt.", "completion": "non"}
+{"prompt": "Sicilia et Sardinia non ~ parvae, sed insulae magnae sunt.", "completion": "insula"}
+{"prompt": "Sicilia et Sardinia non insula ~, sed insulae magnae sunt.", "completion": "parvae"}
+{"prompt": "Sicilia et Sardinia non insula parvae, ~ insulae magnae sunt.", "completion": "sed"}
+{"prompt": "Sicilia et Sardinia non insula parvae, sed ~ magnae sunt.", "completion": "insulae"}
+{"prompt": "Sicilia et Sardinia non insula parvae, sed insulae ~ sunt.", "completion": "magnae"}
+{"prompt": "Sicilia et Sardinia non insula parvae, sed insulae magnae ~.", "completion": "sunt"}
+{"prompt": "Sicili~ et Sardinia non insula parvae, sed insulae magnae sunt.", "completion": "a"}
+{"prompt": "Sicilia et Sardini~ non insula parvae, sed insulae magnae sunt.", "completion": "a"}
+{"prompt": "Sicilia et Sardinia non insul~ parvae, sed insulae magnae sunt.", "completion": "a"}
+{"prompt": "Sicilia et Sardinia non insula parv~, sed insulae magnae sunt.", "completion": "ae"}
+{"prompt": "Sicilia et Sardinia non insula parvae, sed insul~ magnae sunt.", "completion": "ae"}
+{"prompt": "Sicilia et Sardinia non insula parvae, sed insulae magn~ sunt.", "completion": "ae"}
+{"prompt": "~ oppidum est.", "completion": "Sparta"}
+{"prompt": "Brundisium ~ est.", "completion": "oppidum"}
+{"prompt": "Brundisium oppidum ~.", "completion": "est"}
+{"prompt": "Brundisi~ oppidum est.", "completion": "um"}
+{"prompt": "Brundisium oppid~ est.", "completion": "um"}
+{"prompt": "~ et Tusculum oppida sunt.", "completion": "Brundisium"}
+{"prompt": "Brundisium ~ Tusculum oppida sunt.", "completion": "et"}
+{"prompt": "Brundisium et ~ oppida sunt.", "completion": "Tusculum"}
+{"prompt": "Brundisium et Tusculum ~ sunt.", "completion": "oppida"}
+{"prompt": "Brundisium et Tusculum oppida ~.", "completion": "sunt"}
+{"prompt": "Brundisi~ et Tusculum oppida sunt.", "completion": "um"}
+{"prompt": "Brundisium et Tuscul~ oppida sunt.", "completion": "um"}
+{"prompt": "Brundisium et Tusculum oppid~ sunt.", "completion": "a"}
+{"prompt": "~ quoque oppidum est.", "completion": "Sparta"}
+{"prompt": "Sparta ~ oppidum est.", "completion": "quoque"}
+{"prompt": "Sparta quoque ~ est.", "completion": "oppidum"}
+{"prompt": "Sparta quoque oppidum ~.", "completion": "est"}
+{"prompt": "Spart~ quoque oppidum est.", "completion": "a"}
+{"prompt": "Sparta quoqu~ oppidum est.", "completion": "e"}
+{"prompt": "Sparta quoque oppid~ est.", "completion": "um"}
+{"prompt": "~ est oppidum magnum.", "completion": "Brundisium"}
+{"prompt": "Brundisium ~ oppidum magnum.", "completion": "est"}
+{"prompt": "Brundisium est ~ magnum.", "completion": "oppidum"}
+{"prompt": "Brundisium est oppidum ~.", "completion": "magnum"}
+{"prompt": "Brundisi~ est oppidum magnum.", "completion": "um"}
+{"prompt": "Brundisium est oppid~ magnum.", "completion": "um"}
+{"prompt": "Brundisium est oppidum magn~.", "completion": "um"}
+{"prompt": "~ oppidum parvum est.", "completion": "Tusculum"}
+{"prompt": "Tusculum ~ parvum est.", "completion": "oppidum"}
+{"prompt": "Tusculum oppidum ~ est.", "completion": "parvum"}
+{"prompt": "Tusculum oppidum parvum ~.", "completion": "est"}
+{"prompt": "Tuscul~ oppidum parvum est.", "completion": "um"}
+{"prompt": "Tusculum oppid~ parvum est.", "completion": "um"}
+{"prompt": "Tusculum oppidum parv~ est.", "completion": "um"}
+{"prompt": "~ quoque oppidum parvum est.", "completion": "Delphi"}
+{"prompt": "Delphi ~ oppidum parvum est.", "completion": "quoque"}
+{"prompt": "Delphi quoque ~ parvum est.", "completion": "oppidum"}
+{"prompt": "Delphi quoque oppidum ~ est.", "completion": "parvum"}
+{"prompt": "Delphi quoque oppidum parvum ~.", "completion": "est"}
+{"prompt": "Delph~ quoque oppidum parvum est.", "completion": "i"}
+{"prompt": "Delphi quoqu~ oppidum parvum est.", "completion": "e"}
+{"prompt": "Delphi quoque oppid~ parvum est.", "completion": "um"}
+{"prompt": "Delphi quoque oppidum parv~ est.", "completion": "um"}
+{"prompt": "~ et Delphi non oppida magna, sed oppida parva sunt.", "completion": "Tusculum"}
+{"prompt": "Tusculum ~ Delphi non oppida magna, sed oppida parva sunt.", "completion": "et"}
+{"prompt": "Tusculum et ~ non oppida magna, sed oppida parva sunt.", "completion": "Delphi"}
+{"prompt": "Tusculum et Delphi ~ oppida magna, sed oppida parva sunt.", "completion": "non"}
+{"prompt": "Tusculum et Delphi non ~ magna, sed oppida parva sunt.", "completion": "oppida"}
+{"prompt": "Tusculum et Delphi non oppida ~, sed oppida parva sunt.", "completion": "magna"}
+{"prompt": "Tusculum et Delphi non oppida magna, ~ oppida parva sunt.", "completion": "sed"}
+{"prompt": "Tusculum et Delphi non oppida magna, sed oppida ~ sunt.", "completion": "parva"}
+{"prompt": "Tusculum et Delphi non oppida magna, sed oppida parva ~.", "completion": "sunt"}
+{"prompt": "Tuscul~ et Delphi non oppida magna, sed oppida parva sunt.", "completion": "um"}
+{"prompt": "Tusculum et Delph~ non oppida magna, sed oppida parva sunt.", "completion": "i"}
+{"prompt": "Tusculum et Delphi non oppid~ magna, sed oppida parva sunt.", "completion": "a"}
+{"prompt": "Tusculum et Delphi non oppida magn~, sed oppida parva sunt.", "completion": "a"}
+{"prompt": "Tusculum et Delphi non oppida magna, sed oppida parv~ sunt.", "completion": "a"}
+{"prompt": "~ est Sparta?", "completion": "Quid"}
+{"prompt": "Ubi ~ Sparta?", "completion": "est"}
+{"prompt": "Ub~ est Sparta?", "completion": "i"}
+{"prompt": "Ubi est Spart~?", "completion": "a"}
+{"prompt": "~ est in Graecia.", "completion": "Sparta"}
+{"prompt": "Sparta ~ in Graecia.", "completion": "est"}
+{"prompt": "Sparta est ~ Graecia.", "completion": "in"}
+{"prompt": "Sparta est in ~.", "completion": "Graecia"}
+{"prompt": "Spart~ est in Graecia.", "completion": "a"}
+{"prompt": "Sparta est in Graeci~.", "completion": "a"}
+{"prompt": "~ est oppidum Gracum.", "completion": "Sparta"}
+{"prompt": "Sparta ~ oppidum Gracum.", "completion": "est"}
+{"prompt": "Sparta est ~ Gracum.", "completion": "oppidum"}
+{"prompt": "Sparta est oppidum ~.", "completion": "Gracum"}
+{"prompt": "Spart~ est oppidum Gracum.", "completion": "a"}
+{"prompt": "Sparta est oppid~ Gracum.", "completion": "um"}
+{"prompt": "Sparta est oppidum Grac~.", "completion": "um"}
+{"prompt": "~ et Delphi oppida Graeca sunt.", "completion": "Sparta"}
+{"prompt": "Sparta ~ Delphi oppida Graeca sunt.", "completion": "et"}
+{"prompt": "Sparta et ~ oppida Graeca sunt.", "completion": "Delphi"}
+{"prompt": "Sparta et Delphi ~ Graeca sunt.", "completion": "oppida"}
+{"prompt": "Sparta et Delphi oppida ~ sunt.", "completion": "Graeca"}
+{"prompt": "Sparta et Delphi oppida Graeca ~.", "completion": "sunt"}
+{"prompt": "Spart~ et Delphi oppida Graeca sunt.", "completion": "a"}
+{"prompt": "Sparta et Delph~ oppida Graeca sunt.", "completion": "i"}
+{"prompt": "Sparta et Delphi oppid~ Graeca sunt.", "completion": "a"}
+{"prompt": "Sparta et Delphi oppida Graec~ sunt.", "completion": "a"}
+{"prompt": "~ non oppidum Graecum, sed oppidum Romanum est.", "completion": "Tusculum"}
+{"prompt": "Tusculum ~ oppidum Graecum, sed oppidum Romanum est.", "completion": "non"}
+{"prompt": "Tusculum non ~ Graecum, sed oppidum Romanum est.", "completion": "oppidum"}
+{"prompt": "Tusculum non oppidum ~, sed oppidum Romanum est.", "completion": "Graecum"}
+{"prompt": "Tusculum non oppidum Graecum, ~ oppidum Romanum est.", "completion": "sed"}
+{"prompt": "Tusculum non oppidum Graecum, sed oppidum ~ est.", "completion": "Romanum"}
+{"prompt": "Tusculum non oppidum Graecum, sed oppidum Romanum ~.", "completion": "est"}
+{"prompt": "Tuscul~ non oppidum Graecum, sed oppidum Romanum est.", "completion": "um"}
+{"prompt": "Tusculum non oppid~ Graecum, sed oppidum Romanum est.", "completion": "um"}
+{"prompt": "Tusculum non oppidum Graec~, sed oppidum Romanum est.", "completion": "um"}
+{"prompt": "Tusculum non oppidum Graecum, sed oppidum Roman~ est.", "completion": "um"}
+{"prompt": "~ et Brundisium sunt oppida Romana.", "completion": "Tusculum"}
+{"prompt": "Tusculum ~ Brundisium sunt oppida Romana.", "completion": "et"}
+{"prompt": "Tusculum et ~ sunt oppida Romana.", "completion": "Brundisium"}
+{"prompt": "Tusculum et Brundisium ~ oppida Romana.", "completion": "sunt"}
+{"prompt": "Tusculum et Brundisium sunt ~ Romana.", "completion": "oppida"}
+{"prompt": "Tusculum et Brundisium sunt oppida ~.", "completion": "Romana"}
+{"prompt": "Tuscul~ et Brundisium sunt oppida Romana.", "completion": "um"}
+{"prompt": "Tusculum et Brundisi~ sunt oppida Romana.", "completion": "um"}
+{"prompt": "Tusculum et Brundisium sunt oppid~ Romana.", "completion": "a"}
+{"prompt": "Tusculum et Brundisium sunt oppida Roman~.", "completion": "a"}
+{"prompt": "~ insula Romana est.", "completion": "Sardinia"}
+{"prompt": "Sardinia ~ Romana est.", "completion": "insula"}
+{"prompt": "Sardinia insula ~ est.", "completion": "Romana"}
+{"prompt": "Sardinia insula Romana ~.", "completion": "est"}
+{"prompt": "Sardini~ insula Romana est.", "completion": "a"}
+{"prompt": "Sardinia insul~ Romana est.", "completion": "a"}
+{"prompt": "Sardinia insula Roman~ est.", "completion": "a"}
+{"prompt": "~, Rhodus, Naxus, Samos, Chios, Lesbos, Lemnos, Euboea sunt insulae Graecae.", "completion": "Creta"}
+{"prompt": "Creta, ~, Naxus, Samos, Chios, Lesbos, Lemnos, Euboea sunt insulae Graecae.", "completion": "Rhodus"}
+{"prompt": "Creta, Rhodus, ~, Samos, Chios, Lesbos, Lemnos, Euboea sunt insulae Graecae.", "completion": "Naxus"}
+{"prompt": "Creta, Rhodus, Naxus, ~, Chios, Lesbos, Lemnos, Euboea sunt insulae Graecae.", "completion": "Samos"}
+{"prompt": "Creta, Rhodus, Naxus, Samos, ~, Lesbos, Lemnos, Euboea sunt insulae Graecae.", "completion": "Chios"}
+{"prompt": "Creta, Rhodus, Naxus, Samos, Chios, ~, Lemnos, Euboea sunt insulae Graecae.", "completion": "Lesbos"}
+{"prompt": "Creta, Rhodus, Naxus, Samos, Chios, Lesbos, ~, Euboea sunt insulae Graecae.", "completion": "Lemnos"}
+{"prompt": "Creta, Rhodus, Naxus, Samos, Chios, Lesbos, Lemnos, ~ sunt insulae Graecae.", "completion": "Euboea"}
+{"prompt": "Creta, Rhodus, Naxus, Samos, Chios, Lesbos, Lemnos, Euboea ~ insulae Graecae.", "completion": "sunt"}
+{"prompt": "Creta, Rhodus, Naxus, Samos, Chios, Lesbos, Lemnos, Euboea sunt ~ Graecae.", "completion": "insulae"}
+{"prompt": "Creta, Rhodus, Naxus, Samos, Chios, Lesbos, Lemnos, Euboea sunt insulae ~.", "completion": "Graecae"}
+{"prompt": "Cret~, Rhodus, Naxus, Samos, Chios, Lesbos, Lemnos, Euboea sunt insulae Graecae.", "completion": "a"}
+{"prompt": "Creta, Rhod~, Naxus, Samos, Chios, Lesbos, Lemnos, Euboea sunt insulae Graecae.", "completion": "us"}
+{"prompt": "Creta, Rhodus, Nax~, Samos, Chios, Lesbos, Lemnos, Euboea sunt insulae Graecae.", "completion": "us"}
+{"prompt": "Creta, Rhodus, Naxus, Sam~, Chios, Lesbos, Lemnos, Euboea sunt insulae Graecae.", "completion": "os"}
+{"prompt": "Creta, Rhodus, Naxus, Samos, Chi~, Lesbos, Lemnos, Euboea sunt insulae Graecae.", "completion": "os"}
+{"prompt": "Creta, Rhodus, Naxus, Samos, Chios, Lesb~, Lemnos, Euboea sunt insulae Graecae.", "completion": "os"}
+{"prompt": "Creta, Rhodus, Naxus, Samos, Chios, Lesbos, Lemn~, Euboea sunt insulae Graecae.", "completion": "os"}
+{"prompt": "Creta, Rhodus, Naxus, Samos, Chios, Lesbos, Lemnos, Euboe~ sunt insulae Graecae.", "completion": "a"}
+{"prompt": "Creta, Rhodus, Naxus, Samos, Chios, Lesbos, Lemnos, Euboea sunt insul~ Graecae.", "completion": "ae"}
+{"prompt": "Creta, Rhodus, Naxus, Samos, Chios, Lesbos, Lemnos, Euboea sunt insulae Graec~.", "completion": "ae"}
+{"prompt": "~ Graecia multae insulae sunt.", "completion": "In"}
+{"prompt": "In ~ multae insulae sunt.", "completion": "Graecia"}
+{"prompt": "In Graecia ~ insulae sunt.", "completion": "multae"}
+{"prompt": "In Graecia multae ~ sunt.", "completion": "insulae"}
+{"prompt": "In Graecia multae insulae ~.", "completion": "sunt"}
+{"prompt": "In Graeci~ multae insulae sunt.", "completion": "a"}
+{"prompt": "In Graecia mult~ insulae sunt.", "completion": "ae"}
+{"prompt": "In Graecia multae insul~ sunt.", "completion": "ae"}
+{"prompt": "~ Italia et in Graecia sunt multa oppida.", "completion": "In"}
+{"prompt": "In ~ et in Graecia sunt multa oppida.", "completion": "Italia"}
+{"prompt": "In Italia ~ in Graecia sunt multa oppida.", "completion": "et"}
+{"prompt": "In Italia et ~ Graecia sunt multa oppida.", "completion": "in"}
+{"prompt": "In Italia et in ~ sunt multa oppida.", "completion": "Graecia"}
+{"prompt": "In Italia et in Graecia ~ multa oppida.", "completion": "sunt"}
+{"prompt": "In Italia et in Graecia sunt ~ oppida.", "completion": "multa"}
+{"prompt": "In Italia et in Graecia sunt multa ~.", "completion": "oppida"}
+{"prompt": "In Itali~ et in Graecia sunt multa oppida.", "completion": "a"}
+{"prompt": "In Italia et in Graeci~ sunt multa oppida.", "completion": "a"}
+{"prompt": "In Italia et in Graecia sunt mult~ oppida.", "completion": "a"}
+{"prompt": "In Italia et in Graecia sunt multa oppid~.", "completion": "a"}
+{"prompt": "~ Gallia et Germania multi sunt fluvii.", "completion": "In"}
+{"prompt": "In ~ et Germania multi sunt fluvii.", "completion": "Gallia"}
+{"prompt": "In Gallia ~ Germania multi sunt fluvii.", "completion": "et"}
+{"prompt": "In Gallia et ~ multi sunt fluvii.", "completion": "Germania"}
+{"prompt": "In Gallia et Germania ~ sunt fluvii.", "completion": "multi"}
+{"prompt": "In Gallia et Germania multi ~ fluvii.", "completion": "sunt"}
+{"prompt": "In Gallia et Germania multi sunt ~.", "completion": "fluvii"}
+{"prompt": "In Galli~ et Germania multi sunt fluvii.", "completion": "a"}
+{"prompt": "In Gallia et Germani~ multi sunt fluvii.", "completion": "a"}
+{"prompt": "In Gallia et Germania mult~ sunt fluvii.", "completion": "i"}
+{"prompt": "In Gallia et Germania multi sunt fluvi~.", "completion": "i"}
+{"prompt": "~ multi fluvii et multa oppida in Arabia?", "completion": "Suntne"}
+{"prompt": "Suntne ~ fluvii et multa oppida in Arabia?", "completion": "multi"}
+{"prompt": "Suntne multi ~ et multa oppida in Arabia?", "completion": "fluvii"}
+{"prompt": "Suntne multi fluvii ~ multa oppida in Arabia?", "completion": "et"}
+{"prompt": "Suntne multi fluvii et ~ oppida in Arabia?", "completion": "multa"}
+{"prompt": "Suntne multi fluvii et multa ~ in Arabia?", "completion": "oppida"}
+{"prompt": "Suntne multi fluvii et multa oppida ~ Arabia?", "completion": "in"}
+{"prompt": "Suntne multi fluvii et multa oppida in ~?", "completion": "Arabia"}
+{"prompt": "Suntn~ multi fluvii et multa oppida in Arabia?", "completion": "e"}
+{"prompt": "Suntne mult~ fluvii et multa oppida in Arabia?", "completion": "i"}
+{"prompt": "Suntne multi fluvi~ et multa oppida in Arabia?", "completion": "i"}
+{"prompt": "Suntne multi fluvii et mult~ oppida in Arabia?", "completion": "a"}
+{"prompt": "Suntne multi fluvii et multa oppid~ in Arabia?", "completion": "a"}
+{"prompt": "Suntne multi fluvii et multa oppida in Arabi~?", "completion": "a"}
+{"prompt": "~ Arabia non multi, sed pauci fluvii sunt et pauca oppida.", "completion": "In"}
+{"prompt": "In ~ non multi, sed pauci fluvii sunt et pauca oppida.", "completion": "Arabia"}
+{"prompt": "In Arabia ~ multi, sed pauci fluvii sunt et pauca oppida.", "completion": "non"}
+{"prompt": "In Arabia non ~, sed pauci fluvii sunt et pauca oppida.", "completion": "multi"}
+{"prompt": "In Arabia non multi, ~ pauci fluvii sunt et pauca oppida.", "completion": "sed"}
+{"prompt": "In Arabia non multi, sed ~ fluvii sunt et pauca oppida.", "completion": "pauci"}
+{"prompt": "In Arabia non multi, sed pauci ~ sunt et pauca oppida.", "completion": "fluvii"}
+{"prompt": "In Arabia non multi, sed pauci fluvii ~ et pauca oppida.", "completion": "sunt"}
+{"prompt": "In Arabia non multi, sed pauci fluvii sunt ~ pauca oppida.", "completion": "et"}
+{"prompt": "In Arabia non multi, sed pauci fluvii sunt et ~ oppida.", "completion": "pauca"}
+{"prompt": "In Arabia non multi, sed pauci fluvii sunt et pauca ~.", "completion": "oppida"}
+{"prompt": "In Arabi~ non multi, sed pauci fluvii sunt et pauca oppida.", "completion": "a"}
+{"prompt": "In Arabia non mult~, sed pauci fluvii sunt et pauca oppida.", "completion": "i"}
+{"prompt": "In Arabia non multi, sed pauc~ fluvii sunt et pauca oppida.", "completion": "i"}
+{"prompt": "In Arabia non multi, sed pauci fluvi~ sunt et pauca oppida.", "completion": "i"}
+{"prompt": "In Arabia non multi, sed pauci fluvii sunt et pauc~ oppida.", "completion": "a"}
+{"prompt": "In Arabia non multi, sed pauci fluvii sunt et pauca oppid~.", "completion": "a"}
+{"prompt": "~ Creta oppidum est?", "completion": "Num"}
+{"prompt": "Num ~ oppidum est?", "completion": "Creta"}
+{"prompt": "Num Creta ~ est?", "completion": "oppidum"}
+{"prompt": "Num Creta oppidum ~?", "completion": "est"}
+{"prompt": "N~ Creta oppidum est?", "completion": "um"}
+{"prompt": "Num Cret~ oppidum est?", "completion": "a"}
+{"prompt": "Num Creta oppid~ est?", "completion": "um"}
+{"prompt": "~ oppidum non est!", "completion": "Creta"}
+{"prompt": "Creta ~ non est!", "completion": "oppidum"}
+{"prompt": "Creta oppidum ~ est!", "completion": "non"}
+{"prompt": "Creta oppidum non ~!", "completion": "est"}
+{"prompt": "Cret~ oppidum non est!", "completion": "a"}
+{"prompt": "Creta oppid~ non est!", "completion": "um"}
+{"prompt": "~ est Creta?", "completion": "Quid"}
+{"prompt": "Quid ~ Creta?", "completion": "est"}
+{"prompt": "Quid est Cret~?", "completion": "a"}
+{"prompt": "Creta ~ est.", "completion": "insula"}
+{"prompt": "Creta insula ~.", "completion": "est"}
+{"prompt": "Cret~ insula est.", "completion": "a"}
+{"prompt": "Creta insul~ est.", "completion": "a"}
+{"prompt": "~ Sparta insula est?", "completion": "Num"}
+{"prompt": "Num ~ insula est?", "completion": "Sparta"}
+{"prompt": "Num Sparta ~ est?", "completion": "insula"}
+{"prompt": "Num Sparta insula ~?", "completion": "est"}
+{"prompt": "N~ Sparta insula est?", "completion": "um"}
+{"prompt": "Num Spart~ insula est?", "completion": "a"}
+{"prompt": "Num Sparta insul~ est?", "completion": "a"}
+{"prompt": "~ non est insula!", "completion": "Sparta"}
+{"prompt": "Sparta ~ est insula!", "completion": "non"}
+{"prompt": "Sparta non ~ insula!", "completion": "est"}
+{"prompt": "Sparta non est ~!", "completion": "insula"}
+{"prompt": "Spart~ non est insula!", "completion": "a"}
+{"prompt": "Sparta non est insul~!", "completion": "a"}
+{"prompt": "Quid ~ Sparta?", "completion": "est"}
+{"prompt": "Quid est Spart~?", "completion": "a"}
+{"prompt": "Sparta ~ est.", "completion": "oppidum"}
+{"prompt": "Sparta oppidum ~.", "completion": "est"}
+{"prompt": "Spart~ oppidum est.", "completion": "a"}
+{"prompt": "Sparta oppid~ est.", "completion": "um"}
+{"prompt": "Rhenus quid ~?", "completion": "est"}
+{"prompt": "Rhen~ quid est?", "completion": "us"}
+{"prompt": "~ est magnus fluvius.", "completion": "Rhenus"}
+{"prompt": "Rhenus ~ magnus fluvius.", "completion": "est"}
+{"prompt": "Rhenus est ~ fluvius.", "completion": "magnus"}
+{"prompt": "Rhenus est magnus ~.", "completion": "fluvius"}
+{"prompt": "Rhen~ est magnus fluvius.", "completion": "us"}
+{"prompt": "Rhenus est magn~ fluvius.", "completion": "us"}
+{"prompt": "Rhenus est magnus fluvi~.", "completion": "us"}
+{"prompt": "~ oceanus Atlanticus parvus est?", "completion": "Num"}
+{"prompt": "Num ~ Atlanticus parvus est?", "completion": "oceanus"}
+{"prompt": "Num oceanus ~ parvus est?", "completion": "Atlanticus"}
+{"prompt": "Num oceanus Atlanticus ~ est?", "completion": "parvus"}
+{"prompt": "Num oceanus Atlanticus parvus ~?", "completion": "est"}
+{"prompt": "N~ oceanus Atlanticus parvus est?", "completion": "um"}
+{"prompt": "Num ocean~ Atlanticus parvus est?", "completion": "us"}
+{"prompt": "Num oceanus Atlantic~ parvus est?", "completion": "us"}
+{"prompt": "Num oceanus Atlanticus parv~ est?", "completion": "us"}
+{"prompt": "~ parvus, sed magnus est oceanus.", "completion": "Non"}
+{"prompt": "Non ~, sed magnus est oceanus.", "completion": "parvus"}
+{"prompt": "Non parvus, ~ magnus est oceanus.", "completion": "sed"}
+{"prompt": "Non parvus, sed ~ est oceanus.", "completion": "magnus"}
+{"prompt": "Non parvus, sed magnus ~ oceanus.", "completion": "est"}
+{"prompt": "Non parvus, sed magnus est ~.", "completion": "oceanus"}
+{"prompt": "Non parv~, sed magnus est oceanus.", "completion": "us"}
+{"prompt": "Non parvus, sed magn~ est oceanus.", "completion": "us"}
+{"prompt": "Non parvus, sed magnus est ocean~.", "completion": "us"}
+{"prompt": "~ est imperium Romanum?", "completion": "Ubi"}
+{"prompt": "Ubi ~ imperium Romanum?", "completion": "est"}
+{"prompt": "Ubi est ~ Romanum?", "completion": "imperium"}
+{"prompt": "Ubi est imperium ~?", "completion": "Romanum"}
+{"prompt": "Ub~ est imperium Romanum?", "completion": "i"}
+{"prompt": "Ubi est imperi~ Romanum?", "completion": "um"}
+{"prompt": "Ubi est imperium Roman~?", "completion": "um"}
+{"prompt": "~ Romanum est in Europa, in Asia, in Africa.", "completion": "Imperium"}
+{"prompt": "Imperium ~ est in Europa, in Asia, in Africa.", "completion": "Romanum"}
+{"prompt": "Imperium Romanum ~ in Europa, in Asia, in Africa.", "completion": "est"}
+{"prompt": "Imperium Romanum est ~ Europa, in Asia, in Africa.", "completion": "in"}
+{"prompt": "Imperium Romanum est in ~, in Asia, in Africa.", "completion": "Europa"}
+{"prompt": "Imperium Romanum est in Europa, in ~, in Africa.", "completion": "Asia"}
+{"prompt": "Imperium Romanum est in Europa, in Asia, in ~.", "completion": "Africa"}
+{"prompt": "Imperi~ Romanum est in Europa, in Asia, in Africa.", "completion": "um"}
+{"prompt": "Imperium Roman~ est in Europa, in Asia, in Africa.", "completion": "um"}
+{"prompt": "Imperium Romanum est in Europ~, in Asia, in Africa.", "completion": "a"}
+{"prompt": "Imperium Romanum est in Europa, in Asi~, in Africa.", "completion": "a"}
+{"prompt": "Imperium Romanum est in Europa, in Asia, in Afric~.", "completion": "a"}
+{"prompt": "~ et Syria et Aegyptus provinciae Romanae sunt.", "completion": "Hispania"}
+{"prompt": "Hispania ~ Syria et Aegyptus provinciae Romanae sunt.", "completion": "et"}
+{"prompt": "Hispania et ~ et Aegyptus provinciae Romanae sunt.", "completion": "Syria"}
+{"prompt": "Hispania et Syria et ~ provinciae Romanae sunt.", "completion": "Aegyptus"}
+{"prompt": "Hispania et Syria et Aegyptus ~ Romanae sunt.", "completion": "provinciae"}
+{"prompt": "Hispania et Syria et Aegyptus provinciae ~ sunt.", "completion": "Romanae"}
+{"prompt": "Hispania et Syria et Aegyptus provinciae Romanae ~.", "completion": "sunt"}
+{"prompt": "Hispani~ et Syria et Aegyptus provinciae Romanae sunt.", "completion": "a"}
+{"prompt": "Hispania et Syri~ et Aegyptus provinciae Romanae sunt.", "completion": "a"}
+{"prompt": "Hispania et Syria et Aegypt~ provinciae Romanae sunt.", "completion": "us"}
+{"prompt": "Hispania et Syria et Aegyptus provinci~ Romanae sunt.", "completion": "ae"}
+{"prompt": "Hispania et Syria et Aegyptus provinciae Roman~ sunt.", "completion": "ae"}
+{"prompt": "~ non est provincia Romana: Germania in imperio Romano non est.", "completion": "Germania"}
+{"prompt": "Germania ~ est provincia Romana: Germania in imperio Romano non est.", "completion": "non"}
+{"prompt": "Germania non ~ provincia Romana: Germania in imperio Romano non est.", "completion": "est"}
+{"prompt": "Germania non est ~ Romana: Germania in imperio Romano non est.", "completion": "provincia"}
+{"prompt": "Germania non est provincia ~: Germania in imperio Romano non est.", "completion": "Romana"}
+{"prompt": "Germania non est provincia Romana: Germania ~ imperio Romano non est.", "completion": "in"}
+{"prompt": "Germania non est provincia Romana: Germania in ~ Romano non est.", "completion": "imperio"}
+{"prompt": "Germania non est provincia Romana: Germania in imperio ~ non est.", "completion": "Romano"}
+{"prompt": "Germani~ non est provincia Romana: Germania in imperio Romano non est.", "completion": "a"}
+{"prompt": "Germania non est provinci~ Romana: Germania in imperio Romano non est.", "completion": "a"}
+{"prompt": "Germania non est provincia Roman~: Germania in imperio Romano non est.", "completion": "a"}
+{"prompt": "~ Gallia et Britannia sunt provinciae Romanae.", "completion": "Sed"}
+{"prompt": "Sed ~ et Britannia sunt provinciae Romanae.", "completion": "Gallia"}
+{"prompt": "Sed Gallia ~ Britannia sunt provinciae Romanae.", "completion": "et"}
+{"prompt": "Sed Gallia et ~ sunt provinciae Romanae.", "completion": "Britannia"}
+{"prompt": "Sed Gallia et Britannia ~ provinciae Romanae.", "completion": "sunt"}
+{"prompt": "Sed Gallia et Britannia sunt ~ Romanae.", "completion": "provinciae"}
+{"prompt": "Sed Gallia et Britannia sunt provinciae ~.", "completion": "Romanae"}
+{"prompt": "Sed Galli~ et Britannia sunt provinciae Romanae.", "completion": "a"}
+{"prompt": "Sed Gallia et Britanni~ sunt provinciae Romanae.", "completion": "a"}
+{"prompt": "Sed Gallia et Britannia sunt provinci~ Romanae.", "completion": "ae"}
+{"prompt": "Sed Gallia et Britannia sunt provinciae Roman~.", "completion": "ae"}
+{"prompt": "~ imperio Romano multae sunt provinciae.", "completion": "In"}
+{"prompt": "In ~ Romano multae sunt provinciae.", "completion": "imperio"}
+{"prompt": "In imperio ~ multae sunt provinciae.", "completion": "Romano"}
+{"prompt": "In imperio Romano ~ sunt provinciae.", "completion": "multae"}
+{"prompt": "In imperio Romano multae ~ provinciae.", "completion": "sunt"}
+{"prompt": "In imperio Romano multae sunt ~.", "completion": "provinciae"}
+{"prompt": "In imperio Romano mult~ sunt provinciae.", "completion": "ae"}
+{"prompt": "In imperio Romano multae sunt provinci~.", "completion": "ae"}
+{"prompt": "~ est imperium Romanum!", "completion": "Magnum"}
+{"prompt": "Magnum ~ imperium Romanum!", "completion": "est"}
+{"prompt": "Magnum est ~ Romanum!", "completion": "imperium"}
+{"prompt": "Magnum est imperium ~!", "completion": "Romanum"}
+{"prompt": "Magn~ est imperium Romanum!", "completion": "um"}
+{"prompt": "Magnum est imperi~ Romanum!", "completion": "um"}
+{"prompt": "Magnum est imperium Roman~!", "completion": "um"}

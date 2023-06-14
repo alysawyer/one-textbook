@@ -12,6 +12,7 @@ async def query(c):
     returns 1 if the model is correctand 0 if wrong'''
     print("sending output")
     output = (await lmql.run(c["code"], output_writer=lmql.stream("RESPONSE")))
+    print(output)
     return output
 
 async def run(codes):
@@ -49,9 +50,6 @@ def main():
     file_path = Path.cwd()/parser.parse_args().second_argument
     with file_path.open(mode='r',encoding="utf-8") as f:
          data = json.load(f)
-
-    # parser.add_argument('third_argument')
-    # print(Path.cwd()/parser.parse_args().second_argument,parser.parse_args().third_argument)
     
     file_path = Path.cwd()/parser.parse_args().second_argument
     with file_path.open(mode='r',encoding="utf-8") as f:
@@ -61,15 +59,16 @@ def main():
     
     json_name = ".".join([info_list[0].split("/")[2], info_list[3], info_list[1], info_list[2], info_list[0].split("/")[1], info_list[4]])
     
-    question_data = []
-    for code, accuracy in zip(data["codes"], calc_accuracy(data["codes"])):
-        question_data.append({
-            "code": code,
-            "accuracy": accuracy
-        })
+    print(calc_accuracy(data["codes"]))
+    # question_data = []
+    # for code, accuracy in zip(data["codes"], calc_accuracy(data["codes"])):
+    #     question_data.append({
+    #         "code": code,
+    #         "accuracy": accuracy
+    #     })
         
-    with open("results-pensvmC/" + json_name, "w") as outfile:
-        json.dump(question_data, outfile)
+    # with open("results-pensvmC/" + json_name, "w") as outfile:
+    #     json.dump(question_data, outfile)
 
 if __name__ == "__main__":
     main()

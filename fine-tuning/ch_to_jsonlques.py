@@ -31,34 +31,8 @@ def suffix_replacement(input_string):
     words = re.findall(r'\b\w+\b', input_string)  # Extract words from the input string
     word_dictionary = {}
 
-    latin_suffixes = [
-        "us",
-        "a",
-        "um",
-        "i",
-        "ae",
-        "is",
-        "orum",
-        "arum",
-        "e",
-        "es",
-        "us",
-        "os",
-        "is",
-        "ei",
-        "ei",
-        "ium",
-        "ibus",
-        "er",
-        "trix",
-        "or",
-        "ores",
-        "ibus",
-        "es",
-        "ei",
-        "is",
-        "ia"
-    ]
+    # suffixes in ch5
+    latin_suffixes = ['am', 'ds', 'iunt', 'e', 'ete', 'o', 'os', 'unt', 'et', 'ate', 'a', 'ant', 'at', 'i', 'is', 'it', 'ent', 'ite', 'as']
 
     for word in words:
         for suffix in latin_suffixes:
@@ -68,43 +42,6 @@ def suffix_replacement(input_string):
                 break
 
     return word_dictionary
-
-# helper for every_char_replacement
-def check_punctuation_in_string(input_string):
-    '''returns true if a string contains no punctuation'''
-    for char in input_string:
-        if char in string.punctuation:
-            return False
-    return True
-
-# helper for every_char_replacement
-def check_no_alphabet_chars(input_string):
-    '''returns true if a string only has characters in the alphabet'''
-    return any(char.isalpha() for char in input_string)
-
-def every_char_replacement(input_string, num_chars_removed):
-    '''
-    takes in string and number of characters max to remove
-    returns a dictionary, where  
-    values: each line of the string minus every combination of part of each word 
-    keys: the missing part of the word where the length is from 1 to the max characters to remove
-    '''
-    result_dict = {}
-    j = num_chars_removed
-
-    for i in range(len(input_string)):
-        while j > 0:
-            modified_line = line[:i] + '~' * j + line[i+j:]
-            value = line[i:j+i]
-            if (check_punctuation_in_string(value) and 
-                check_no_alphabet_chars(value) and
-                " " not in value and 
-                len(value) == j):
-                result_dict[modified_line.strip('\n')] = value
-            j -= 1
-        j = num_chars_removed
-    
-    return result_dict
 
 
 folder_path = "../data/llpsi"

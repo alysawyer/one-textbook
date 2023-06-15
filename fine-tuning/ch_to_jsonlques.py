@@ -48,14 +48,22 @@ folder_path = "../data/llpsi"
 selected_capitvlvms = [1]
 output_dict = {}
 
-for filename in os.listdir(folder_path):
-    if "section" in filename:
-        capitvlvm_number = filename.split(".")[0].split("_")[1]
-        if int(capitvlvm_number) in selected_capitvlvms and "en" not in filename:
-            with open(os.path.join(folder_path, filename), "r") as file:
-                for line in file:
-                    if not line.startswith("#"):
-                        output_dict.update(whole_word_replacement(line.rstrip("\n")))
-                        output_dict.update(suffix_replacement(line.rstrip("\n")))
+# for filename in os.listdir(folder_path):
+#     if "section" in filename:
+#         capitvlvm_number = filename.split(".")[0].split("_")[1]
+#         if int(capitvlvm_number) in selected_capitvlvms and "en" not in filename:
+#             with open(os.path.join(folder_path, filename), "r") as file:
+#                 for line in file:
+#                     if not line.startswith("#"):
+#                         output_dict.update(whole_word_replacement(line.rstrip("\n")))
+#                         output_dict.update(suffix_replacement(line.rstrip("\n")))
 
-                dict_to_jsonl(output_dict, "ch" + capitvlvm_number + "_ quizzes.jsonl") #TODO: give better output
+#                 dict_to_jsonl(output_dict, "ch" + capitvlvm_number + "_ quizzes.jsonl") 
+filename = "input.txt"
+with open(filename, "r") as file:
+    for line in file:
+        if not line.startswith("#"):
+            output_dict.update(whole_word_replacement(line.rstrip("\n")))
+            output_dict.update(suffix_replacement(line.rstrip("\n")))
+
+dict_to_jsonl(output_dict, filename + "_ quizzes.jsonl")

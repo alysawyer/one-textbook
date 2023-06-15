@@ -47,7 +47,7 @@ def create_pivot_table(df, index, columns, values):
 
 
 # iterate through all the files in results folder
-directory = 'results'
+directory = 'results-capV'
 data = []
 for filename in os.listdir(directory):
     filePath = os.path.join(directory, filename)
@@ -57,19 +57,19 @@ for filename in os.listdir(directory):
             try:
                 accuracy = float(rate)
             except ValueError:
-                print(f"Could not convert {rate} to float. Skipping...")
+                print(f"Could not convert {rate} to float. In file: " + filename + " Skipping..")
                 continue
-        chapter, question_type, style, model, quiz_type = filename.split(".")[0:5]
-        data.append([model, chapter, style, quiz_type, question_type, accuracy])
+        chapter, question_type, style, model, quiz_type, shot, exclusion = filename.split(".")[0:7]
+        data.append([model, chapter, style, quiz_type, question_type, shot, exclusion, accuracy])
 
 
 # making data frame
-# text-ada-001.CAPITVLVM_I.style9.mc.PENSVM-A.json
-df = pd.DataFrame(data, columns=["model", "chapter", "style", "quiz_type", "question_type", "accuracy"])
+# CAPITVLVM_V.mc.style_3.davinci-base.PENSVMA.0shot.5exclusion.json
+df = pd.DataFrame(data, columns=["model", "chapter", "style", "quiz_type", "question_type", "shot", "exclusion", "accuracy"])
 df['chapter'] = df['chapter'].str.split('_').str[1].map(roman_to_decimal)
 print(df)
 # pivoting to make specific tables
-output_directory = "results-formatted/"
+output_directory = "charts-graphs-ch5/"
 # model chapter table
 pivot_df_model_chapter = create_pivot_table(df, 'model', 'chapter', 'accuracy')
 pivot_df_model_chapter.to_csv(output_directory + 'results-model-chapter.csv')

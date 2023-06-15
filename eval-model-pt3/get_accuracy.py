@@ -63,11 +63,19 @@ def main():
     info_list = parser.parse_args().second_argument.split(".")
     print(info_list)
     
-    json_name = ".".join([info_list[0].split("/")[2], info_list[3], info_list[1], info_list[2], info_list[0].split("/")[1], info_list[4]])
-    
+    model = "davinci"
+    if info_list[4] == "davinci:ft-personal:ch5txt-only-2023-06-15-04-29-57":
+        model = "davinci-finetuned-ch5txt-only"
+    elif info_list[4] == "davinci:ft-personal:ch5txt-replacements-2023-06-15-01-18-46":
+        model = "davinci-finetuned-ch5txt-replacements"
+    json_name = ".".join([info_list[0].split("/")[2], info_list[5], info_list[1], model, info_list[0].split("/")[1], info_list[2], info_list[3]])
+
     print(json_name)
-    with open("results-capV/" + json_name, "w") as outfile:
-         outfile.write(str(calc_accuracy(data["codes"])))
+    output_file = "results-capV/" + json_name + ".json"
+
+    if not os.path.exists(output_file) or os.path.getsize(file_path) == 0:
+        with open(output_file, "w") as outfile:
+            outfile.write(str(calc_accuracy(data["codes"])))
 
 if __name__ == "__main__":
     main()

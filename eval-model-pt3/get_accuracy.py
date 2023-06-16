@@ -73,7 +73,7 @@ def main():
     print(json_name)
     output_file = "results-capV/" + json_name + ".json"
 
-    if not os.path.exists(output_file) or os.path.getsize(file_path) == 0:
+    if not os.path.exists(output_file) or os.path.getsize(file_path) == 0 and model != "davinci-finetuned-ch5txt-only" and model != "davinci-finetuned-ch5txt-replacements":
         with open(output_file, "w") as outfile:
             outfile.write(str(calc_accuracy(data["codes"])))
 

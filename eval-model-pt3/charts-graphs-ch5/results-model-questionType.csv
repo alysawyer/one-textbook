@@ -1,3 +1,4 @@
 model,mc
+davinci,0.125
 davinci-finetuned-ch5txt-only,0.1125
 davinci-finetuned-ch5txt-replacements,0.0625

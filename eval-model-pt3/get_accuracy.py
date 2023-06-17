@@ -68,6 +68,8 @@ def main():
         model = "davinci-finetuned-ch5txt-only"
     elif info_list[4] == "davinci:ft-personal:ch5txt-replacements-2023-06-15-01-18-46":
         model = "davinci-finetuned-ch5txt-replacements"
+    elif info_list[4] == "davinci:ft-personal:ch5txt-prompt-replacements-2023-06-17-19-29-25":
+        model = "davinci-finetuned-ch5txt-qareplacements"
     json_name = ".".join([info_list[0].split("/")[2], info_list[5], info_list[1], model, info_list[0].split("/")[1], info_list[2], info_list[3]])
 
     print(json_name)

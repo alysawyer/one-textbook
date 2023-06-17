@@ -1,4 +1,5 @@
 model,5
-davinci,0.125
+davinci,0.1
 davinci-finetuned-ch5txt-only,0.1125
+davinci-finetuned-ch5txt-qareplacements,0.07500000000000001
 davinci-finetuned-ch5txt-replacements,0.0625

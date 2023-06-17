@@ -1,16 +1,23 @@
 import re
 import json
-import os
+import random
 
 def dict_to_jsonl(dictionary, file_path):
-    ''' converts the dictionary to jsonl format for openai api'''
+    '''converts the dictionary to jsonl format for openai api'''
     with open(file_path, 'w') as file:
         for key, value in dictionary.items():
-            json_data = {'prompt': "Answer key: " + str(value[1]) + " Q: " + key + " A: ", 'completion': str(value[0])}
+            json_data = {'prompt': "ANSWER KEY:" + str(value[1]) + " Q: " + key + " A: ", 'completion': str(value[0])}
             json_line = json.dumps(json_data)
             file.write(json_line + '\n')
 
-def whole_word_replacement(input_string):
+def create_word_bank(file_text, num):
+    '''creates a list of num random words from file_text'''
+    words = re.findall(r'\b\w+\b', file_text)
+    random_words = random.sample(words, num)
+    return random_words
+
+
+def whole_word_replacement(input_string, file_text):
     '''takes in one line of the file, outputs a dictionary with the following format for every word in the line:
     key: the line with one word replaced with a tidle
     value: the replaced word'''
@@ -18,7 +25,10 @@ def whole_word_replacement(input_string):
     word_dictionary = {}
 
     for word in words:
-        word_bank = ["list of random 10 words in the chapter here"]
+        word_bank = create_word_bank(file_text, 9)
+        word_bank.append(word)
+        random.shuffle(word_bank)
+        
         replaced_sentence = re.sub(r'\b' + word + r'\b', '~', input_string, count=1)  # Replace only the first occurrence of the current word with a tilde (~)
         word_dictionary[replaced_sentence] = [word, word_bank]
 
@@ -45,26 +55,15 @@ def suffix_replacement(input_string):
     return word_dictionary
 
 
-folder_path = "../data/llpsi"
-selected_capitvlvms = [1]
 output_dict = {}
-
-# for filename in os.listdir(folder_path):
-#     if "section" in filename:
-#         capitvlvm_number = filename.split(".")[0].split("_")[1]
-#         if int(capitvlvm_number) in selected_capitvlvms and "en" not in filename:
-#             with open(os.path.join(folder_path, filename), "r") as file:
-#                 for line in file:
-#                     if not line.startswith("#"):
-#                         output_dict.update(whole_word_replacement(line.rstrip("\n")))
-#                         output_dict.update(suffix_replacement(line.rstrip("\n")))
-
-#                 dict_to_jsonl(output_dict, "ch" + capitvlvm_number + "_ quizzes.jsonl") 
 filename = "ch5.txt"
+with open(filename, "r") as file:
+    file_text = file.read()
+
 with open(filename, "r") as file:
     for line in file:
         if not line.startswith("#"):
-            output_dict.update(whole_word_replacement(line.rstrip("\n")))
+            output_dict.update(whole_word_replacement(line.rstrip("\n"), file_text))
             output_dict.update(suffix_replacement(line.rstrip("\n")))
 
-dict_to_jsonl(output_dict, filename + "_QA_quizzes.jsonl")
+dict_to_jsonl(output_dict, "ch5_lesstoken_quizzes.jsonl")

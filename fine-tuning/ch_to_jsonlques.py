@@ -6,7 +6,7 @@ def dict_to_jsonl(dictionary, file_path):
     ''' converts the dictionary to jsonl format for openai api'''
     with open(file_path, 'w') as file:
         for key, value in dictionary.items():
-            json_data = {'prompt': key, 'completion': value}
+            json_data = {'prompt': "Answer key: " + str(value[1]) + " Q: " + key + " A: ", 'completion': str(value[0])}
             json_line = json.dumps(json_data)
             file.write(json_line + '\n')
 
@@ -18,8 +18,9 @@ def whole_word_replacement(input_string):
     word_dictionary = {}
 
     for word in words:
+        word_bank = ["list of random 10 words in the chapter here"]
         replaced_sentence = re.sub(r'\b' + word + r'\b', '~', input_string, count=1)  # Replace only the first occurrence of the current word with a tilde (~)
-        word_dictionary[replaced_sentence] = word
+        word_dictionary[replaced_sentence] = [word, word_bank]
 
     return word_dictionary
 
@@ -38,7 +39,7 @@ def suffix_replacement(input_string):
         for suffix in latin_suffixes:
             if word.endswith(suffix):
                 replaced_sentence = re.sub(r'\b' + word + r'\b', word[:-len(suffix)] + '~', input_string, count=1)  # Replace the suffix with a tilde (~) only once
-                word_dictionary[replaced_sentence] = suffix
+                word_dictionary[replaced_sentence] = [suffix, latin_suffixes]
                 break
 
     return word_dictionary
@@ -59,11 +60,11 @@ output_dict = {}
 #                         output_dict.update(suffix_replacement(line.rstrip("\n")))
 
 #                 dict_to_jsonl(output_dict, "ch" + capitvlvm_number + "_ quizzes.jsonl") 
-filename = "input.txt"
+filename = "ch5.txt"
 with open(filename, "r") as file:
     for line in file:
         if not line.startswith("#"):
             output_dict.update(whole_word_replacement(line.rstrip("\n")))
             output_dict.update(suffix_replacement(line.rstrip("\n")))
 
-dict_to_jsonl(output_dict, filename + "_ quizzes.jsonl")
+dict_to_jsonl(output_dict, filename + "_QA_quizzes.jsonl")

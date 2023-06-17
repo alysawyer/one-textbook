@@ -79,12 +79,6 @@ pivot_df_model_chapter.T.plot(kind='line').set(xlabel='Chapter', ylabel='Accurac
 plt.legend(title='Model', loc='upper right')
 plt.savefig(output_directory + 'model_chap.png')
 
-# prompt quiz type table fixing ada
-ada_df = df[df['model'] == 'text-ada-001']
-
-pivot_df_style_quiztype = create_pivot_table(ada_df, 'style', 'quiz_type', 'accuracy')
-pivot_df_style_quiztype.to_csv(output_directory + 'results-style-quiz_type-ada.csv')
-
 # question_type model table
 pivot_df_model_question_type = create_pivot_table(df, 'model', 'question_type', 'accuracy')
 pivot_df_model_question_type.to_csv(output_directory + 'results-model-questionType.csv')

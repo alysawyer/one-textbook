@@ -94,3 +94,10 @@ pivot_df_model_style.to_csv(output_directory + 'results-model-style.csv')
 pivot_df_model_style.T.plot(kind='bar').set(xlabel='Style', ylabel='Accuracy', title='Accuracy per model and prompt style')
 plt.legend(title='Model', loc='upper right')
 plt.savefig(output_directory + 'model_style.png')
+
+# model chapter plot
+pivot_df_shot_chapter = create_pivot_table(df, 'model', 'shot', 'accuracy')
+pivot_df_shot_chapter.to_csv(output_directory + 'results-shot-chapter.csv')
+pivot_df_shot_chapter.T.plot(kind='line').set(xlabel='Shot', ylabel='Accuracy', title='Accuracy per model and shot')
+plt.legend(title='Model', loc='upper right')
+plt.savefig(output_directory + 'model_chap.png')

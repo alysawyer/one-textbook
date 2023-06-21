@@ -15,36 +15,11 @@ def query(c):
     print(output)
     return {"code":c["code"]}, {"answer":c["answer"]}, {"model_output":output[0].variables['ANSWER'].strip()}
 
-def run(codes):
+def get_outputs(codes):
     results = []
     for c in codes:
         results.append(query(c))
     return results
-
-def get_outputs(codes):
-    '''calculates accuracy based on outputs from query
-
-    TODO: update these 
-    >>> calc_accuracy([{'code': ('argmax "Q: Fill in the missing words: Italia ~ Europa est; Graecia ~ in Europa est. '
-    ...                 'Answer Choices: (A) in quoque (B) ne non (C) ubi (D) non sed '
-    ...                 'A: [ANSWER]" from "openai/text-davinci-003" where ANSWER in ["A", "B","C", "D"]'),'answer': 'A'}, {'code': ('argmax' 
-    ...                 '"Q: Fill in the missing words: ~ est Arabia? In Asia est Arabia. '
-    ...                 'Answer Choices: (A) in quoque (B) ne non (C) ubi (D) non sed '
-    ...                 'A: [ANSWER]" from "openai/text-davinci-003" where ANSWER in ["A", "B","C", "D"]'),'answer':'C'}])
-    0.5
-    >>> calc_accuracy([{'code': ('argmax "Q: Fill in the tilde: Italia in Europa ~. '
-    ...                 'Answer Choices: (A) est (B) sunt '
-    ...                 'A: [ANSWER]" from "openai/text-davinci-003" where ANSWER in ["A", "B"]'),'answer': 'A'}, {'code': ('argmax'
-    ...                 '"Q: Fill in the tilde: Italia et Gallia in Europa ~. '
-    ...                 'Answer Choices: (A) est (B) sunt '
-    ...                 'A: [ANSWER]" from "openai/text-davinci-003" where ANSWER in ["A", "B"]'),'answer':'B'}])
-    1.0
-    '''
-    # using query to prompt model with questions in parallel 
-    loop = asyncio.get_event_loop()
-    outputs = loop.run_until_complete(run(codes))
-
-    return outputs
 
 def calculate_accuracy(model_output):
     '''takes in list that contains the model output, questions, and answers, returns accuracy score'''

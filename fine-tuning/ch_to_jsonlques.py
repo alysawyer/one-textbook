@@ -91,13 +91,14 @@ with open(filename, "r") as file:
     # split the file randomly in half
     # for line in 1 half, for line in second half, 
     lines = file.readlines()
-    example_lines, eval_lines = np.array_split(lines, 2)
-    example_lines = [item for item in example_lines if re.search('[a-zA-Z]', item)]
+    #example_lines, eval_lines = np.array_split(lines, 2)
+    #example_lines = [item for item in example_lines if re.search('[a-zA-Z]', item)]
     random.shuffle(lines)
-    for eval_line in eval_lines:
+    # for eval_line in eval_lines:
+    for eval_line in lines:
         if not eval_line.startswith("#"):
             output_dict.update(whole_word_replacement(eval_line.rstrip("\n"), file_text))
             output_dict.update(suffix_replacement(eval_line.rstrip("\n")))
 
 
-dict_to_jsonl_1shot(output_dict, example_lines, "ch5_lesstoken_quizzes_1shot.jsonl", file_text)
+dict_to_jsonl_0shot(output_dict, "ch5_lesstoken_quizzes_0shot.jsonl")

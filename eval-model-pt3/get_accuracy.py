@@ -1,10 +1,7 @@
-import os
-import asyncio
 import lmql
 import json
 from pathlib import Path
 import argparse
-import aiometer
 from functools import partial
 
 def query(c):
@@ -20,17 +17,6 @@ def get_outputs(codes):
     for c in codes:
         results.append(query(c))
     return results
-
-def calculate_accuracy(model_output):
-    '''takes in list that contains the model output, questions, and answers, returns accuracy score'''
-    scores = []
-    for question in model_output:
-        if question[1]["answer"] == question[2]["model_output"]:
-            scores.append(1)
-        else:
-            scores.append(0)
-    
-    return sum(scores) / len(scores)
 
 def main():
     # opening json file

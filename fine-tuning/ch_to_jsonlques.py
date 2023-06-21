@@ -12,32 +12,27 @@ def dict_to_jsonl_0shot(dictionary, file_path):
             json_line = json.dumps(json_data)
             file.write(json_line + '\n')
 
-def dict_to_jsonl_1shot(dictionary, example_line, file_path, file_text):
+def dict_to_jsonl_1shot(dictionary, example_lines, file_path, file_text):
     '''converts the dictionary to jsonl format for openai api'''
     with open(file_path, 'w') as file:
         for key, value in dictionary.items():
-            formatted_example_line = create_shot_examples(example_line, value[2], file_text)
+            formatted_example_line = create_shot_examples(random.choice(example_lines), value[2], file_text)
             json_data = {'prompt': formatted_example_line + " ANSWER KEY:" + str(value[1]) + " Q: " + key + " A: ", 'completion': str(value[0])}
             json_line = json.dumps(json_data)
             file.write(json_line + '\n')
 
 def create_shot_examples(example_line, whole_or_partial, file_text):
-    output_dict = {}
+    output_dict = {"NONE":"NONE"}
     if whole_or_partial == "w":
-        output_dict = whole_word_replacement(example_line, file_text)
+        output_dict = whole_word_replacement(example_line.rstrip("\n"), file_text)
     else:
-        output_dict = suffix_replacement(example_line)    
-
-
+        output_dict = suffix_replacement(example_line.rstrip("\n"))    
+        if not output_dict:
+            output_dict = whole_word_replacement(example_line.rstrip("\n"), file_text)
     
     dict_key = str(list(output_dict.keys())[0])
 
-    print(output_dict[dict_key])
-    print("ANSWER KEY:" + str(output_dict[dict_key][1]) + " Q: " + dict_key + " A: " +  str(output_dict[dict_key][0]))
     return "ANSWER KEY:" + str(output_dict[dict_key][1]) + " Q: " + dict_key + " A: " +  str(output_dict[dict_key][0])
-
-    return "meow"
-    return "ANSWER KEY:" + output_dict.values()[1] + " Q: " + output_dict.keys()[0] + " A: " + output_dict.values()[0]
 
 def create_word_bank(file_text, num):
     '''creates a list of num random words from file_text'''
@@ -52,15 +47,17 @@ def whole_word_replacement(input_string, file_text):
     value: the replaced word'''
     words = re.findall(r'\b\w+\b', input_string)  # Extract words from the input string
     word_dictionary = {}
+    print(words)
 
     for word in words:
         word_bank = create_word_bank(file_text, 9)
         word_bank.append(word)
         random.shuffle(word_bank)
         
-        replaced_sentence = re.sub(r'\b' + word + r'\b', '~', input_string, count=1)  # Replace only the first occurrence of the current word with a tilde (~)
+        replaced_sentence = re.sub(r'\b' + word + r'\b', "~", input_string, count=1)  # Replace only the first occurrence of the current word with a tilde (~)
         word_dictionary[replaced_sentence] = [word, word_bank, "w"]
-
+    
+    print(word_dictionary)
     return word_dictionary
 
 def suffix_replacement(input_string):
@@ -85,7 +82,8 @@ def suffix_replacement(input_string):
 
 
 output_dict = {}
-filename = "ch5.txt"
+filename = "ch5_sentencesplit.txt"
+
 with open(filename, "r") as file:
     file_text = file.read()
 
@@ -94,11 +92,12 @@ with open(filename, "r") as file:
     # for line in 1 half, for line in second half, 
     lines = file.readlines()
     example_lines, eval_lines = np.array_split(lines, 2)
+    example_lines = [item for item in example_lines if re.search('[a-zA-Z]', item)]
     random.shuffle(lines)
     for eval_line in eval_lines:
-        if not eval_line.startswith("#") or example_line.startswith("#"):
+        if not eval_line.startswith("#"):
             output_dict.update(whole_word_replacement(eval_line.rstrip("\n"), file_text))
             output_dict.update(suffix_replacement(eval_line.rstrip("\n")))
 
-for example_line in example_lines:
-    dict_to_jsonl_1shot(output_dict, example_line, "ch5_lesstoken_quizzes_1shot.jsonl", file_text)
+
+dict_to_jsonl_1shot(output_dict, example_lines, "ch5_lesstoken_quizzes_1shot.jsonl", file_text)

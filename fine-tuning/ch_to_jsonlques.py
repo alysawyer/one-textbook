@@ -8,7 +8,7 @@ def dict_to_jsonl_0shot(dictionary, file_path):
     '''converts the dictionary to jsonl format for openai api'''
     with open(file_path, 'w') as file:
         for key, value in dictionary.items():
-            json_data = {'prompt': "ANSWER KEY:" + str(value[1]) + " Q: " + key + " A: ", 'completion': str(value[0])}
+            json_data = {'prompt': "This quiz is in Latin and tests your grammatical abilities. The ~ represents a missing character or word. Fill this in to match the context of the sentence. Provide the answer only. Question: " + key + " Choose from this set of possible answers " + str(value[1]) + " Answer: ", 'completion': str(value[0])}
             json_line = json.dumps(json_data)
             file.write(json_line + '\n')
 
@@ -101,4 +101,4 @@ with open(filename, "r") as file:
             output_dict.update(suffix_replacement(eval_line.rstrip("\n")))
 
 
-dict_to_jsonl_0shot(output_dict, "ch5_lesstoken_quizzes_0shot.jsonl")
+dict_to_jsonl_0shot(output_dict, "ch5_lesstoken_quizzes_0shot_style-4.jsonl")

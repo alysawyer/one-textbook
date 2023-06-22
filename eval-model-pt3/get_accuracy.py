@@ -45,23 +45,21 @@ with file_path.open(mode='r',encoding="utf-8") as f:
 
 # creating output base filename
 info_list = parser.parse_args().second_argument.split(".")
-model = "davinci"
-if info_list[4] == "davinci:ft-personal:ch5txt-only-2023-06-15-04-29-57":
-    model = "davinci-finetuned-ch5txt-only"
-elif info_list[4] == "davinci:ft-personal:ch5txt-replacements-2023-06-15-01-18-46":
-    model = "davinci-finetuned-ch5txt-replacements"
-elif info_list[4] == "davinci:ft-personal:ch5txt-prompt-replacements-2023-06-17-19-29-25":
-    model = "davinci-finetuned-ch5txt-qareplacements"
+model = info_list[4]
+if model == "davinci:ft-cmc:ch5txt-replacements-0shot-2023-06-21-23-47-32":
+    model = "davinci-finetuned-replacements-0shot"
+elif model == "davinci:ft-cmc:ch5txt-replacements-1shot-2023-06-21-22-14-03":
+    model = "davinci-finetuned-ch5txt-replacements-1shot"
 json_name = ".".join([info_list[0].split("/")[2], info_list[5], info_list[1], model, info_list[0].split("/")[1], info_list[2], info_list[3]])
 
 # creating output filepaths
-output_accuracy_file = "x/" + json_name + ".json"
-output_response_file = "x/" +  json_name + ".raw.json"
+output_accuracy_file = "results-capV-updated/" + json_name + ".json"
+output_response_file = "results-capV-updated-raw/" +  json_name + ".raw.json"
 
 if not os.path.exists(output_accuracy_file) or os.path.getsize(file_path) == 0: 
     # getting model output
     model_output = get_outputs(data["codes"]) 
-    
+
     # to NOT re query -- replace above line with: 
     # with open(output_response_file, 'r') as file:
     #     model_output =  json.load(file)

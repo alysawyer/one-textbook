@@ -8,5 +8,6 @@ lmql_code = "argmax 'ANSWER KEY:[blue, green, red, yellow] Q: What color is the 
 
 query(lmql_code)
 
+print(query(lmql_code))
 
 # output[0].variables['ANSWER'].strip()

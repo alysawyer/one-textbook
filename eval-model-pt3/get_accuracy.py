@@ -3,13 +3,14 @@ import json
 from pathlib import Path
 import argparse
 from functools import partial
+import os
 
 def query(c):
     '''takes in a dict that includes lmql prompt and the ground truth answer, 
     returns list of dictionaries that include prompt, ground truth, and model output'''
     print("sending output")
     output = lmql.run_sync(c["code"], output_writer=lmql.stream("RESPONSE"))
-    print("output returned as: " + output)
+    print("output returned as: " + output[0].variables['ANSWER'].strip())
     # TODO: better way to do this?
     return {"code":c["code"]}, {"answer":c["answer"]}, {"model_output":output[0].variables['ANSWER'].strip()}
 
@@ -57,16 +58,16 @@ json_name = ".".join([info_list[0].split("/")[2], info_list[5], info_list[1], mo
 output_accuracy_file = "x/" + json_name + ".json"
 output_response_file = "x/" +  json_name + ".raw.json"
 
-#TODO: if not os.path.exists(output_accuracy_file) or os.path.getsize(file_path) == 0: 
-# getting model output
-model_output = get_outputs(data["codes"]) 
-# if alr ran -- replace w: 
-# with open(output_response_file, 'r') as file:
-#     model_output =  json.load(file)
+if not os.path.exists(output_accuracy_file) or os.path.getsize(file_path) == 0: 
+    # getting model output
+    model_output = get_outputs(data["codes"]) 
+    
+    # to NOT re query -- replace above line with: 
+    # with open(output_response_file, 'r') as file:
+    #     model_output =  json.load(file)
 
-# model_output = [({'code': 'argmax \'ANSWER KEY:[āte, am ant ī ōs at īte, it am iunt, iunt ō īs īs, ē ās ēte, īs, ā ā it, ent, ēte ite ās ite, ās unt unt ō am unt ō ās ā unt] Q: lius et Aemilia in vīll~ habit~ cum liber~ et serv~. A: ā ant īs īs Q: minus mult~ serv~ et mult~ ancill~ habet. A: ōs ōs ās ās Q: milia in peristȳl~ est cum Mārc~ et Quīnt~ et Iūli~. A: ō ō ō ā Q: Aemilia: "Mārce et Quīnte! Voc~ Iūliam!" A: [ANSWER]\' from \'openai/davinci\' where ANSWER in [\'ā\', \'ōs\', \'ō\', \'ās\', \'am\', \'āte\', \'am\', \'it\', \'iunt\', \'ē\', \'īs\', \'ā\', \'ent\', \'ēte\', \'ās\']'}, {'answer': 'āte'}, {'model_output': 'īs'}), ({'code': 'argmax \'ANSWER KEY:[āte, am ant ī ōs at īte, it am iunt, iunt ō īs īs, ē ās ēte, īs, ā ā it, ent, ēte ite ās ite, ās unt unt ō am unt ō ās ā unt] Q: lius et Aemilia in vīll~ habit~ cum liber~ et serv~. A: ā ant īs īs Q: minus mult~ serv~ et mult~ ancill~ habet. A: ōs ōs ās ās Q: milia in peristȳl~ est cum Mārc~ et Quīnt~ et Iūli~. A: ō ō ō ā Q: Puerī Iūli~ voc~ : "Iūlia! Ven~!" et Iūlia puer~ voc~ : "Mārce et Quīnte! Ven~ " A: [ANSWER]\' from \'openai/davinci\' where ANSWER in [\'ā\', \'ōs\', \'ō\', \'ās\', \'am\', \'āte\', \'am\', \'it\', \'iunt\', \'ē\', \'īs\', \'ā\', \'ent\', \'ēte\', \'ās\']'}, {'answer': 'am ant ī ōs at īte'}, {'model_output': 'īs'})]
-# exporting model output
-with open(output_accuracy_file, "w") as outfile:
-    outfile.write(str(calculate_accuracy(model_output)))
-with open(output_response_file, "w") as outfile:
-    outfile.write(json.dumps(model_output))
+    # exporting model output
+    with open(output_accuracy_file, "w") as outfile:
+        outfile.write(str(calculate_accuracy(model_output)))
+    with open(output_response_file, "w") as outfile:
+        outfile.write(json.dumps(model_output))

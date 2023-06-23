@@ -58,6 +58,7 @@ json_name = ".".join([info_list[0].split("/")[2], info_list[5], info_list[1], mo
 output_accuracy_file = "results/results-capV-style4/" + json_name + ".json"
 output_response_file = "results/results-capV-style4-raw/" +  json_name + ".raw.json"
 
+# only running new code 
 if not os.path.exists(output_accuracy_file) or os.path.getsize(file_path) == 0: 
     # getting model output
     model_output = get_outputs(data["codes"]) 

@@ -47,7 +47,7 @@ def create_pivot_table(df, index, columns, values):
 
 
 # iterate through all the files in results folder
-directory = 'results-capV-updated'
+directory = 'results-capV-style4'
 data = []
 for filename in os.listdir(directory):
     filePath = os.path.join(directory, filename)
@@ -69,7 +69,7 @@ df = pd.DataFrame(data, columns=["model", "chapter", "style", "quiz_type", "ques
 df['chapter'] = df['chapter'].str.split('_').str[1].map(roman_to_decimal)
 print(df)
 # pivoting to make specific tables
-output_directory = "charts-ch5-0-1-shot/"
+output_directory = "charts-ch5-0-1-shot-style_4/"
 # model chapter table
 pivot_df_model_chapter = create_pivot_table(df, 'model', 'chapter', 'accuracy')
 pivot_df_model_chapter.to_csv(output_directory + 'results-model-chapter.csv')

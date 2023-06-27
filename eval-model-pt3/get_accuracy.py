@@ -55,8 +55,8 @@ elif model == "davinci:ft-cmc:ch5txt-replacements-style4-0shot-2023-06-22-22-23-
 json_name = ".".join([info_list[0].split("/")[2], info_list[5], info_list[1], model, info_list[0].split("/")[1], info_list[2], info_list[3]])
 
 # creating output filepaths
-output_accuracy_file = "results/results-capV-style4/" + json_name + ".json"
-output_response_file = "results/results-capV-style4-raw/" +  json_name + ".raw.json"
+output_accuracy_file = "results/results-cap1to3/" + json_name + ".json"
+output_response_file = "results/results-cap1to3-raw/" +  json_name + ".raw.json"
 
 # only running new code 
 if not os.path.exists(output_accuracy_file) or os.path.getsize(file_path) == 0: 

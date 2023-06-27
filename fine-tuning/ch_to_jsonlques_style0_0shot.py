@@ -8,7 +8,7 @@ def dict_to_jsonl_0shot(dictionary, file_path):
     '''converts the dictionary to jsonl format for openai api'''
     with open(file_path, 'w') as file:
         for key, value in dictionary.items():
-            json_data = {'prompt': "This quiz is in Latin and tests your grammatical abilities. The ~ represents a missing character or word. Fill this in to match the context of the sentence. Provide the answer only. Question: " + key + " Choose from this set of possible answers " + str(value[1]) + " Answer: ", 'completion': str(value[0])}
+            json_data = {'prompt': "ANSWER KEY:" + str(value[1]) + " Q: " + key + " A: ", 'completion': str(value[0])}
             json_line = json.dumps(json_data)
             file.write(json_line + '\n')
 
@@ -17,7 +17,7 @@ def dict_to_jsonl_1shot(dictionary, example_lines, file_path, file_text):
     with open(file_path, 'w') as file:
         for key, value in dictionary.items():
             formatted_example_line = create_shot_examples(random.choice(example_lines), value[2], file_text)
-            json_data = {'prompt': formatted_example_line + " Question: " + key + " Choose from this set of possible answers " + str(value[1]) + " Answer: ", 'completion': str(value[0])}
+            json_data = {'prompt': formatted_example_line + " ANSWER KEY:" + str(value[1]) + " Q: " + key + " A: ", 'completion': str(value[0])}
             json_line = json.dumps(json_data)
             file.write(json_line + '\n')
 
@@ -32,7 +32,7 @@ def create_shot_examples(example_line, whole_or_partial, file_text):
     
     dict_key = str(list(output_dict.keys())[0])
 
-    return "This quiz is in Latin and tests your grammatical abilities. The ~ represents a missing character or word. Fill this in to match the context of the sentence. Provide the answer only. Question: " + dict_key + " Choose from this set of possible answers "+ str(output_dict[dict_key][1]) + " Answer: " +  str(output_dict[dict_key][0])
+    return "ANSWER KEY:" + str(output_dict[dict_key][1]) + " Q: " + dict_key + " A: " +  str(output_dict[dict_key][0])
 
 def create_word_bank(file_text, num):
     '''creates a list of num random words from file_text'''
@@ -69,8 +69,8 @@ def suffix_replacement(input_string):
     word_dictionary = {}
 
     # suffixes in ch5
-    latin_suffixes = ['am', 'ds', 'iunt', 'e', 'ete', 'o', 'os', 'unt', 'et', 'ate', 'a', 'ant', 'at', 'i', 'is', 'it', 'ent', 'ite', 'as']
-
+    latin_suffixes = ['us', 'ī', 'sunt', 'a', 'est', 'ae', 'um', 'ōrum', 'ārum', 'at', 'mē', 'it', 'tē', 'em', 'am', 'et', 'ōs', 'ās', 'ent', 'āte', 'iunt', 'ō', 'ē', 'ēte', 'unt', 'ds', 'e', 'ete', 'o', 'os', 'ate', 'ant', 'i', 'is', 'ent', 'ite', 'as']
+                    
     for word in words:
         for suffix in latin_suffixes:
             if word.endswith(suffix):
@@ -82,7 +82,7 @@ def suffix_replacement(input_string):
 
 
 output_dict = {}
-filename = "ch1-5_sentencesplit.txt"
+filename = "ch1-5.txt"
 
 with open(filename, "r") as file:
     file_text = file.read()
@@ -91,14 +91,14 @@ with open(filename, "r") as file:
     # split the file randomly in half
     # for line in 1 half, for line in second half, 
     lines = file.readlines()
-    example_lines, eval_lines = np.array_split(lines, 2)
-    example_lines = [item for item in example_lines if re.search('[a-zA-Z]', item)]
+    #example_lines, eval_lines = np.array_split(lines, 2)
+    #example_lines = [item for item in example_lines if re.search('[a-zA-Z]', item)]
     random.shuffle(lines)
-    for eval_line in eval_lines:
-    #for eval_line in lines:
+    # for eval_line in eval_lines:
+    for eval_line in lines:
         if not eval_line.startswith("#"):
             output_dict.update(whole_word_replacement(eval_line.rstrip("\n"), file_text))
             output_dict.update(suffix_replacement(eval_line.rstrip("\n")))
 
 
-dict_to_jsonl_1shot(output_dict, example_lines, "ch1-5_style0_quizzes.jsonl", file_text)
+dict_to_jsonl_0shot(output_dict, "ch1-5_lesstoken_0shot.jsonl")

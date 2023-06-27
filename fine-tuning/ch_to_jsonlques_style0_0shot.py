@@ -68,8 +68,8 @@ def suffix_replacement(input_string):
     words = re.findall(r'\b\w+\b', input_string)  # Extract words from the input string
     word_dictionary = {}
 
-    # suffixes in ch5
-    latin_suffixes = ['us', 'ī', 'sunt', 'a', 'est', 'ae', 'um', 'ōrum', 'ārum', 'at', 'mē', 'it', 'tē', 'em', 'am', 'et', 'ōs', 'ās', 'ent', 'āte', 'iunt', 'ō', 'ē', 'ēte', 'unt', 'ds', 'e', 'ete', 'o', 'os', 'ate', 'ant', 'i', 'is', 'ent', 'ite', 'as']
+    # suffixes in ch1-3
+    latin_suffixes = ['um', 'sunt', 'ae', 'ārum', 'us', 'drum', 'est', 'a', 'ī']
                     
     for word in words:
         for suffix in latin_suffixes:
@@ -82,7 +82,7 @@ def suffix_replacement(input_string):
 
 
 output_dict = {}
-filename = "ch1-5.txt"
+filename = "ch1-3.txt"
 
 with open(filename, "r") as file:
     file_text = file.read()
@@ -101,4 +101,4 @@ with open(filename, "r") as file:
             output_dict.update(suffix_replacement(eval_line.rstrip("\n")))
 
 
-dict_to_jsonl_0shot(output_dict, "ch1-5_lesstoken_0shot.jsonl")
+dict_to_jsonl_0shot(output_dict, "ch1-3_lesstoken_0shot.jsonl")

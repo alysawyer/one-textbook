@@ -1,0 +1,1216 @@
+[
+    {
+        "question": "Iūlius et Aemilia in vīll~ habitant cum liberīs et servīs.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iūlius et Aemilia in vīllā habitant cum liberīs et servīs.",
+                "perplexity": 7.861075019538702
+            },
+            {
+                "evalsentence": "Iūlius et Aemilia in vīllent habitant cum liberīs et servīs.",
+                "perplexity": 12.640427195648295
+            },
+            {
+                "evalsentence": "Iūlius et Aemilia in vīllat habitant cum liberīs et servīs.",
+                "perplexity": 12.314285937208068
+            },
+            {
+                "evalsentence": "Iūlius et Aemilia in vīllē habitant cum liberīs et servīs.",
+                "perplexity": 10.306452452812405
+            }
+        ],
+        "answer": "Iūlius et Aemilia in vīllā habitant cum liberīs et servīs."
+    },
+    {
+        "question": "Iūlius et Aemilia in vīllā habit~ cum liberīs et servīs.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iūlius et Aemilia in vīllā habitant cum liberīs et servīs.",
+                "perplexity": 7.861075019538702
+            },
+            {
+                "evalsentence": "Iūlius et Aemilia in vīllā habitās cum liberīs et servīs.",
+                "perplexity": 7.853002838803266
+            },
+            {
+                "evalsentence": "Iūlius et Aemilia in vīllā habitāte cum liberīs et servīs.",
+                "perplexity": 8.797432950009547
+            },
+            {
+                "evalsentence": "Iūlius et Aemilia in vīllā habitīte cum liberīs et servīs.",
+                "perplexity": 11.104118860233827
+            }
+        ],
+        "answer": "Iūlius et Aemilia in vīllā habitant cum liberīs et servīs."
+    },
+    {
+        "question": "Iūlius et Aemilia in vīllā habitant cum liber~ et servīs.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iūlius et Aemilia in vīllā habitant cum liberīs et servīs.",
+                "perplexity": 7.869069577395435
+            },
+            {
+                "evalsentence": "Iūlius et Aemilia in vīllā habitant cum liberant et servīs.",
+                "perplexity": 16.816336142999482
+            },
+            {
+                "evalsentence": "Iūlius et Aemilia in vīllā habitant cum liberās et servīs.",
+                "perplexity": 10.195032673851227
+            },
+            {
+                "evalsentence": "Iūlius et Aemilia in vīllā habitant cum liberite et servīs.",
+                "perplexity": 17.159280446828205
+            }
+        ],
+        "answer": "Iūlius et Aemilia in vīllā habitant cum liberīs et servīs."
+    },
+    {
+        "question": "Iūlius et Aemilia in vīllā habitant cum liberīs et serv~.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iūlius et Aemilia in vīllā habitant cum liberīs et servīs.",
+                "perplexity": 7.861075019538702
+            },
+            {
+                "evalsentence": "Iūlius et Aemilia in vīllā habitant cum liberīs et servant.",
+                "perplexity": 12.527951282115545
+            },
+            {
+                "evalsentence": "Iūlius et Aemilia in vīllā habitant cum liberīs et servōs.",
+                "perplexity": 9.218777761951163
+            },
+            {
+                "evalsentence": "Iūlius et Aemilia in vīllā habitant cum liberīs et servīte.",
+                "perplexity": 10.649643689205433
+            }
+        ],
+        "answer": "Iūlius et Aemilia in vīllā habitant cum liberīs et servīs."
+    },
+    {
+        "question": "Dominus mult~ servōs et multās ancillās habet.",
+        "evalsentences": [
+            {
+                "evalsentence": "Dominus multōs servōs et multās ancillās habet.",
+                "perplexity": 5.667722807578817
+            },
+            {
+                "evalsentence": "Dominus multī servōs et multās ancillās habet.",
+                "perplexity": 6.167513443426998
+            },
+            {
+                "evalsentence": "Dominus multant servōs et multās ancillās habet.",
+                "perplexity": 14.680896574824235
+            }
+        ],
+        "answer": "Dominus multōs servōs et multās ancillās habet."
+    },
+    {
+        "question": "Dominus multōs serv~ et multās ancillās habet.",
+        "evalsentences": [
+            {
+                "evalsentence": "Dominus multōs servōs et multās ancillās habet.",
+                "perplexity": 5.642869377731529
+            },
+            {
+                "evalsentence": "Dominus multōs servā et multās ancillās habet.",
+                "perplexity": 16.52946422817225
+            },
+            {
+                "evalsentence": "Dominus multōs servite et multās ancillās habet.",
+                "perplexity": 14.044596846673207
+            },
+            {
+                "evalsentence": "Dominus multōs servunt et multās ancillās habet.",
+                "perplexity": 16.4683400567661
+            }
+        ],
+        "answer": "Dominus multōs servōs et multās ancillās habet."
+    },
+    {
+        "question": "Dominus multōs servōs et mult~ ancillās habet.",
+        "evalsentences": [
+            {
+                "evalsentence": "Dominus multōs servōs et multās ancillās habet.",
+                "perplexity": 5.701719587100763
+            },
+            {
+                "evalsentence": "Dominus multōs servōs et multīs ancillās habet.",
+                "perplexity": 6.602329359854614
+            },
+            {
+                "evalsentence": "Dominus multōs servōs et multē ancillās habet.",
+                "perplexity": 12.568942833716866
+            },
+            {
+                "evalsentence": "Dominus multōs servōs et multite ancillās habet.",
+                "perplexity": 14.404681931986124
+            }
+        ],
+        "answer": "Dominus multōs servōs et multās ancillās habet."
+    },
+    {
+        "question": "Dominus multōs servōs et multās ancill~ habet.",
+        "evalsentences": [
+            {
+                "evalsentence": "Dominus multōs servōs et multās ancillās habet.",
+                "perplexity": 5.667722807578817
+            },
+            {
+                "evalsentence": "Dominus multōs servōs et multās ancillē habet.",
+                "perplexity": 15.943715585333354
+            },
+            {
+                "evalsentence": "Dominus multōs servōs et multās ancillat habet.",
+                "perplexity": 12.922724467707118
+            },
+            {
+                "evalsentence": "Dominus multōs servōs et multās ancillam habet.",
+                "perplexity": 8.853598865141336
+            }
+        ],
+        "answer": "Dominus multōs servōs et multās ancillās habet."
+    },
+    {
+        "question": "Aemilia in peristȳl~ est cum Mārcō et Quīntō et Iūliā.",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia in peristȳlō est cum Mārcō et Quīntō et Iūliā.",
+                "perplexity": 10.977681963352552
+            },
+            {
+                "evalsentence": "Aemilia in peristȳlās est cum Mārcō et Quīntō et Iūliā.",
+                "perplexity": 11.5434718467174
+            },
+            {
+                "evalsentence": "Aemilia in peristȳlī est cum Mārcō et Quīntō et Iūliā.",
+                "perplexity": 12.92878517335326
+            },
+            {
+                "evalsentence": "Aemilia in peristȳlent est cum Mārcō et Quīntō et Iūliā.",
+                "perplexity": 17.54271679191534
+            }
+        ],
+        "answer": "Aemilia in peristȳlō est cum Mārcō et Quīntō et Iūliā."
+    },
+    {
+        "question": "Aemilia in peristȳlō est cum Mārc~ et Quīntō et Iūliā.",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia in peristȳlō est cum Mārcō et Quīntō et Iūliā.",
+                "perplexity": 10.977681963352552
+            },
+            {
+                "evalsentence": "Aemilia in peristȳlō est cum Mārcite et Quīntō et Iūliā.",
+                "perplexity": 13.304298474084002
+            },
+            {
+                "evalsentence": "Aemilia in peristȳlō est cum Mārcīte et Quīntō et Iūliā.",
+                "perplexity": 12.27602801167965
+            },
+            {
+                "evalsentence": "Aemilia in peristȳlō est cum Mārcit et Quīntō et Iūliā.",
+                "perplexity": 16.044417163191483
+            }
+        ],
+        "answer": "Aemilia in peristȳlō est cum Mārcō et Quīntō et Iūliā."
+    },
+    {
+        "question": "Aemilia in peristȳlō est cum Mārcō et Quīnt~ et Iūliā.",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia in peristȳlō est cum Mārcō et Quīntō et Iūliā.",
+                "perplexity": 11.020415933852648
+            },
+            {
+                "evalsentence": "Aemilia in peristȳlō est cum Mārcō et Quīntī et Iūliā.",
+                "perplexity": 11.391769988555582
+            },
+            {
+                "evalsentence": "Aemilia in peristȳlō est cum Mārcō et Quīntam et Iūliā.",
+                "perplexity": 13.229814113596762
+            },
+            {
+                "evalsentence": "Aemilia in peristȳlō est cum Mārcō et Quīntite et Iūliā.",
+                "perplexity": 15.754514637918476
+            }
+        ],
+        "answer": "Aemilia in peristȳlō est cum Mārcō et Quīntō et Iūliā."
+    },
+    {
+        "question": "Aemilia in peristȳlō est cum Mārcō et Quīntō et Iūli~.",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia in peristȳlō est cum Mārcō et Quīntō et Iūliā.",
+                "perplexity": 11.020415933852648
+            },
+            {
+                "evalsentence": "Aemilia in peristȳlō est cum Mārcō et Quīntō et Iūliō.",
+                "perplexity": 10.196516259039718
+            },
+            {
+                "evalsentence": "Aemilia in peristȳlō est cum Mārcō et Quīntō et Iūliīte.",
+                "perplexity": 12.607039631083152
+            },
+            {
+                "evalsentence": "Aemilia in peristȳlō est cum Mārcō et Quīntō et Iūliat.",
+                "perplexity": 16.395999556644437
+            }
+        ],
+        "answer": "Aemilia in peristȳlō est cum Mārcō et Quīntō et Iūliā."
+    },
+    {
+        "question": "Iūlia mult~ rosās in hortō videt et ab Aemiliā discēdit.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iūlia multās rosās in hortō videt et ab Aemiliā discēdit.",
+                "perplexity": 11.336221129093271
+            },
+            {
+                "evalsentence": "Iūlia multat rosās in hortō videt et ab Aemiliā discēdit.",
+                "perplexity": 19.210220453905514
+            },
+            {
+                "evalsentence": "Iūlia multite rosās in hortō videt et ab Aemiliā discēdit.",
+                "perplexity": 20.844428594907164
+            },
+            {
+                "evalsentence": "Iūlia multēte rosās in hortō videt et ab Aemiliā discēdit.",
+                "perplexity": 18.437639601051497
+            }
+        ],
+        "answer": "Iūlia multās rosās in hortō videt et ab Aemiliā discēdit."
+    },
+    {
+        "question": "Iūlia multās ros~ in hortō videt et ab Aemiliā discēdit.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iūlia multās rosās in hortō videt et ab Aemiliā discēdit.",
+                "perplexity": 11.289117703850259
+            },
+            {
+                "evalsentence": "Iūlia multās rosīs in hortō videt et ab Aemiliā discēdit.",
+                "perplexity": 12.797892244162249
+            },
+            {
+                "evalsentence": "Iūlia multās rosiunt in hortō videt et ab Aemiliā discēdit.",
+                "perplexity": 25.24378162916807
+            },
+            {
+                "evalsentence": "Iūlia multās rosam in hortō videt et ab Aemiliā discēdit.",
+                "perplexity": 17.026601844399558
+            }
+        ],
+        "answer": "Iūlia multās rosās in hortō videt et ab Aemiliā discēdit."
+    },
+    {
+        "question": "Iūlia multās rosās in hort~ videt et ab Aemiliā discēdit.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iūlia multās rosās in hortō videt et ab Aemiliā discēdit.",
+                "perplexity": 11.359276672847512
+            },
+            {
+                "evalsentence": "Iūlia multās rosās in hortite videt et ab Aemiliā discēdit.",
+                "perplexity": 16.235459608358877
+            },
+            {
+                "evalsentence": "Iūlia multās rosās in hortīte videt et ab Aemiliā discēdit.",
+                "perplexity": 14.070600764049878
+            }
+        ],
+        "answer": "Iūlia multās rosās in hortō videt et ab Aemiliā discēdit."
+    },
+    {
+        "question": "Iūlia multās rosās in hortō vid~ et ab Aemiliā discēdit.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iūlia multās rosās in hortō videt et ab Aemiliā discēdit.",
+                "perplexity": 11.347247197197204
+            },
+            {
+                "evalsentence": "Iūlia multās rosās in hortō vidē et ab Aemiliā discēdit.",
+                "perplexity": 13.486450719398244
+            },
+            {
+                "evalsentence": "Iūlia multās rosās in hortō vidī et ab Aemiliā discēdit.",
+                "perplexity": 13.01845998692013
+            },
+            {
+                "evalsentence": "Iūlia multās rosās in hortō vident et ab Aemiliā discēdit.",
+                "perplexity": 14.67527798266579
+            }
+        ],
+        "answer": "Iūlia multās rosās in hortō videt et ab Aemiliā discēdit."
+    },
+    {
+        "question": "Iūlia multās rosās in hortō videt et ab Aemili~ discēdit.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iūlia multās rosās in hortō videt et ab Aemiliā discēdit.",
+                "perplexity": 11.347247197197204
+            },
+            {
+                "evalsentence": "Iūlia multās rosās in hortō videt et ab Aemiliōs discēdit.",
+                "perplexity": 11.50020341555085
+            },
+            {
+                "evalsentence": "Iūlia multās rosās in hortō videt et ab Aemiliīs discēdit.",
+                "perplexity": 10.63486828224196
+            },
+            {
+                "evalsentence": "Iūlia multās rosās in hortō videt et ab Aemiliē discēdit.",
+                "perplexity": 12.72887919573897
+            }
+        ],
+        "answer": "Iūlia multās rosās in hortō videt et ab Aemiliā discēdit."
+    },
+    {
+        "question": "Iūlia multās rosās in hortō videt et ab Aemiliā discēd~.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iūlia multās rosās in hortō videt et ab Aemiliā discēdit.",
+                "perplexity": 11.404335293090234
+            },
+            {
+                "evalsentence": "Iūlia multās rosās in hortō videt et ab Aemiliā discēdiunt.",
+                "perplexity": 14.790322406887032
+            },
+            {
+                "evalsentence": "Iūlia multās rosās in hortō videt et ab Aemiliā discēdite.",
+                "perplexity": 13.828056379130185
+            },
+            {
+                "evalsentence": "Iūlia multās rosās in hortō videt et ab Aemiliā discēdēte.",
+                "perplexity": 14.86129157959007
+            }
+        ],
+        "answer": "Iūlia multās rosās in hortō videt et ab Aemiliā discēdit."
+    },
+    {
+        "question": "Iam Aemilia puell~ nōn videt, neque puerī eam vident.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iam Aemilia puellam nōn videt, neque puerī eam vident.",
+                "perplexity": 10.030624826040237
+            },
+            {
+                "evalsentence": "Iam Aemilia puellīs nōn videt, neque puerī eam vident.",
+                "perplexity": 9.495795706315223
+            },
+            {
+                "evalsentence": "Iam Aemilia puellent nōn videt, neque puerī eam vident.",
+                "perplexity": 14.519470707470694
+            },
+            {
+                "evalsentence": "Iam Aemilia puellō nōn videt, neque puerī eam vident.",
+                "perplexity": 10.397452838438436
+            }
+        ],
+        "answer": "Iam Aemilia puellam nōn videt, neque puerī eam vident."
+    },
+    {
+        "question": "Iam Aemilia puellam nōn vid~, neque puerī eam vident.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iam Aemilia puellam nōn videt, neque puerī eam vident.",
+                "perplexity": 10.030624826040237
+            },
+            {
+                "evalsentence": "Iam Aemilia puellam nōn vidā, neque puerī eam vident.",
+                "perplexity": 13.990095477579404
+            },
+            {
+                "evalsentence": "Iam Aemilia puellam nōn vidī, neque puerī eam vident.",
+                "perplexity": 10.757119229944816
+            },
+            {
+                "evalsentence": "Iam Aemilia puellam nōn vidunt, neque puerī eam vident.",
+                "perplexity": 11.217404156260754
+            }
+        ],
+        "answer": "Iam Aemilia puellam nōn videt, neque puerī eam vident."
+    },
+    {
+        "question": "Iam Aemilia puellam nōn videt, neque puerī eam vid~.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iam Aemilia puellam nōn videt, neque puerī eam vident.",
+                "perplexity": 10.008230315889003
+            },
+            {
+                "evalsentence": "Iam Aemilia puellam nōn videt, neque puerī eam vidās.",
+                "perplexity": 14.04424961869923
+            },
+            {
+                "evalsentence": "Iam Aemilia puellam nōn videt, neque puerī eam vidī.",
+                "perplexity": 13.697617344578152
+            },
+            {
+                "evalsentence": "Iam Aemilia puellam nōn videt, neque puerī eam vidit.",
+                "perplexity": 12.596360694582257
+            }
+        ],
+        "answer": "Iam Aemilia puellam nōn videt, neque puerī eam vident."
+    },
+    {
+        "question": "Aemilia: \"Mārce et Quīnte! Voc~ Iūliam!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia: \"Mārce et Quīnte! Vocāte Iūliam!\"",
+                "perplexity": 14.501069136047647
+            },
+            {
+                "evalsentence": "Aemilia: \"Mārce et Quīnte! Vocat Iūliam!\"",
+                "perplexity": 18.70471796398383
+            },
+            {
+                "evalsentence": "Aemilia: \"Mārce et Quīnte! Vocit Iūliam!\"",
+                "perplexity": 25.531310397060608
+            }
+        ],
+        "answer": "Aemilia: \"Mārce et Quīnte! Vocāte Iūliam!\""
+    },
+    {
+        "question": "Puerī Iūli~ vocant : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venīte \"",
+        "evalsentences": [
+            {
+                "evalsentence": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venīte \"",
+                "perplexity": 6.412540730087813
+            },
+            {
+                "evalsentence": "Puerī Iūliet vocant : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venīte \"",
+                "perplexity": 7.883254910777552
+            },
+            {
+                "evalsentence": "Puerī Iūliat vocant : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venīte \"",
+                "perplexity": 8.259789135339206
+            },
+            {
+                "evalsentence": "Puerī Iūliīte vocant : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venīte \"",
+                "perplexity": 7.017400245573179
+            }
+        ],
+        "answer": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venīte \""
+    },
+    {
+        "question": "Puerī Iūliam voc~ : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venīte \"",
+        "evalsentences": [
+            {
+                "evalsentence": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venīte \"",
+                "perplexity": 6.427815448721233
+            },
+            {
+                "evalsentence": "Puerī Iūliam vociunt : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venīte \"",
+                "perplexity": 6.496036501007123
+            },
+            {
+                "evalsentence": "Puerī Iūliam vocē : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venīte \"",
+                "perplexity": 7.302118703749201
+            },
+            {
+                "evalsentence": "Puerī Iūliam vocīte : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venīte \"",
+                "perplexity": 7.040919698607928
+            }
+        ],
+        "answer": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venīte \""
+    },
+    {
+        "question": "Puerī Iūliam vocant : \"Iūlia! Ven~!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venīte \"",
+        "evalsentences": [
+            {
+                "evalsentence": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venīte \"",
+                "perplexity": 6.427815448721233
+            },
+            {
+                "evalsentence": "Puerī Iūliam vocant : \"Iūlia! Venunt!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venīte \"",
+                "perplexity": 8.08766166575981
+            },
+            {
+                "evalsentence": "Puerī Iūliam vocant : \"Iūlia! Venite!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venīte \"",
+                "perplexity": 7.023426065865728
+            }
+        ],
+        "answer": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venīte \""
+    },
+    {
+        "question": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puer~ vocat : \"Mārce et Quīnte! Venīte \"",
+        "evalsentences": [
+            {
+                "evalsentence": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venīte \"",
+                "perplexity": 6.427815448721233
+            },
+            {
+                "evalsentence": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puerant vocat : \"Mārce et Quīnte! Venīte \"",
+                "perplexity": 8.485879744586002
+            },
+            {
+                "evalsentence": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puerāte vocat : \"Mārce et Quīnte! Venīte \"",
+                "perplexity": 8.429260042116251
+            },
+            {
+                "evalsentence": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puerīte vocat : \"Mārce et Quīnte! Venīte \"",
+                "perplexity": 7.660513086348281
+            }
+        ],
+        "answer": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venīte \""
+    },
+    {
+        "question": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puerōs voc~ : \"Mārce et Quīnte! Venīte \"",
+        "evalsentences": [
+            {
+                "evalsentence": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venīte \"",
+                "perplexity": 6.427815448721233
+            },
+            {
+                "evalsentence": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puerōs vocā : \"Mārce et Quīnte! Venīte \"",
+                "perplexity": 7.930602974929209
+            },
+            {
+                "evalsentence": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puerōs vocīte : \"Mārce et Quīnte! Venīte \"",
+                "perplexity": 7.511691878541513
+            },
+            {
+                "evalsentence": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puerōs vocāte : \"Mārce et Quīnte! Venīte \"",
+                "perplexity": 7.5710396660278665
+            }
+        ],
+        "answer": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venīte \""
+    },
+    {
+        "question": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Ven~ \"",
+        "evalsentences": [
+            {
+                "evalsentence": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venīte \"",
+                "perplexity": 6.427815448721233
+            },
+            {
+                "evalsentence": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venam \"",
+                "perplexity": 8.128841227506479
+            },
+            {
+                "evalsentence": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venent \"",
+                "perplexity": 7.961826558060706
+            },
+            {
+                "evalsentence": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venī \"",
+                "perplexity": 6.655180003019956
+            }
+        ],
+        "answer": "Puerī Iūliam vocant : \"Iūlia! Venī!\" et Iūlia puerōs vocat : \"Mārce et Quīnte! Venīte \""
+    },
+    {
+        "question": "Iūlia puerōs nōn aud~, sed puerī Iūliam audiunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iūlia puerōs nōn audit, sed puerī Iūliam audiunt.",
+                "perplexity": 6.0918385362825225
+            },
+            {
+                "evalsentence": "Iūlia puerōs nōn audant, sed puerī Iūliam audiunt.",
+                "perplexity": 9.16340955316069
+            },
+            {
+                "evalsentence": "Iūlia puerōs nōn audat, sed puerī Iūliam audiunt.",
+                "perplexity": 8.682611799469866
+            },
+            {
+                "evalsentence": "Iūlia puerōs nōn audīs, sed puerī Iūliam audiunt.",
+                "perplexity": 6.147634896849028
+            }
+        ],
+        "answer": "Iūlia puerōs nōn audit, sed puerī Iūliam audiunt."
+    },
+    {
+        "question": "Iūlia puerōs nōn audit, sed puerī Iūli~ audiunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iūlia puerōs nōn audit, sed puerī Iūliam audiunt.",
+                "perplexity": 6.113346405226956
+            },
+            {
+                "evalsentence": "Iūlia puerōs nōn audit, sed puerī Iūliīs audiunt.",
+                "perplexity": 6.163257836758344
+            },
+            {
+                "evalsentence": "Iūlia puerōs nōn audit, sed puerī Iūliant audiunt.",
+                "perplexity": 8.816724053101831
+            }
+        ],
+        "answer": "Iūlia puerōs nōn audit, sed puerī Iūliam audiunt."
+    },
+    {
+        "question": "Iūlia puerōs nōn audit, sed puerī Iūliam aud~.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iūlia puerōs nōn audit, sed puerī Iūliam audiunt.",
+                "perplexity": 6.113346405226956
+            },
+            {
+                "evalsentence": "Iūlia puerōs nōn audit, sed puerī Iūliam audīs.",
+                "perplexity": 6.8177029364145305
+            },
+            {
+                "evalsentence": "Iūlia puerōs nōn audit, sed puerī Iūliam audat.",
+                "perplexity": 11.031425875780297
+            },
+            {
+                "evalsentence": "Iūlia puerōs nōn audit, sed puerī Iūliam audās.",
+                "perplexity": 9.467647567272163
+            }
+        ],
+        "answer": "Iūlia puerōs nōn audit, sed puerī Iūliam audiunt."
+    },
+    {
+        "question": "Iūlia: \"Cūr puerī nōn ven~?\" Iūlia ex hortō venit cum V rosīs pulchrīs.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iūlia: \"Cūr puerī nōn veniunt?\" Iūlia ex hortō venit cum V rosīs pulchrīs.",
+                "perplexity": 7.894634476356637
+            },
+            {
+                "evalsentence": "Iūlia: \"Cūr puerī nōn venunt?\" Iūlia ex hortō venit cum V rosīs pulchrīs.",
+                "perplexity": 9.47934145053115
+            },
+            {
+                "evalsentence": "Iūlia: \"Cūr puerī nōn venīs?\" Iūlia ex hortō venit cum V rosīs pulchrīs.",
+                "perplexity": 8.285284566404998
+            }
+        ],
+        "answer": "Iūlia: \"Cūr puerī nōn veniunt?\" Iūlia ex hortō venit cum V rosīs pulchrīs."
+    },
+    {
+        "question": "Iūlia: \"Cūr puerī nōn veniunt?\" Iūlia ex hort~ venit cum V rosīs pulchrīs.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iūlia: \"Cūr puerī nōn veniunt?\" Iūlia ex hortō venit cum V rosīs pulchrīs.",
+                "perplexity": 7.883531429900228
+            },
+            {
+                "evalsentence": "Iūlia: \"Cūr puerī nōn veniunt?\" Iūlia ex hortent venit cum V rosīs pulchrīs.",
+                "perplexity": 12.692683444731575
+            },
+            {
+                "evalsentence": "Iūlia: \"Cūr puerī nōn veniunt?\" Iūlia ex hortam venit cum V rosīs pulchrīs.",
+                "perplexity": 11.120887655541624
+            },
+            {
+                "evalsentence": "Iūlia: \"Cūr puerī nōn veniunt?\" Iūlia ex hortā venit cum V rosīs pulchrīs.",
+                "perplexity": 10.129552564624742
+            }
+        ],
+        "answer": "Iūlia: \"Cūr puerī nōn veniunt?\" Iūlia ex hortō venit cum V rosīs pulchrīs."
+    },
+    {
+        "question": "Iūlia: \"Cūr puerī nōn veniunt?\" Iūlia ex hortō venit cum V ros~ pulchrīs.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iūlia: \"Cūr puerī nōn veniunt?\" Iūlia ex hortō venit cum V rosīs pulchrīs.",
+                "perplexity": 7.883531429900228
+            },
+            {
+                "evalsentence": "Iūlia: \"Cūr puerī nōn veniunt?\" Iūlia ex hortō venit cum V rosāte pulchrīs.",
+                "perplexity": 9.761272392879317
+            },
+            {
+                "evalsentence": "Iūlia: \"Cūr puerī nōn veniunt?\" Iūlia ex hortō venit cum V rosam pulchrīs.",
+                "perplexity": 10.555050601870745
+            }
+        ],
+        "answer": "Iūlia: \"Cūr puerī nōn veniunt?\" Iūlia ex hortō venit cum V rosīs pulchrīs."
+    },
+    {
+        "question": "Iūlia: \"Cūr puerī nōn veniunt?\" Iūlia ex hortō venit cum V rosīs pulchr~.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iūlia: \"Cūr puerī nōn veniunt?\" Iūlia ex hortō venit cum V rosīs pulchrīs.",
+                "perplexity": 7.883531429900228
+            },
+            {
+                "evalsentence": "Iūlia: \"Cūr puerī nōn veniunt?\" Iūlia ex hortō venit cum V rosīs pulchrit.",
+                "perplexity": 12.367762438416008
+            },
+            {
+                "evalsentence": "Iūlia: \"Cūr puerī nōn veniunt?\" Iūlia ex hortō venit cum V rosīs pulchrō.",
+                "perplexity": 9.209690698397306
+            },
+            {
+                "evalsentence": "Iūlia: \"Cūr puerī nōn veniunt?\" Iūlia ex hortō venit cum V rosīs pulchret.",
+                "perplexity": 12.040271407395105
+            }
+        ],
+        "answer": "Iūlia: \"Cūr puerī nōn veniunt?\" Iūlia ex hortō venit cum V rosīs pulchrīs."
+    },
+    {
+        "question": "Iūlia: \"Vid~ rosās meās, māter! Vidēte, puerī!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "Iūlia: \"Vidē rosās meās, māter! Vidēte, puerī!\"",
+                "perplexity": 14.777536295917685
+            },
+            {
+                "evalsentence": "Iūlia: \"Vidēte rosās meās, māter! Vidēte, puerī!\"",
+                "perplexity": 13.763448310747716
+            },
+            {
+                "evalsentence": "Iūlia: \"Vidī rosās meās, māter! Vidēte, puerī!\"",
+                "perplexity": 14.041518542011067
+            },
+            {
+                "evalsentence": "Iūlia: \"Vidam rosās meās, māter! Vidēte, puerī!\"",
+                "perplexity": 11.752748236018391
+            }
+        ],
+        "answer": "Iūlia: \"Vidē rosās meās, māter! Vidēte, puerī!\""
+    },
+    {
+        "question": "Iūlia: \"Vidē ros~ meās, māter! Vidēte, puerī!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "Iūlia: \"Vidē rosās meās, māter! Vidēte, puerī!\"",
+                "perplexity": 14.896302583705108
+            },
+            {
+                "evalsentence": "Iūlia: \"Vidē rosīs meās, māter! Vidēte, puerī!\"",
+                "perplexity": 11.97270051969677
+            },
+            {
+                "evalsentence": "Iūlia: \"Vidē rosam meās, māter! Vidēte, puerī!\"",
+                "perplexity": 17.614849160927083
+            },
+            {
+                "evalsentence": "Iūlia: \"Vidē rosite meās, māter! Vidēte, puerī!\"",
+                "perplexity": 19.50130524192011
+            }
+        ],
+        "answer": "Iūlia: \"Vidē rosās meās, māter! Vidēte, puerī!\""
+    },
+    {
+        "question": "Iūlia: \"Vidē rosās meās, māter! Vid~, puerī!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "Iūlia: \"Vidē rosās meās, māter! Vidēte, puerī!\"",
+                "perplexity": 14.892432129907661
+            },
+            {
+                "evalsentence": "Iūlia: \"Vidē rosās meās, māter! Vidīs, puerī!\"",
+                "perplexity": 16.039592893840425
+            },
+            {
+                "evalsentence": "Iūlia: \"Vidē rosās meās, māter! Vidiunt, puerī!\"",
+                "perplexity": 16.08621450152538
+            },
+            {
+                "evalsentence": "Iūlia: \"Vidē rosās meās, māter! Vidō, puerī!\"",
+                "perplexity": 17.427400353242202
+            }
+        ],
+        "answer": "Iūlia: \"Vidē rosās meās, māter! Vidēte, puerī!\""
+    },
+    {
+        "question": "Mārcus: \"Rosae pulchrae sunt, puella sine ros~ pulchra nōn est!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "Mārcus: \"Rosae pulchrae sunt, puella sine rosīs pulchra nōn est!\"",
+                "perplexity": 7.103491574888074
+            },
+            {
+                "evalsentence": "Mārcus: \"Rosae pulchrae sunt, puella sine rosat pulchra nōn est!\"",
+                "perplexity": 11.11367765170003
+            },
+            {
+                "evalsentence": "Mārcus: \"Rosae pulchrae sunt, puella sine rosēte pulchra nōn est!\"",
+                "perplexity": 9.491758551747248
+            },
+            {
+                "evalsentence": "Mārcus: \"Rosae pulchrae sunt, puella sine rosam pulchra nōn est!\"",
+                "perplexity": 9.173913164767168
+            }
+        ],
+        "answer": "Mārcus: \"Rosae pulchrae sunt, puella sine rosīs pulchra nōn est!\""
+    },
+    {
+        "question": "Iūlia cum ūn~ rosā discēdit.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iūlia cum ūnā rosā discēdit.",
+                "perplexity": 16.29605730532946
+            },
+            {
+                "evalsentence": "Iūlia cum ūnās rosā discēdit.",
+                "perplexity": 16.87976312938456
+            },
+            {
+                "evalsentence": "Iūlia cum ūnīte rosā discēdit.",
+                "perplexity": 17.34454642973609
+            },
+            {
+                "evalsentence": "Iūlia cum ūnāte rosā discēdit.",
+                "perplexity": 20.529166751518595
+            }
+        ],
+        "answer": "Iūlia cum ūnā rosā discēdit."
+    },
+    {
+        "question": "Iūlia cum ūnā ros~ discēdit.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iūlia cum ūnā rosā discēdit.",
+                "perplexity": 16.304996735701614
+            },
+            {
+                "evalsentence": "Iūlia cum ūnā rosent discēdit.",
+                "perplexity": 40.15789622692677
+            },
+            {
+                "evalsentence": "Iūlia cum ūnā rosīs discēdit.",
+                "perplexity": 16.304971022597627
+            },
+            {
+                "evalsentence": "Iūlia cum ūnā rosī discēdit.",
+                "perplexity": 19.041984115687665
+            }
+        ],
+        "answer": "Iūlia cum ūnā rosā discēdit."
+    },
+    {
+        "question": "Iūlia cum ūnā rosā discēd~.",
+        "evalsentences": [
+            {
+                "evalsentence": "Iūlia cum ūnā rosā discēdit.",
+                "perplexity": 16.29605730532946
+            },
+            {
+                "evalsentence": "Iūlia cum ūnā rosā discēdēte.",
+                "perplexity": 17.34851379280218
+            },
+            {
+                "evalsentence": "Iūlia cum ūnā rosā discēdat.",
+                "perplexity": 19.771416971851906
+            }
+        ],
+        "answer": "Iūlia cum ūnā rosā discēdit."
+    },
+    {
+        "question": "Puerī rīd~.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puerī rīdent.",
+                "perplexity": 21.304098516267658
+            },
+            {
+                "evalsentence": "Puerī rīdam.",
+                "perplexity": 59.0595380372724
+            },
+            {
+                "evalsentence": "Puerī rīdat.",
+                "perplexity": 63.1622364512739
+            },
+            {
+                "evalsentence": "Puerī rīdās.",
+                "perplexity": 24.353979265921346
+            }
+        ],
+        "answer": "Puerī rīdent."
+    },
+    {
+        "question": "Aemilia: \"Tac~, puerī! Sūmite rosās et discēdite!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia: \"Tacēte, puerī! Sūmite rosās et discēdite!\"",
+                "perplexity": 10.38429144436335
+            },
+            {
+                "evalsentence": "Aemilia: \"Tacīte, puerī! Sūmite rosās et discēdite!\"",
+                "perplexity": 12.037188750402212
+            },
+            {
+                "evalsentence": "Aemilia: \"Tacunt, puerī! Sūmite rosās et discēdite!\"",
+                "perplexity": 13.66345354870016
+            },
+            {
+                "evalsentence": "Aemilia: \"Tacat, puerī! Sūmite rosās et discēdite!\"",
+                "perplexity": 14.049093910336945
+            }
+        ],
+        "answer": "Aemilia: \"Tacēte, puerī! Sūmite rosās et discēdite!\""
+    },
+    {
+        "question": "Aemilia: \"Tacēte, puerī! Sūm~ rosās et discēdite!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia: \"Tacēte, puerī! Sūmite rosās et discēdite!\"",
+                "perplexity": 10.501488901890276
+            },
+            {
+                "evalsentence": "Aemilia: \"Tacēte, puerī! Sūmat rosās et discēdite!\"",
+                "perplexity": 13.671762369098674
+            },
+            {
+                "evalsentence": "Aemilia: \"Tacēte, puerī! Sūmit rosās et discēdite!\"",
+                "perplexity": 10.31013477482891
+            },
+            {
+                "evalsentence": "Aemilia: \"Tacēte, puerī! Sūmē rosās et discēdite!\"",
+                "perplexity": 9.97731028270487
+            }
+        ],
+        "answer": "Aemilia: \"Tacēte, puerī! Sūmite rosās et discēdite!\""
+    },
+    {
+        "question": "Aemilia: \"Tacēte, puerī! Sūmite ros~ et discēdite!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia: \"Tacēte, puerī! Sūmite rosās et discēdite!\"",
+                "perplexity": 10.501488901890276
+            },
+            {
+                "evalsentence": "Aemilia: \"Tacēte, puerī! Sūmite rosō et discēdite!\"",
+                "perplexity": 14.278420382214172
+            },
+            {
+                "evalsentence": "Aemilia: \"Tacēte, puerī! Sūmite rosant et discēdite!\"",
+                "perplexity": 19.522653516553675
+            },
+            {
+                "evalsentence": "Aemilia: \"Tacēte, puerī! Sūmite rosiunt et discēdite!\"",
+                "perplexity": 20.510927919139096
+            }
+        ],
+        "answer": "Aemilia: \"Tacēte, puerī! Sūmite rosās et discēdite!\""
+    },
+    {
+        "question": "Aemilia: \"Tacēte, puerī! Sūmite rosās et discēd~!\"",
+        "evalsentences": [
+            {
+                "evalsentence": "Aemilia: \"Tacēte, puerī! Sūmite rosās et discēdite!\"",
+                "perplexity": 10.501488901890276
+            },
+            {
+                "evalsentence": "Aemilia: \"Tacēte, puerī! Sūmite rosās et discēdāte!\"",
+                "perplexity": 11.33909032462102
+            },
+            {
+                "evalsentence": "Aemilia: \"Tacēte, puerī! Sūmite rosās et discēdunt!\"",
+                "perplexity": 13.418117632282232
+            },
+            {
+                "evalsentence": "Aemilia: \"Tacēte, puerī! Sūmite rosās et discēdet!\"",
+                "perplexity": 14.01832667348413
+            }
+        ],
+        "answer": "Aemilia: \"Tacēte, puerī! Sūmite rosās et discēdite!\""
+    },
+    {
+        "question": "Puerī ros~ sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 7.77558143635606
+            },
+            {
+                "evalsentence": "Puerī rosā sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 8.39087055119487
+            },
+            {
+                "evalsentence": "Puerī rosiunt sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 9.588216631830136
+            },
+            {
+                "evalsentence": "Puerī rosāte sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 10.622855420534952
+            }
+        ],
+        "answer": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt."
+    },
+    {
+        "question": "Puerī rosās sūm~ et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 7.77558143635606
+            },
+            {
+                "evalsentence": "Puerī rosās sūmīte et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 9.175570765101746
+            },
+            {
+                "evalsentence": "Puerī rosās sūmit et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 8.687410625076728
+            },
+            {
+                "evalsentence": "Puerī rosās sūmite et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 9.751142334278821
+            }
+        ],
+        "answer": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt."
+    },
+    {
+        "question": "Puerī rosās sūmunt et discēd~ ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 7.77558143635606
+            },
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdent ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 8.33295088346699
+            },
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdī ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 9.105023396966203
+            },
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdant ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 7.930584709792654
+            }
+        ],
+        "answer": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt."
+    },
+    {
+        "question": "Puerī rosās sūmunt et discēdunt ; in ātri~ aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 7.77558143635606
+            },
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriunt aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 9.331822166482029
+            },
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriit aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 9.63056294265266
+            }
+        ],
+        "answer": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt."
+    },
+    {
+        "question": "Puerī rosās sūmunt et discēdunt ; in ātriō aqu~ sūmunt ex impluviō et rosās in aquā pōnunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 7.77558143635606
+            },
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquit sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 9.789531946605534
+            },
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquōs sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 8.665635266120464
+            },
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquite sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 10.003167727845884
+            }
+        ],
+        "answer": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt."
+    },
+    {
+        "question": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūm~ ex impluviō et rosās in aquā pōnunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 7.77558143635606
+            },
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmīte ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 9.992992387085009
+            },
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmō ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 8.937868317717575
+            },
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmī ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 9.444120351139265
+            }
+        ],
+        "answer": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt."
+    },
+    {
+        "question": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluvi~ et rosās in aquā pōnunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 7.77558143635606
+            },
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviāte et rosās in aquā pōnunt.",
+                "perplexity": 9.019223426636188
+            },
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluvient et rosās in aquā pōnunt.",
+                "perplexity": 10.495994917220546
+            },
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviet et rosās in aquā pōnunt.",
+                "perplexity": 9.322712729513064
+            }
+        ],
+        "answer": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt."
+    },
+    {
+        "question": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et ros~ in aquā pōnunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 7.77558143635606
+            },
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosē in aquā pōnunt.",
+                "perplexity": 9.986287619890623
+            },
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosant in aquā pōnunt.",
+                "perplexity": 10.155193947017583
+            },
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosiunt in aquā pōnunt.",
+                "perplexity": 10.93986181586835
+            }
+        ],
+        "answer": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt."
+    },
+    {
+        "question": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aqu~ pōnunt.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 7.77558143635606
+            },
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquī pōnunt.",
+                "perplexity": 8.862204429050818
+            },
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquam pōnunt.",
+                "perplexity": 7.864319482409597
+            },
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquēte pōnunt.",
+                "perplexity": 8.942017653009469
+            }
+        ],
+        "answer": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt."
+    },
+    {
+        "question": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōn~.",
+        "evalsentences": [
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt.",
+                "perplexity": 7.77558143635606
+            },
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnā.",
+                "perplexity": 10.148584145417855
+            },
+            {
+                "evalsentence": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnī.",
+                "perplexity": 9.290128953152596
+            }
+        ],
+        "answer": "Puerī rosās sūmunt et discēdunt ; in ātriō aquam sūmunt ex impluviō et rosās in aquā pōnunt."
+    }
+]

@@ -1,6 +1,7 @@
 import pandas as pd 
 import matplotlib.pyplot as plt
 import os
+from matplotlib.ticker import AutoLocator, MaxNLocator  # Add MaxNLocator to the import statement
 
 roman_to_decimal = {
     'I': 1,
@@ -94,9 +95,14 @@ pivot_df_model_chapter = create_pivot_table(filtered_df, 'model', 'chapter', 'ac
 pivot_df_model_chapter.to_csv(output_directory + 'results-model-chapter.csv')
 
 # model chapter plot
-pivot_df_model_chapter.T.plot(kind='line').set(xlabel='Chapter', ylabel='Accuracy', title='Accuracy per model and chapter')
+ax = pivot_df_model_chapter.T.plot(kind='line')
+ax.xaxis.set_major_locator(MaxNLocator(integer=True))  # Set the x-axis locator to show only whole numbers
+ax.set(xlabel='Chapter', ylabel='Accuracy', title='Accuracy per model and chapter')
 plt.legend(title='Model', loc='upper right')
+
+# Save the figure
 plt.savefig(output_directory + 'model_chap.png')
+plt.close()  # Close the figure to release memory
 
 # chapter quiz type table
 pivot_df_chapter_quiztype = create_pivot_table(filtered_df, 'model', 'quiz_type', 'accuracy')

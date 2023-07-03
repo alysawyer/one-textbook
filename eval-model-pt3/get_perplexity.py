@@ -1,3 +1,4 @@
+import lmql
 import json
 from pathlib import Path
 import argparse
@@ -7,9 +8,9 @@ import openai
 import time
 
 def get_perplexity(model, sentence):
-    '''Queries OpenAI API to get logprobs of the prompt sentence'''
+    '''queries openai api to get logprobs of the prompt sentence'''
 
-    # Define the completion parameters
+    # define the completion parameters
     completion_parameters = {
         "model": model,
         "prompt": sentence,
@@ -18,19 +19,9 @@ def get_perplexity(model, sentence):
         "echo": True
     }
 
-    # Check if the rate limit has been reached
-    if 'last_request_time' in get_perplexity.__dict__:
-        elapsed_time = time.time() - get_perplexity.last_request_time
-        time_to_wait = max(0, 60 - elapsed_time)
-        time.sleep(time_to_wait)
-
-    # Calling OpenAI API to get completion response
+    # calling openai api to get completion response
     response = openai.Completion.create(**completion_parameters)
-
-    # Update the last_request_time to track rate limiting
-    get_perplexity.last_request_time = time.time()
-
-    # Extract the log probabilities
+    # extracing the log probabilities 
     choices = response['choices'][0]
     token_logprobs = choices['logprobs']['token_logprobs']
 
@@ -91,9 +82,22 @@ if not os.path.exists(output_response_file) or os.path.getsize(output_response_f
 
         # Iterate through evalsentences
         result_list = []
+        requests_made = 0
+        start_time = time.time()
+
         for sentence in evalsentences:
             # Evaluate each sentence and calculate perplexity
             log_probs = get_perplexity(model, sentence)
+            result_list.append(log_probs)
+
+            requests_made += 1
+            if requests_made >= 60:
+                elapsed_time = time.time() - start_time
+                if elapsed_time < 60:
+                    time_to_wait = 60 - elapsed_time
+                    time.sleep(time_to_wait)
+                requests_made = 0
+                start_time = time.time()
 
             # Calculate perplexity from log_probs
             l = sum(log_probs[1:]) / len(log_probs[1:])

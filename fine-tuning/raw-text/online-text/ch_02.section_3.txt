@@ -1,0 +1,23 @@
+Quis est Cornelius? Cornelius dominus Romanus est. Iulius et Cornelius duo domini Romani sunt. Medus non est servus Cornelii. Medus servus Iulii est.
+
+Cornelius: “Cuius servus est Medus?”
+
+Iulius: “Medus servus meus est.”
+
+Cornelius: “Estne Davus servus tuus?”
+
+Iulius: “Davus quoque servus meus est. Servi mei sunt Medus et Davus et ceteri multi...”
+
+Cornelius: “Estne Delia ancilla tua?”
+
+Iulius: “Delia est ancilla mea, et Syra quoque ancilla mea est. Ancillae meae sunt Delia et Syra et ceterae multae. Familia mea magna est.”
+
+Cornelius: “Quot servi sunt in familia tua?”
+
+Iulius: “In familia mea sunt centum servi.”
+
+Cornelius: “Quid?”
+
+Iulius: “Numerus servorum meorum est centum.”
+
+Cornelius: “Centum servi! Magnus est numerus servorum tuorum!”

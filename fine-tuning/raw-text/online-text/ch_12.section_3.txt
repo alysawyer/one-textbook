@@ -1,0 +1,31 @@
+Iulia: “Ubi habitat Aemilius?”
+
+Iulius: “Aemilius in castris habitat mille passus a fine imperii. Castra sunt militum oppidum.”
+
+Marcus: “Quam longus est passus?”
+
+Iulius: “Unus passus est quinque pedes, ergo mille passus sunt quinque milia pedum. In castris Aemilii sex milia militum habitant. Nullae feminae aut pueri illic habitant, nec enim feminae puerique militare possunt. Circum castra fossa et vallum longum et altum est.”
+
+Marcus: “Quam altum est vallum castrorum.”
+
+Iulius: “Prope decem pedes altum est, et duo milia passuum longum. Quattuor portae per vallum in castra ducunt. Inter duas portas est via lata, quae castra in duas partes dividit; ea via centum pedes lata est.
+
+“In bello portae castrorum clauduntur. Cum exercitus Germanorum castra oppugnat, Romani castra defendunt: vallum ascendunt ac pila in Germanos iaciunt. Illi autem nec pila in castra iacere possunt, quod fossa nimis lata et vallum nimis altum est, nec vallum ascendere, quod Romani pilis et gladiis vallum defendunt. Hostes castra nostra expugnare non possunt.
+
+“Ecce portae aperiuntur atque equitatus noster in hostes impetum facit. Barbari perterriti, qui impetum equitatus sustinere non possunt, arma ad terram iaciunt atque in magnas silvas fugiunt.
+
+“Miles Romanus, qui hostem armatum accurrere videt, non ab eo fugit, sed armis se defendit. Milites Romani fortes sunt. Miles fortis hostem non metuit, sed sine metu impetum in hostem facit. Aemilius, avunculus vester, miles fortis est.
+
+“Circum imperium Romanum multi sunt hostes. Castra et oppida nostra ab hostibus oppugnantur neque expugnantur, nam milites nostri provincias ac patriam nostram a Germanis et ab aliis hostibus defendunt.”
+
+Marcus: “Etiam Germani suam patriam defendunt.”
+
+Iulius: “Sed patria nostra pulchrior est quam illorum! Atque Germani homines barbari sunt.”
+
+Marcus: “Nonne fortes sunt Germani?”
+
+Iulius: “Fortes sunt illi, sed Romani fortiores sunt, nec arma Germanorum tam bona sunt quam nostra. Scutum eorum nimis parvum est, pilum nimis longum et grave; nec enim pilum tam grave procul iaci potest. Itaque pilum nostrum breve et leve est - brevius et levius quam pilum Germanorum. Milites Romani bene pugnant, quod pila eorum brevia et levia sunt, non longa et gravia ut Germanorum. Patria nostra bonis armis defenditur. Nullus hostis Romam expugnare potest.”
+
+Marcus: “Cur Romani Germaniam non expugnant?”
+
+Iulius: “Germania non solum armis defenditur, sed etiam altis montibus, magnis silvis atque latis et altis fluminibus.”

@@ -1,0 +1,19 @@
+Quintus est frater Marci. Iulia soror eius est. Marcus et Quintus fratres Iuliae sunt. Marcus patrem et matrem, fratrem et sororem habet. Nomen patris est 'Iulius', matris 'Aemilia'; 'Quintus' est nomen fratris, 'Iulia' sororis.
+
+Marco una soror est. Iuliae duo fratres sunt. Nomina fratrum sunt 'Marcus' et 'Quintus'. Patri et matri una filia et duo filii sunt.
+
+Matri 'Aemilia' nomen est. Quod nomen est patri? Ei nomen est 'Lucius Iulius Balbus'. Viro Romano tria nomina sunt. 'Lucius' est praenomen, id est nomen primum; 'Balbus' cognomen est. Filiis nomina sunt 'Marcus Iulius Balbus' et 'Quintus Iulius Balbus'. 'Marcus' et 'Quintus' praenomina sunt filiorum. Alia praenomina Latina sunt 'Aulus', 'Decimus', 'Gaius', 'Publius', 'Sextus', 'Titus'.
+
+Aemiliae est unus frater, cui 'Aemilius' nomen est (praenomen 'Publius', cognomen 'Paulus'). Frater Aemiliae est avunculus liberorum. Aemilius autem procul a sorore sua abest. Itaque tristis est Aemilia, quae fretrem suum amat.
+
+Marcus et Iulia matrem sua tristem in hortum exire vident et patrem interrogant: “Cur mater nostra tristis est?”
+
+Iulius: “Mater vestra tristis est, quod Aemilius procul ab ea abest. Aemilius avunculus vester est, id est frater matris. Mater tristis est, quod fratrem suum videre non potest.”
+
+Marcus: “Ubi est avunculus noster?”
+
+Iulius: “Avunculus vester est in Germania. Aemilius miles est. In Germania multi sunt milites Romani.”
+
+Iulia: “Quid est miles?”
+
+Iulius: “Miles est vir qui scutum et glaudium et pilum fert. Scutum et gladius et pilum sunt arma militis Romani. Miles est vir armatus.”

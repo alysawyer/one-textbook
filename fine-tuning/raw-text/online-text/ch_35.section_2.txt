@@ -1,0 +1,117 @@
+De verbo 
+[M.:] Verbum quid est?
+[D.:] Pars orationis cum tempore et persona, sine casu, aut agere aliquid aut pati aut neutrum significans...
+[M.:] Modi verborum qui sunt?
+[D.:] Indicativus, ut  lego, imperativus, ut  lege, optativus, ut utinam legerem, coniunctivus, ut  cum legam, infinitivus, ut legere.
+[M.:] Genera verborum quot sunt?
+[D.:] Quattuor.
+[M.:] Quae?
+[D.:] Activa, passiva, neutra, deponentia.
+[M.:] Activa quae sunt?
+[D.:] Quae in -o desinunt et accepta -r littera faciunt ex se passiva, ut lego: legor.
+[M.:] Passiva quae sunt?
+[D.:] Quae in -r desinunt et ea dempta redeunt in activa, ut legor: lego.
+[M.:] Neutra quae sunt?
+[D.:] Quae in -o desinunt ut activa, sed accepta -r littera Latina non sunt, ut  sto, curro (“stor, curror” non dicimus!).
+[M.:] Deponentia quae sunt?
+[D.:] Quae in -r desinunt ut passiva, sed ea dempta Latina non sunt, ut luctor,  loquor.
+[M.:]Numeri verborum quot sunt?
+[D.:] Duo.
+[M.:] Qui?
+[D.:] Singularis, ut  lego, pluralis, ut legimus.
+[M.:] Tempora verborum quot sunt?
+[D.:] Tria.
+[M.:] Quae?
+[D.:] Praesens, ut lego, praeteritum, ut legi, futurum, ut legam.
+[M.:] Quot sunt tempora in declinatione verborum?
+[D.:] Quinque.
+[M.:] Quae?
+[D.:] Praesens, ut lego, praeteritum imperfectum, ut legebam, praeteritum perfectum, ut legi, praeteritum plusquamperfectum, ut legeram futurum, ut legam.
+[M.:] Personae verborum quot sunt?
+[D.:] Tres.
+[M.:] Quae?
+[D.:] Prima, ut lego, secunda, ut legis, tertia, ut legit.
+[M.:] Da declinationem verbi activi!...  
+
+De adverbio 
+[M.:] Adverbium quid est?
+[D.:] Pars orationis quae adiecta verbo significationem eius explanat atque implet...
+[M.:] Significatio adverbiorum in quo est?
+[D.:] Sunt aut loci adverbia aut temporis aut numeri aut negandi aut affirmandi aut demonstrandi aut optandi aut hortandi aut ordinis aut interrogandi aut qualitatis aut quantitatis aut dubitandi...
+[M.:] Da adverbia loci!
+[D.:] Ut  hic vel  ibi, intus vel foris, illuc vel inde.
+[M.:] Da temporis!
+[D.:] Ut  hodie, nunc, nuper, cras, aliquando; numeri, ut semel, bis, ter; negandi, ut non; affirmandi, ut etiam, quidni; demonstrandi, ut en, ecce; optandi, ut utinam; hortandi, ut eia; ordinis, ut deinde; interrogandi, ut cur,  quare, quamobrem; qualitatis, ut docte, pulchre, fortiter; quantitatis, ut  multum, parum; dubitandi, ut forsitan, fortasse...
+[M.:] Comparatio adverbiorum in quo est?
+[D.:] In tribus gradibus comparationis: positivo, comparativo, superlativo. [M.:] Da adverbium positivi gradus!
+[D.:] Ut  docte; comparativi, ut doctius; superlativi, ut doctissime...  
+
+De participio 
+[M.:] Participium quid est?
+[D.:] Pars orationis partem capiens nominis, partem verbi: nominis genera et casus, verbi tempora et significationes, utriusque numerum...
+[M.:] Genera participiorum quot sunt?
+[D.:] Quattuor.
+[M.:] Quae?
+[D.:] Masculinum, ut hic lectus, femininum, ut haec lecta, neutrum, ut hoc lectum, commune tribus generibus, ut  hic et haec et hoc legens.
+[M.:] Casus participiorum quot sunt?
+[D.:] Sex
+[M.:] Qui?
+[D.:] Nominativus, ut hic legens, genetivus, ut huius legentis, dativus, ut huic legenti, accusativus, ut hunc legentem, vocativus, ut o legens, ablativus, ut ab hoc legente.
+[M.:] Tempora participiorum quot sunt?
+[D.:] Tria.
+[M.:] Quae?
+[D.:] Praesens, ut legens, praeteritum, ut lectus, futurum, ut lecturus et legendus...
+[M.:] Numeri participiorum quot sunt?
+[D.:] Duo.
+[M.:] Qui?
+[D.:] Singularis, ut hic legens, pluralis, ut hi legentes...
+[M.:] Da declinationem participii!...  
+
+De coniunctione 
+[M.:] Coniunctio quid est?
+[D.:] Pars orationis adnectens ordinasque sententiam...
+[M.:] Potestas coniunctionum quot species habet?
+[D.:] Quinque.
+[M.:] Quas?
+[D.:] Copulativas, disiunctivas, expletivas, causales, rationales.
+[M.:] Da copulativas!
+[D.:]  Et, -que, atque, ac.
+[M.:] Da disiunctivas!
+[D.:] Aut, -ve, vel, nec, neque.
+[M.:] Da expletivas!
+[D.:] Quidem, equidem, quoque, autem, tamen.
+[M.:] Da causales!
+[D.:] Si, etsi, siquidem, quando, nam, namque, etenim, quamobrem...
+[M.:] Da rationales!
+[D.:] Itaque, enim, quia, quapropter, quoniam, ergo, ideo, igitur, scilicet, propterea. ...  
+
+De praepositione 
+[M.:] Praepositio quid est?
+[D.:] Pars orationis quae praeposita aliis partibus orationis significationem earum aut complet aut mutat aut minuit. ...
+[M.:] Da praepositiones casus accusativi!
+[D.:]  Ad, apud, ante, adversum, cis, citra, circum, circa, contra, erga, extra, inter, intra, infra, iuxta, ob, per, prope, secundum, post, trans, ultra, praeter, propter, supra ...
+[M.:] Quo modo?
+[D.:] Dicimus enim ad patrem, apud villam, ante domum, adversum inimicos, cis Rhenum, citra forum, circum oppidum, circa templum, contra hostem, erga parentes, extra vallum, inter naves, intra moenia, infra tectum, iuxta viam, ob iram, per portam, prope fenestram, secundum ripam, post tergum, trans flumen, ultra fines, praeter officium, propter rem, supra caelum. ...
+
+[M.:] Da praepositiones casus ablativi!
+[D.:] A, ab, cum, coram, de, e, ex, pro, prae, sine ...
+[M.:] Quo modo?
+[D.:] Dicimus enim a domo, ab homine, cum exercitu, coram testibus, de foro, e iure, ex provincia, pro patria, prae timore, sine labore ...
+
+[M.:] Da utriusque casus praepositiones!
+[D.:] In, sub, super.
+[M.:] In et sub quando accusativo casui iunguntur?
+[D.:] Quando 'nos in locum ire/iisse/ituor esse' significamus.
+[M.:] Quando ablativo?
+[D.:] Quando 'nos in loco esse/fuisse/futuros esse' significamus. ...
+[M.:] Super quam vim habet?
+[D.:] Ubi locum significat, magis accusativo causi servit quam ablativo; ubi mentionem alicuius facimus, ablativo tantum, ut 
+
+multa super Priamo, rogitans, super Hectore multa 
+hoc est de Priamo, de Hectore. ...  
+
+De interiectione 
+[M.:] Interiectio quid est?
+[D.:] Pars orationis significans mentis affectum voce incondita. ...
+[M.:] Significatio interiectionis in quo est?
+[D.:] Aut laetitiam significamus, ut euax! aut dolorem, ut heu! aut admirationem, ut papae! aut metum, ut attat! et si qua sunt similia.

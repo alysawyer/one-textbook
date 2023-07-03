@@ -1,0 +1,33 @@
+Iulia: “Quid agunt milites Romani in Germania?”
+
+Iulius: “Milites nostri in Germania pugnant.”
+
+Iulia: “Mei quoque fratres pugnant.”
+
+Iulius: “Pueri pugnis, non armis pugnant. Milites pugnant gladiis, pilis, hastis.”
+
+Marcus: “Num Aemilius et hastam et pilum fert?”
+
+Iulius: “Aemilius pilum tantum fert, is enim pedes est, non eques. Eques est miles qui ex equo pugnant; qui pedibus pugnant pedes est. Equites hastas, pedites pila ferunt. Pilum non tam longum est quam hasta, neque gladius peditis tam longus est quam gladius equitis. Pilum Aemilii sex pedes longum est.”
+
+Marcus: “Quam longus est gladius eius?”
+
+Iulius: “Duos pedes longus est.”
+
+Marcus: “Duos pedes tantum? Cur tam brevis est gladius?”
+
+Iulius “Quod gladius brevis non tam gravis est quam gladius longus. Gladius equitis longior et gravior est quam peditis. Pedes, qui pedibus it multaque alia arma fert, gladium longum et gravem ferre non potest; itaque gladius eius brevis et levis est - brevior et levior quam is qui ab equite fertur. Etiam gladii qui a Germanis ferunt longiores et graviores sunt quam nostra sunt.”
+
+Iulia: “Qui sunt Germani?”
+
+Iulius: “Germani sunt homines barbari qui Germaniam incolunt. Germani est magna terra non procul a Gallia; Gallia autem provincia Romana est, ut Hispania, Syria, Aegyptus. Provincia est pars imperii Romani, ut membrum pars corporis est; Roma enim caput imperii est, provinciae membra sunt. Germania non est provincia Romana. Flumen Rhenus Germaniam a Gallia provincia dividit. Rhenus ac Danuvius flumina, quae Germaniam ab imperio Romano dividunt, fines imperii nostri sunt. Germania est patria Germanorum, ut Roma nostra patria est.”
+
+Iulia: “Cur milites Romani contra Germanos pugnant? Suntne Germani homines improbi?”
+
+Iulius: “Milites nostri contra Germanos pugnant, quod Germani amici Romanorum non sunt nec Romanis parent, Germani hostes Romanorum sunt, ac bellum est inter Germanos et Romanos. Germani exercitum nostrum oppugnant.”
+
+Iulia: “Quid est 'exercitus'?”
+
+Iulius: “Exercitus est magnus numerus militum qui contra hostes ducitur. Qui exercitum ducit dux exercitus est. Dux exercitui imperat, exercitus duci suo paret, nam dux ab exercitu metuitur.
+
+“In Germania et in Britannia sunt magni exercitus Romani qui contra exercitus hostium pugnant. Milites et duces exercituum Romanorum ab hostibus metuuntur. In Hispania et in Gallia non multi sunt milites Romani, nam Hispani et Galli, qui eas provincias incolunt, iam exercitibus nostris parent. In exercitibus Romanis etiam Hispani et Galli multi militant, qui et alia arma et arcus sagittasque ferunt.”

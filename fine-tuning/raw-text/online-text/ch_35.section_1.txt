@@ -1,0 +1,45 @@
+[Ex Donati 'Arte grammatica minore']
+
+De partibus orationis 
+[Magister:] Partes orationis quot sunt?
+[Discipulus:] Octo.
+[M.:] Quae?
+[D.:] Nomen, pronomen, verbum, adverbium, participium, coniunctio, praepositio, interiectio.
+
+De nomine 
+[M.] Nomen quis est?
+[D.:] Pars orationis cum casu, corpus aut rem proprie communiterve significans...; aut enim unius nomen est et 'proprium' dicitur, aut multorum et 'appellativum'. ...
+[M.:] Genera nominum quot sunt?
+[D.:] Quattuor.
+[M.:] Quae?
+[D.:] Masculinum, ut  hic magister , femininum, ut  haec Musa , neutrum, ut  hoc scamnum , commune, ut  hic  et  haec sacerdos.
+[M.:] Numeri nominum quot sunt?
+[D.:] Duo.
+[M.:] Qui?
+[D.:] Singularis, ut  hic magister, pluralis, ut  hi magistri . ...
+[M.:] Casus nominum quot sunt?
+[D.:] Sex.
+[M.:] Qui?
+[D.:] Nominativus, genetivus, dativus, accusativus, vocativus, ablativus. Per hos omnium generum nomina, pronomina, participia declinantur...
+[M.:] Comparationis gradus quot sunt?
+[D.:] Tres.
+[M.:] Qui?
+[D.:] Positivus, ut  doctus, comparativus, ut  doctior, superlativus, ut doctissimus.
+[M.:] Quae nomina comparantur?
+[D.:] Appellativa dumtaxat qualitatem aut quantitatem significantia...  
+
+De pronomine 
+[M.:] Pronomen quid est?
+[D.:] Pars orationis quae pro nomine posita tantundem paene significat personamque interdum recipit...
+[M.:] Genera pronominum quae sunt?
+[D.:] Eadem fere quae et nominum: masculinum, ut quis, femininum, ut quae, neutrum, ut quod, commune, ut qualis, talis, trium generum, ut ego, tu.
+[M.:] Numeri pronominum quot sunt?
+[D.:] Duo.
+[M.:] Qui?
+[D.:] Singularis, ut  hic, pluralis, ut  hi.
+[M.:] Personae pronominum quot sunt?
+[D.:] Tres.
+[M.:] Quae?
+[D.:] Prima, ut  ego, secunda, ut  tu, tertia, ut  ille.
+[M.:] Casus item pronominum quot sunt?
+[D.:] Sex, quem ad modum et nominum, per quos omnium generum pronomina inflectuntur...  

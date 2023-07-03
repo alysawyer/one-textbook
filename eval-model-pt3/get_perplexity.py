@@ -57,15 +57,15 @@ file_path = Path.cwd() / parser.parse_args().second_argument
 with file_path.open(mode='r', encoding="utf-8") as f:
     data = json.load(f)
 
-model = "davinci:ft-personal:ch1to5-txt-2023-07-02-03-36-31"
+model = "davinci"
 
 # creating output base filename
 info_list = parser.parse_args().second_argument.split(".")
 json_name = ".".join([ info_list[0].split("/")[2], info_list[0].split("/")[1], model])
 
 # creating output filepaths
-output_perplexity_file = "results/results-cap1to5/" + json_name + ".json"
-output_response_file = "results/results-cap1to5-raw/" +  json_name + ".raw.json"
+output_perplexity_file = "results/full/" + json_name + ".json"
+output_response_file = "results/full-raw/" +  json_name + ".raw.json"
 
 
 # only running new code 

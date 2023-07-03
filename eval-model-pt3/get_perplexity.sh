@@ -1,4 +1,4 @@
-for dir in "perplexing"/*; do
+for dir in "full_eval_no_accent"/*; do
 	for FILE in "$dir"/*; do 
 		python3 get_perplexity.py $FILE
 		done

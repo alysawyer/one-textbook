@@ -1,15 +1,15 @@
-import lmql
 import json
 from pathlib import Path
 import argparse
 from functools import partial
 import os
 import openai
+import time
 
 def get_perplexity(model, sentence):
-    '''queries openai api to get logprobs of the prompt sentence'''
+    '''Queries OpenAI API to get logprobs of the prompt sentence'''
 
-    # define the completion parameters
+    # Define the completion parameters
     completion_parameters = {
         "model": model,
         "prompt": sentence,
@@ -18,9 +18,19 @@ def get_perplexity(model, sentence):
         "echo": True
     }
 
-    # calling openai api to get completion response
+    # Check if the rate limit has been reached
+    if 'last_request_time' in get_perplexity.__dict__:
+        elapsed_time = time.time() - get_perplexity.last_request_time
+        time_to_wait = max(0, 60 - elapsed_time)
+        time.sleep(time_to_wait)
+
+    # Calling OpenAI API to get completion response
     response = openai.Completion.create(**completion_parameters)
-    # extracing the log probabilities 
+
+    # Update the last_request_time to track rate limiting
+    get_perplexity.last_request_time = time.time()
+
+    # Extract the log probabilities
     choices = response['choices'][0]
     token_logprobs = choices['logprobs']['token_logprobs']
 

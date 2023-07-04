@@ -48,7 +48,7 @@ def create_pivot_table(df, index, columns, values):
 # ...
 
 # iterate through all the files in results folder
-directory = 'results'
+directory = 'full'
 data = []
 for filename in os.listdir(directory):
     if filename.endswith(".raw.json"):
@@ -79,14 +79,14 @@ plt.rcParams['font.size'] = 13
 output_directory = "graphs/"
 # model chapter table
 # No 'shot' column, so we remove that filter
-filtered_df = df[df['model'].isin(['hugging13B', '13Bjuly2nd1', 'davinci', 'davinci:ft-personal:ch1to5-txt-2023-07-02-03-36-31'])] # Filter for specific models
+filtered_df = df[df['model'].isin(['hugging13B', '13Bjuly2nd1', 'davinci', 'davinci:ft-personal:ch1to35-txt-2023-07-03-21-57-28'])] # Filter for specific models
 
 # renaming models
 model_name_mapping = {
     'hugging13B': 'LLaMA-base',
     '13Bjuly2nd1': 'LLaMA-finetuned',
     'davinci': 'davinci-base',
-    'davinci:ft-personal:ch1to5-txt-2023-07-02-03-36-31': 'davinci-finetuned'
+    'davinci:ft-personal:ch1to35-txt-2023-07-03-21-57-28': 'davinci-finetuned'
 }
 filtered_df['model'] = filtered_df['model'].replace(model_name_mapping)
 
@@ -96,13 +96,16 @@ pivot_df_model_chapter.to_csv(output_directory + 'results-model-chapter.csv')
 
 # model chapter plot
 ax = pivot_df_model_chapter.T.plot(kind='line')
-ax.xaxis.set_major_locator(MaxNLocator(integer=True))  # Set the x-axis locator to show only whole numbers
+ax.xaxis.set_major_locator(MaxNLocator(integer=True))
 ax.set(xlabel='Chapter', ylabel='Accuracy', title='Accuracy per model and chapter')
-plt.legend(title='Model', loc='upper right')
+
+# Move the legend to the bottom right corner
+plt.legend(title='Model', loc='lower right')
 
 # Save the figure
 plt.savefig(output_directory + 'model_chap.png')
-plt.close()  # Close the figure to release memory
+plt.close()
+
 
 # chapter quiz type table
 pivot_df_chapter_quiztype = create_pivot_table(filtered_df, 'model', 'quiz_type', 'accuracy')

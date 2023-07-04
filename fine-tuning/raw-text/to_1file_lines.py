@@ -1,10 +1,10 @@
 import os
 
 # Specify the directory containing the small text files
-directory = 'online-text'
+directory = 'ch1-5-online'
 
 # Specify the path to the output big text file
-output_file = 'allch_lines.txt'
+output_file = 'ch1-5_lines-no-accent.txt'
 
 # Open the output file in write mode
 with open(output_file, 'w') as output:

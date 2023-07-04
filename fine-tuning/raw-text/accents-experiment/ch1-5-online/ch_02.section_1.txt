@@ -1,9 +1,0 @@
-Iulius vir Romanus est. Aemilia femina Romana est. Marcus est puer Romanus. Quintus quoque puer Romanus est. Iulia est puella Romana.
-
-Marcus et Quintus non viri, sed pueri sunt. Viri sunt Iulius et Medus et Davus. Aemilia et Delia et Syra sunt feminae. Estne femina Iulia? Non femina, sed parva puella est Iulia.
-
-Iulius, Aemilia, Marcus, Quintus, Iulia, Syra, Davus, Delia Medusque sunt familia Romana. Iulius pater est. Aemilia est mater. Iulius pater Marci et Quinti est. Iulius pater Iuliae quoque est. Aemilia est mater Marci et Quinti et Iuliae. Marcus filius Iulii est. Marcus filius Aemiliae est. Quintus quoque filius Iulii et Aemiliae est. Iulia est filia Iulii et Aemiliae.
-
-Quis est Marcus? Marcus puer Romanus est. Quis pater Marci est? Iulius pater Marci est. Quae est mater Marci? Mater Marci est Aemilia. Quae est Iulia? Iulia est puella Romana. Quae mater Iuliae est? Aemilia mater Iuliae est. Pater Iuliae est Iulius. Iulia filia Iulii est. Qui sunt filii Iulii? Filii Iulii sunt Marcus et Quintus. Marcus, Quintus Iuliaeque sunt tres liberi. Liberi sunt filii filiaeque. Marcus et Quintus et Iulia sunt liberi Iulii et Aemiliae. In familia Iulii sunt tres liberi: duo filii et una filia.
-
-Estne Medus filius Iulii? Medus filius Iulii non est, Medus est servus Iulii. Iulius dominus Medi est. Iulius dominus servi est. Davus quoque servus est. Medus et Davus duo servi sunt. Iulius est dominus Medi et Davi. Iulius dominus servorum est et pater liberorum.

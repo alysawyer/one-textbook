@@ -1,0 +1,511 @@
+{"prompt":"","completion":" # IMPERIVM ROMANVM"}
+{"prompt":"","completion":" Roma in Italia est."}
+{"prompt":"","completion":" Italia in Europa est."}
+{"prompt":"","completion":" Graecia in Europa est."}
+{"prompt":"","completion":" Italia et Graecia in Europa sunt."}
+{"prompt":"","completion":" Hispania quoque in Europa est."}
+{"prompt":"","completion":" Hispania et Italia et Graecia in Europa sunt."}
+{"prompt":"","completion":" Aegyptus in Europa non est, Aegyptus in Africa est."}
+{"prompt":"","completion":" Gallia non in Africa est, Gallia est in Europa."}
+{"prompt":"","completion":" Syria non est in Europa, sed in Asia."}
+{"prompt":"","completion":" Arabia quoque in Asia est."}
+{"prompt":"","completion":" Syria et Arabia in Asia sunt."}
+{"prompt":"","completion":" Germania non in Asia, sed Europa est."}
+{"prompt":"","completion":" Britannia quoque in Europa est."}
+{"prompt":"","completion":" Germania et Britannia sunt in Europa."}
+{"prompt":"","completion":" Estne Gallia in Europa?"}
+{"prompt":"","completion":" Gallia in Europa est."}
+{"prompt":"","completion":" Estne Roma in Gallia?"}
+{"prompt":"","completion":" Roma in Gallia non est."}
+{"prompt":"","completion":" Ubi est Roma?"}
+{"prompt":"","completion":" Roma est in Italia."}
+{"prompt":"","completion":" Ubi est Italia?"}
+{"prompt":"","completion":" Ubi sunt Gallia et Hispania?"}
+{"prompt":"","completion":" Gallia et Hispania in Europa sunt."}
+{"prompt":"","completion":" Estne Nilus in Europa?"}
+{"prompt":"","completion":" Nilus in Europa non est."}
+{"prompt":"","completion":" Ubi est Nilus?"}
+{"prompt":"","completion":" Nilus in Africa est."}
+{"prompt":"","completion":" Rhenus ubi est?"}
+{"prompt":"","completion":" Rhenus est in Germania."}
+{"prompt":"","completion":" Nilus fluvius est."}
+{"prompt":"","completion":" Rhenus fluvius est."}
+{"prompt":"","completion":" Nilus et Rhenus fluvii sunt."}
+{"prompt":"","completion":" Danuvius quoque fluvius est."}
+{"prompt":"","completion":" Rhenus et Danuvius sunt fluvii in Germania."}
+{"prompt":"","completion":" Tiberis fluvius in Italia est."}
+{"prompt":"","completion":" Nilus fluvius magnus est."}
+{"prompt":"","completion":" Tiberis non est fluvius magnus, Tiberius fluvius parvus est."}
+{"prompt":"","completion":" Rhenus non est fluvius parvus, sed fluvius magnus."}
+{"prompt":"","completion":" Nilus et Rhenus non fluvii parvi, sed fluvii magni sunt."}
+{"prompt":"","completion":" Danuvius quoque fluvius magnus est."}
+{"prompt":"","completion":" Corsica insula est."}
+{"prompt":"","completion":" Corsica et Sardinia et Sicilia insulae sunt."}
+{"prompt":"","completion":" Britannia quoque insula est."}
+{"prompt":"","completion":" Italia insula non est."}
+{"prompt":"","completion":" Sicilia insula magna est."}
+{"prompt":"","completion":" Melita est insula parva."}
+{"prompt":"","completion":" Britannia non insula parva, sed insula magna est."}
+{"prompt":"","completion":" Sicilia et Sardinia non insula parvae, sed insulae magnae sunt."}
+{"prompt":"","completion":" Brundisium oppidum est."}
+{"prompt":"","completion":" Brundisium et Tusculuma oppida sunt."}
+{"prompt":"","completion":" Sparta quoque oppidum est."}
+{"prompt":"","completion":" Brundisium est oppidum magnum."}
+{"prompt":"","completion":" Tusculuma oppidum parvum est."}
+{"prompt":"","completion":" Delphi quoque oppidum parvum est."}
+{"prompt":"","completion":" Tusculuma et Delphi non oppida magna, sed oppida parva sunt."}
+{"prompt":"","completion":" Ubi est Sparta?"}
+{"prompt":"","completion":" Sparta est in Graecia."}
+{"prompt":"","completion":" Sparta est oppidum Gracum."}
+{"prompt":"","completion":" Sparta et Delphi oppida Graeca sunt."}
+{"prompt":"","completion":" Tusculuma non oppidum Graecum, sed oppidum Romanum est."}
+{"prompt":"","completion":" Tusculuma et Brundisium sunt oppida Romana."}
+{"prompt":"","completion":" Sardinia insula Romana est."}
+{"prompt":"","completion":" Creta, Rhodus, Naxus, Samos, Chios, Lesbos, Lemnos, Euboea sunt insulae Graecae."}
+{"prompt":"","completion":" In Graecia multae insulae sunt."}
+{"prompt":"","completion":" In Italia et in Graecia sunt multa oppida."}
+{"prompt":"","completion":" In Gallia et in Germania multi sunt fluvii."}
+{"prompt":"","completion":" Suntne multi fluvii et multa oppida in Arabia?"}
+{"prompt":"","completion":" In Arabia non multi, sed pauci fluvii sunt et pauca oppida."}
+{"prompt":"","completion":" Num Creta oppidum est?"}
+{"prompt":"","completion":" Creta oppidum non est!"}
+{"prompt":"","completion":" Quid est Creta?"}
+{"prompt":"","completion":" Creta insula est."}
+{"prompt":"","completion":" Num Sparta insula est?"}
+{"prompt":"","completion":" Sparta non est insula!"}
+{"prompt":"","completion":" Quid est Sparta?"}
+{"prompt":"","completion":" Sparta oppidum est."}
+{"prompt":"","completion":" Rhenus quid est?"}
+{"prompt":"","completion":" Rhenus est magnus fluvius."}
+{"prompt":"","completion":" Num oceanus Atlanticus parvus est?"}
+{"prompt":"","completion":" Non parvus, sed magnus est oceanus."}
+{"prompt":"","completion":" Ubi est imperium Romanum?"}
+{"prompt":"","completion":" Imperium Romanum est in Europa, in Asia, in Africa."}
+{"prompt":"","completion":" Hispania et Syria et Aegyptus provinciae Romanae sunt."}
+{"prompt":"","completion":" Germania non est provincia Romana: Germania in imperio Romano non est."}
+{"prompt":"","completion":" Sed Gallia et Britannia sunt provinciae Romanae."}
+{"prompt":"","completion":" In imperio Romano multae sunt provinciae."}
+{"prompt":"","completion":" Magnum est imperium Romanum!"}
+{"prompt":"","completion":" # LITTERAE ET NVMERI"}
+{"prompt":"","completion":" I et II numeri sunt."}
+{"prompt":"","completion":" III quoque numerus est."}
+{"prompt":"","completion":" I, II, III numeri Romani sunt."}
+{"prompt":"","completion":" I et II sunt parvi numeri."}
+{"prompt":"","completion":" _CIC magnus numerus est."}
+{"prompt":"","completion":" A et B litterae sunt."}
+{"prompt":"","completion":" C quoque littera est."}
+{"prompt":"","completion":" A, B, C sunt tres litterae."}
+{"prompt":"","completion":" A est littera prima (I), B littera secunda (II), C littera tertia (III)."}
+{"prompt":"","completion":" _Gamma littera Graeca est."}
+{"prompt":"","completion":" C est littera Latina."}
+{"prompt":"","completion":" C et D litterae Latinae sunt."}
+{"prompt":"","completion":" _Gamma et _Delta sunt litterae Graecae."}
+{"prompt":"","completion":" *Fluvius* et *oppidum* vocabula Latina sunt."}
+{"prompt":"","completion":" *Ubi* quoque vocabulum Latinum est."}
+{"prompt":"","completion":" In vocabulo *ubi* sunt tres litterae."}
+{"prompt":"","completion":" In capitulo primo mille vocabula sunt."}
+{"prompt":"","completion":" In vocabulo *insula* sex litterae et tres syllabae sunt: syllaba prima *in-*, secunda *-su-*, tertia *-la*."}
+{"prompt":"","completion":" In vocabulo *non* sunt tres litterae et una syllaba."}
+{"prompt":"","completion":" Quid est III?"}
+{"prompt":"","completion":" III numerus Romanus est."}
+{"prompt":"","completion":" _Gamma quid est?"}
+{"prompt":"","completion":" Num C littera Graeca est?"}
+{"prompt":"","completion":" Non littera Graeca, sed littera Latina est C."}
+{"prompt":"","completion":" Estne B littera prima?"}
+{"prompt":"","completion":" B non littera prima, sed secunda est."}
+{"prompt":"","completion":" Quid est *non*?"}
+{"prompt":"","completion":" *Non* est vocabulum Latinum."}
+{"prompt":"","completion":" *Non*, *sed*, *magnus*, *numerus* vocabula Latina sunt."}
+{"prompt":"","completion":" *Vocabulum* quoque vocabulum Latinum est!"}
+{"prompt":"","completion":" # FAMILIA ROMANA"}
+{"prompt":"","completion":" Iulius vir Romanus est."}
+{"prompt":"","completion":" Aemilia femina Romana est."}
+{"prompt":"","completion":" Marcus est puer Romanus."}
+{"prompt":"","completion":" Quintus quoque puer Romanus est."}
+{"prompt":"","completion":" Iulia est puella Romana."}
+{"prompt":"","completion":" Marcus et Quintus non viri, sed pueri sunt."}
+{"prompt":"","completion":" viri sunt Iulius et Medus et Davus."}
+{"prompt":"","completion":" Aemilia et Delia et Syra sunt feminae."}
+{"prompt":"","completion":" Estne femina Iulia?"}
+{"prompt":"","completion":" Non femina, sed parva puella est Iulia."}
+{"prompt":"","completion":" Iulius, Aemelia, Marcus, Quintus, Iulia, Syra, Davus, Delia Medusque sunt familia Romana."}
+{"prompt":"","completion":" Iulius pater est."}
+{"prompt":"","completion":" Aemelia est mater."}
+{"prompt":"","completion":" Iulius pater Marci et Quinti est."}
+{"prompt":"","completion":" Iulius pater Iuliae quoque quoque est."}
+{"prompt":"","completion":" Aemilia est mater Marci et Quinti et Iuliae."}
+{"prompt":"","completion":" Marcus filius Iulii est."}
+{"prompt":"","completion":" Marcus filius Aemilieae est."}
+{"prompt":"","completion":" Quintus quoque filius Iulii et Aemiliae est."}
+{"prompt":"","completion":" Iulia est filia Iulii et Aemiliae."}
+{"prompt":"","completion":" Quis est Marcus?"}
+{"prompt":"","completion":" Marcus puer Romanus est."}
+{"prompt":"","completion":" Quis pater Marci est?"}
+{"prompt":"","completion":" Iulius pater Marci est."}
+{"prompt":"","completion":" Quae est mater Marci?"}
+{"prompt":"","completion":" Mater Marci est Aemilia."}
+{"prompt":"","completion":" Quae est Iulia?"}
+{"prompt":"","completion":" Quae mater Iuliae est?"}
+{"prompt":"","completion":" Aemilia mater Iuliae est."}
+{"prompt":"","completion":" Pater Iuliae est Iulius."}
+{"prompt":"","completion":" Iulia filia Iulii est."}
+{"prompt":"","completion":" Qui sunt filii Iulii?"}
+{"prompt":"","completion":" Filii Iulii sunt Marcus et Quintus."}
+{"prompt":"","completion":" Marcus, Quintus, Iuliaque sunt tres liberi."}
+{"prompt":"","completion":" liberi sunt filii filiaeque."}
+{"prompt":"","completion":" Marcus et Quintus et Iulia eunt liberi Iulii et Aemiliae."}
+{"prompt":"","completion":" In familia Iulii sunt tres liberi: duo filii et una filia."}
+{"prompt":"","completion":" Estne Medus filius Iulii?"}
+{"prompt":"","completion":" Medus filius Iulii non est,"}
+{"prompt":"","completion":" Medus est servus Iulii."}
+{"prompt":"","completion":" Iulius dominus Medi est."}
+{"prompt":"","completion":" Iulius dominus servi est."}
+{"prompt":"","completion":" Davus quoque servus est."}
+{"prompt":"","completion":" Medus et Davus duo servi sunt."}
+{"prompt":"","completion":" Iulius est dominus Medi et Davi."}
+{"prompt":"","completion":" Iulius dominus servorum est et pater liberorum."}
+{"prompt":"","completion":" Estne Delia filia Aemiliae?"}
+{"prompt":"","completion":" Delia non est filia Aemiliae, Delia ancilla Aemiliae est."}
+{"prompt":"","completion":" Syra quoque ancilla est."}
+{"prompt":"","completion":" Delia et Syra duae ancillae sunt."}
+{"prompt":"","completion":" Aemilia domina ancillarum est."}
+{"prompt":"","completion":" Cuius servus est Davus?"}
+{"prompt":"","completion":" Davus servus Iulii est."}
+{"prompt":"","completion":" Cuius ancilla est Syra?"}
+{"prompt":"","completion":" Syra est ancilla Aemiliae."}
+{"prompt":"","completion":" Quot liberi sunt in familia?"}
+{"prompt":"","completion":" In familia Iulii sunt tres libert."}
+{"prompt":"","completion":" Quot filii et quot filiae?"}
+{"prompt":"","completion":" Duo filii et una filia."}
+{"prompt":"","completion":" Quot servi sunt in familia?"}
+{"prompt":"","completion":" In familia sunt centum servi."}
+{"prompt":"","completion":" In familia Iulii sunt muli servi, pauci liberi."}
+{"prompt":"","completion":" Iulius est dominus multorum servorum."}
+{"prompt":"","completion":" 'Duo' et 'tres' numeri sunt."}
+{"prompt":"","completion":" 'Centum' quoque numerus est."}
+{"prompt":"","completion":" Numerus servorum est centum."}
+{"prompt":"","completion":" Numerus liberorum est tres."}
+{"prompt":"","completion":" Centum est magnus numerus."}
+{"prompt":"","completion":" Tres parvus numerus est."}
+{"prompt":"","completion":" Numerus servorum est magnus."}
+{"prompt":"","completion":" Numerus liberorum parvus est."}
+{"prompt":"","completion":" In familia Iulii magnus numerus servorum, parvus numerus liberorum est."}
+{"prompt":"","completion":" Medus servus Graecus est."}
+{"prompt":"","completion":" Delia est ancilla Graeca."}
+{"prompt":"","completion":" In familia Iulii sunt muli servi Graeci multaeque ancilae Graecae."}
+{"prompt":"","completion":" Estne Aemilia femina Graeca?"}
+{"prompt":"","completion":" Aemilia non est femina Graeca, sed Romana."}
+{"prompt":"","completion":" Iulius non vir Graecus, sed Romanus est."}
+{"prompt":"","completion":" Sparta oppidum Graeca est."}
+{"prompt":"","completion":" Sparta, Delphi Tusculumque tria oppida sunt: duo oppida Graeca et unum oppidum Romanum."}
+{"prompt":"","completion":" In Graecia et in Italia magnus numerus oppidorum est."}
+{"prompt":"","completion":" In Gallia est magnus numerus fluviorum."}
+{"prompt":"","completion":" Fluvii Galliae magni sunt."}
+{"prompt":"","completion":" Magnine sunt fluvii Africae?"}
+{"prompt":"","completion":" In Africa unus fluvius magnus est: Nilus; ceteri fluvii Africae parvi sunt."}
+{"prompt":"","completion":" Suntne magnae insulae Graecae?"}
+{"prompt":"","completion":" Creta et Euboea duae insulae magnae sunt; ceterae insulae Graecae sunt parvae."}
+{"prompt":"","completion":" Quis est Cornelius?"}
+{"prompt":"","completion":" Cornelius dominus Romanus est."}
+{"prompt":"","completion":" Iulius et Cornelius duo domini Romani sunt."}
+{"prompt":"","completion":" Medus non est servus Cornelii."}
+{"prompt":"","completion":" Medus servus Iulii est."}
+{"prompt":"","completion":" Cornelius: \"Cuius servus est Medus?\""}
+{"prompt":"","completion":" Iulius: \"Medus servus meus est.\""}
+{"prompt":"","completion":" Cornelius: \"Estne Davus servus tuus?\""}
+{"prompt":"","completion":" Iulius: \"Davus quoque servus meus est."}
+{"prompt":"","completion":" Servi mei sunt Medus et Davus et ceterii multi...\""}
+{"prompt":"","completion":" Cornelius: \"Estne Delia ancilla tua?\""}
+{"prompt":"","completion":" Iulius: \"Delia est ancilla mea, et Syra quoque ancilla mea est."}
+{"prompt":"","completion":" Ancillae meae sunt Delia et Syra et ceterae multae."}
+{"prompt":"","completion":" familia mea magnus est.\""}
+{"prompt":"","completion":" Cornelius: \"Quot servi sunt in familia tua?\""}
+{"prompt":"","completion":" Iulius: \"In familia mea sunt centum servi.\""}
+{"prompt":"","completion":" Cornelius: \"Quid?\""}
+{"prompt":"","completion":" Iulius: \"Numerus servorum meorum est centum.\""}
+{"prompt":"","completion":" Cornelius: \"Centum servi!"}
+{"prompt":"","completion":" Magnus est numerus servorum tuorum!\""}
+{"prompt":"","completion":" # LIBER TVVS LATINVS"}
+{"prompt":"","completion":" Ecce duo libri Latini: liber antiquus et liber novus."}
+{"prompt":"","completion":" LINGVA LATINA est primus liber tuus Latinus."}
+{"prompt":"","completion":" Titulus libri tui est 'LINGUA LATINA'."}
+{"prompt":"","completion":" Liber tuus non antiquus, sed novus est."}
+{"prompt":"","completion":" IN LINGUA LATINA sunt multae paginae et multa capitula: capitulum primum, secundum, tertium, cetera."}
+{"prompt":"","completion":" 'IMERPIVM ROMANVM' est titulus capituli primi."}
+{"prompt":"","completion":" Titulus capituli secundi est 'FAMILIA ROMANA'."}
+{"prompt":"","completion":" In capitulo secundo sunt sex paginae."}
+{"prompt":"","completion":" In pagina prima capituli secundi multa vocabula nova sunt: *vir*, *feminina*, *puer*, *puella*, *familia*, cetera."}
+{"prompt":"","completion":" Numerus vocabulorum Latinorum magnus est."}
+{"prompt":"","completion":" # PVER IMPROBVS"}
+{"prompt":"","completion":" # SCAENA PRIMA"}
+{"prompt":"","completion":" *Personae: Iulia, Marcus, Quintus.*"}
+{"prompt":"","completion":" Iulia cantat: \"Lalla.\""}
+{"prompt":"","completion":" Iulia laeta est."}
+{"prompt":"","completion":" Marcus: \"St!\""}
+{"prompt":"","completion":" Marcus laetus non est."}
+{"prompt":"","completion":" Iulia cantat: \"Lalla, lalla.\""}
+{"prompt":"","completion":" Marcus: \"Ssst!\""}
+{"prompt":"","completion":" Marcus iratus est."}
+{"prompt":"","completion":" Marcus Iuliam pulsat."}
+{"prompt":"","completion":" Iam Iulia non cantat, sed plorat: \"Uhuhu!\""}
+{"prompt":"","completion":" Marcus ridet: \"Hahahae!\""}
+{"prompt":"","completion":" Quintus Marcum videt."}
+{"prompt":"","completion":" Marcus non videt Quintum."}
+{"prompt":"","completion":" Quintus: \"Quid?"}
+{"prompt":"","completion":" Marcus puellam pulsat--et ridet!\""}
+{"prompt":"","completion":" Quintus iratus est et Marcum pulsat!"}
+{"prompt":"","completion":" Iam non ridet Marcus."}
+{"prompt":"","completion":" Marcus iratus pulsat Quintum."}
+{"prompt":"","completion":" Iulia: \"Ubi est mater?\""}
+{"prompt":"","completion":" Iulia Aemiliam non videt."}
+{"prompt":"","completion":" Iulia Aemiliam vocat: \"Mater!"}
+{"prompt":"","completion":" Marcus Quintum pulsat!\""}
+{"prompt":"","completion":" Marcus (iratus): \"St!\""}
+{"prompt":"","completion":" Iulia plorat et Aemiliam vocat: \"Mamma! Mam-ma!"}
+{"prompt":"","completion":" Marcus me pulsat!\""}
+{"prompt":"","completion":" Aemilia venit."}
+{"prompt":"","completion":" # SCAENA SECVNDA"}
+{"prompt":"","completion":" *Personae: Aemilia, Iulia, Marcus, Quintus.*"}
+{"prompt":"","completion":" Aemilia interrogat: \"Quis me vocat?\""}
+{"prompt":"","completion":" Quintus respondet: \"Iulia te vocat.\""}
+{"prompt":"","completion":" Aemilia Quintum interrogat: \"Cur Iulia plorat?\""}
+{"prompt":"","completion":" Quintus respondent: \"Iulia plorat, quia Marcus eam pulsat.\""}
+{"prompt":"","completion":" Aemilia: \"Quid? Puer parvam puellam pulsat? Fu! Cur Marcus Iuliam pulsat?\""}
+{"prompt":"","completion":" Quintus: \"Quia Iulia cantat.\""}
+{"prompt":"","completion":" Aemilia: \"O Iulia, mea parva filia!"}
+{"prompt":"","completion":" Marcus puer probus non est; Marcus es puer improbus!\""}
+{"prompt":"","completion":" Quintus: \"Iulia puella proba ests.\""}
+{"prompt":"","completion":" Aemilia Quintum interrogat: \"Ubi est Iulius? Cur non venit?\""}
+{"prompt":"","completion":" Aemilia Iulium non videt."}
+{"prompt":"","completion":" Respondet Marcus: \"Pater dormit.\""}
+{"prompt":"","completion":" Quintus: \"Mater non te, sed me interrogat!\""}
+{"prompt":"","completion":" Aemilia: \"St, pueri!"}
+{"prompt":"","completion":" Ubi est Pater?\""}
+{"prompt":"","completion":" Quintus: \"Pater non hic est, sed Marcus hic est.\""}
+{"prompt":"","completion":" Quintus Iulium vocat: \"Pater! Pa-ter!\""}
+{"prompt":"","completion":" Iulis Quintum non audit neque venit."}
+{"prompt":"","completion":" Cur Iulius non audit?"}
+{"prompt":"","completion":" Iulius eum non audit, quia dormit."}
+{"prompt":"","completion":" Marcus: \"Hahae! Pater dormit neque te audit.\""}
+{"prompt":"","completion":" Aemilia: \"Fu, puer!\""}
+{"prompt":"","completion":" Aemilia irata est."}
+{"prompt":"","completion":" Mater filium verberat: tuxtax, tuxtax..."}
+{"prompt":"","completion":" Marcus plorat: \"Uhuhu!\""}
+{"prompt":"","completion":" Iulius eum audit."}
+{"prompt":"","completion":" Iam non dormit Pater."}
+{"prompt":"","completion":" # SCAENA TERTIA"}
+{"prompt":"","completion":" *Personae: Iulius, Aemilia, Iulia, Marcus, Quintus.*"}
+{"prompt":"","completion":" Quintus: \"Pater venit.\""}
+{"prompt":"","completion":" Aemilia Quintum non audit, quia Marcus plorat."}
+{"prompt":"","completion":" Iulius Quintum videt eumque interrogat: \"Cur Marcus plorat?\""}
+{"prompt":"","completion":" Quintus respondet: \"Marcus plorat, quia mater eum verberat.\""}
+{"prompt":"","completion":" Iulius: \"Sed Cur mater Marcum verberat?\""}
+{"prompt":"","completion":" Quintus: \"Marcum verberat, quia puer improbus est. Marcus parvam puellam pulsat!\""}
+{"prompt":"","completion":" Iulia: \"Mamma! Pater hic est.\""}
+{"prompt":"","completion":" Aemilia Iulium videt."}
+{"prompt":"","completion":" Aemilia: \"Tuus Marcus filius improbus est!\""}
+{"prompt":"","completion":" Iulius: \"Fu, puer! Puer probus non pulsat puellam. Puer qui parvam puellam pulsat improbus est!\""}
+{"prompt":"","completion":" Iulius iratus puerum improbum verberat: tuxtax, tuxtax, tuxtax..."}
+{"prompt":"","completion":" Marcus plorat."}
+{"prompt":"","completion":" Quintus laetus est et ridet."}
+{"prompt":"","completion":" Iulia laeta non est neque ridet."}
+{"prompt":"","completion":" Cur non laeta est Iulia?"}
+{"prompt":"","completion":" non laeta est, quia Marcus plorat."}
+{"prompt":"","completion":" Iulia est puella proba!"}
+{"prompt":"","completion":" Puer ridet."}
+{"prompt":"","completion":" Puella plorat."}
+{"prompt":"","completion":" Quis est puer qui ridet?"}
+{"prompt":"","completion":" Puer qui ridet est Marcus."}
+{"prompt":"","completion":" Quae est puella quae plorat?"}
+{"prompt":"","completion":" Puella quae plorat est Iulia."}
+{"prompt":"","completion":" Marcus, qui puellam pulsat, puer improbus est."}
+{"prompt":"","completion":" Puella quam Marcus pulsat est Iulia."}
+{"prompt":"","completion":" Iulia Aemiliam vocat."}
+{"prompt":"","completion":" Aemilia, quam Iulia vocat, mater liberorum est."}
+{"prompt":"","completion":" Aemilia puerum verberat."}
+{"prompt":"","completion":" Puer quem Aemilia verberat est Marcus."}
+{"prompt":"","completion":" Quem vocat Quintus?"}
+{"prompt":"","completion":" Quintus Iulium vocat."}
+{"prompt":"","completion":" Iulius, quem Quintus vocat, Pater liberorum est."}
+{"prompt":"","completion":" Iulius Quintum non audit."}
+{"prompt":"","completion":" Quem audit Iulius?"}
+{"prompt":"","completion":" Iulius Marcum audit."}
+{"prompt":"","completion":" Puer quem Iulius audit est Marcus."}
+{"prompt":"","completion":" Puella quae contat laeta est."}
+{"prompt":"","completion":" Puella quae plorat non est laeta."}
+{"prompt":"","completion":" Puer qui puellam pulsat improbus est!"}
+{"prompt":"","completion":" # DOMINVS ET SERVI"}
+{"prompt":"","completion":" *Personae: Iulius, Aemilia, Medus.*"}
+{"prompt":"","completion":" Sacculus Iulii non parvus est."}
+{"prompt":"","completion":" In sacculo eius est pecunia."}
+{"prompt":"","completion":" Iulius pecuniam in sacculo habet."}
+{"prompt":"","completion":" Aemilia sacculum Videt Iuliumque interrogat: \"Quot nummi sunt in sacculo tuo?\""}
+{"prompt":"","completion":" Iulius respondet: \"Centum.\""}
+{"prompt":"","completion":" Aemilia: \"Num hic centum nummi sunt?\""}
+{"prompt":"","completion":" Iulius pecuniam numerat: \"Unus, duo tres, quattuor, quinque, sex, septum, octo, novem, decem. Quid? Decem tantum?\""}
+{"prompt":"","completion":" Iulius rursus pecuniam numerat: \"Unus, duo, tres, quattuor... novem, decem.\""}
+{"prompt":"","completion":" Numerus nummorum non est centum, sed decum tantum."}
+{"prompt":"","completion":" Iulius: \"Quid? In sacculo meo non centum, sed tantum decem nummi sunt! Ubi sunt ceteri nummi? Servi mei ubi sunt?\""}
+{"prompt":"","completion":" Medus: \"Servus tuus Medus hic est.\""}
+{"prompt":"","completion":" Iulius servum suum Medum Videt, Davum non Videt."}
+{"prompt":"","completion":" Medust adest."}
+{"prompt":"","completion":" Davus non adest, sed abest. Iulius et Aemilia et Medus adsunt."}
+{"prompt":"","completion":" Davus ceterique servi absunt."}
+{"prompt":"","completion":" Iulius: \"Quid? Unus servus tantum adest! Ubi est Davus? Davum voca!\""}
+{"prompt":"","completion":" Medus Davum vocat: \"Dave!\""}
+{"prompt":"","completion":" Sed Davus Medum non audit neque venit."}
+{"prompt":"","completion":" Medus rursus Davum vocat: \"Da-a-ve! Veni!\""}
+{"prompt":"","completion":" Davus venit."}
+{"prompt":"","completion":" Iam duo servi adsunt."}
+{"prompt":"","completion":" *Personae: Iulius, Aemilia, Medus, Davus.*"}
+{"prompt":"","completion":" Davus, qui dominum suum non Videt, Medum interrogat: \"Quid est, Mede?\""}
+{"prompt":"","completion":" Medus: \"St! Dominus adest. Saluta dominum!\""}
+{"prompt":"","completion":" Servus dominum salutat: \"Salve domine!\""}
+{"prompt":"","completion":" Dominum servum salutat: \"Salve, serve!\""}
+{"prompt":"","completion":" Davus: \"Quid est, domine?\""}
+{"prompt":"","completion":" Iulius: \"St! Tace, serve! Tace et audi!\""}
+{"prompt":"","completion":" Servus tacet."}
+{"prompt":"","completion":" Iulius: \"In sacculo meo sunt decem tantum nummi. Ubi sunt ceteri nummi mei?\""}
+{"prompt":"","completion":" Davus tact, neque respondet."}
+{"prompt":"","completion":" Aemilia: \"Responde Dave! Dominus te interrogat.\""}
+{"prompt":"","completion":" Davus respondet: \"Pecunia tua hic non est. Interroga Medum!\""}
+{"prompt":"","completion":" Iulius Medum interrogat: \"Ubi sunt nummi mei, Mede?\""}
+{"prompt":"","completion":" Medus nullum verbum respondet."}
+{"prompt":"","completion":" Iulius rursus eum interrogat: \"Ubi est pecunia mea? Responde, serve!\""}
+{"prompt":"","completion":" Medus Davum accusat: \"Pecunia tua in sacculo Davi est. Davus pecuniam tuam habet.\""}
+{"prompt":"","completion":" Aemilia: \"Audi, Dave! Medus te accusat.\""}
+{"prompt":"","completion":" Davus: \"Quem Medus accusat? me?\""}
+{"prompt":"","completion":" Iulius: \"Tace, Mede! Servus qui servum accusat improbus est!\""}
+{"prompt":"","completion":" Medus tacet."}
+{"prompt":"","completion":" Iulius Davum non accusat, sed interrogat eum: \"Estne pecunia mea in sacculo tuo, Dave?\""}
+{"prompt":"","completion":" Davus: \"In sacculo meo non est pecunia tua, domine.\""}
+{"prompt":"","completion":" Iulius: \"Ubis est sacculus tuus?\""}
+{"prompt":"","completion":" Davus: \"Hic est. Evve sacculus meus.\""}
+{"prompt":"","completion":" Iulius: \"Sacculum tuum in mensa pone!\""}
+{"prompt":"","completion":" Davus sacculum suum in mensa ponit."}
+{"prompt":"","completion":" Iam sacculus eius in mensa est."}
+{"prompt":"","completion":" Iulius baculum suum in mensa ponit."}
+{"prompt":"","completion":" Baculum domini in mensa est."}
+{"prompt":"","completion":" Davus: \"Vide: in sacculo meo nulla pecunia est.\""}
+{"prompt":"","completion":" Iulius nullam pecuniam videt in sacculo."}
+{"prompt":"","completion":" In sacculo Davi nulli nummi sunt."}
+{"prompt":"","completion":" Sacculus eius vaccus est."}
+{"prompt":"","completion":" Davus pecuniam domini non habet."}
+{"prompt":"","completion":" Iulius: \"O! Davus bonus servus est: pecuniam meam non habet. Ecce nummus tuus, Dave!\""}
+{"prompt":"","completion":" Iulius unum nummum ponit in sacculo Davi."}
+{"prompt":"","completion":" Iam sacculus Davi non est vacuus:"}
+{"prompt":"","completion":" in sacculo eius est Unus nummus."}
+{"prompt":"","completion":" Davus laetus est."}
+{"prompt":"","completion":" Iulius: \"Sume sacculum tuum et discede, bone serve!\""}
+{"prompt":"","completion":" Davus sacculum suum sumit et discedit."}
+{"prompt":"","completion":" Medus baculum, quod in mensa est, Videt."}
+{"prompt":"","completion":" Medus quoque discedit."}
+{"prompt":"","completion":" Cur discedit Medus?"}
+{"prompt":"","completion":" Medus discedit, quia is pecuniam domini in sacculo suo habet!"}
+{"prompt":"","completion":" Davus et Medus absunt."}
+{"prompt":"","completion":" *Personae: Iulius, Aemilia.*"}
+{"prompt":"","completion":" Iulius: \"Davus bonus servus est. Is non habet pecuniam meam. --- Sed ubi est pecunia mea, Mede? Quis pecuniam meam habet?\""}
+{"prompt":"","completion":" Medus non respondet."}
+{"prompt":"","completion":" Iulius: \"Ubi est Medus? Cur non respondet?\""}
+{"prompt":"","completion":" Aemilia: \"Medus non respondet, quia abest. Nullus servus adest.\""}
+{"prompt":"","completion":" Iulius Medum vocat: \"Mede! Veni! sed Medus, qui abest, eum non audit neque venit."}
+{"prompt":"","completion":" Iulius rursus vocat: \"Me-de! Veni, improbe serve!\""}
+{"prompt":"","completion":" Medus non venit."}
+{"prompt":"","completion":" Iulius: \"Cur non venit Medus?\""}
+{"prompt":"","completion":" Aemilia: \"Medus non venit, quia is habet pecuniam tuam! Eius sacculus non est vacuus!\""}
+{"prompt":"","completion":" Aemilia ridet."}
+{"prompt":"","completion":" Iulius iratus est---is non ridet!"}
+{"prompt":"","completion":" Iulius: \"Ubi est baculum meum?\""}
+{"prompt":"","completion":" Iulius baculum, quod in mensa est, non Videt."}
+{"prompt":"","completion":" Aemilia: \"Ecce baculum in mensa.\""}
+{"prompt":"","completion":" Iulius baculum suum sumit et discedit."}
+{"prompt":"","completion":" Ecce villa et hortus Iulii."}
+{"prompt":"","completion":" Iulius in magna villa habitat."}
+{"prompt":"","completion":" Pater et mater et tres liberi in villa habitant."}
+{"prompt":"","completion":" Iluius et Aemilia tres liberos habent: duos filios et unam filiam -- non duas filias."}
+{"prompt":"","completion":" In villa multi servi habitant."}
+{"prompt":"","completion":" Dominus eorum est Iulius: is multos servos habet."}
+{"prompt":"","completion":" Ancillae quoque multae in villa habitant."}
+{"prompt":"","completion":" Domina earum est Aemilia: ea multas ancillas habet."}
+{"prompt":"","completion":" Iulius in villa sua habitat cum magna familia."}
+{"prompt":"","completion":" Pater et mater habitant cum Marco et Quinto et Iulia."}
+{"prompt":"","completion":" Iulius et Aemilia in villa habitant cum liberis et servis et ancillis."}
+{"prompt":"","completion":" Villa Iulii in magno horto est."}
+{"prompt":"","completion":" In Italia sunt multae villae cum magnis hortis."}
+{"prompt":"","completion":" In hortis sunt rosae et lilia."}
+{"prompt":"","completion":" Iulius multas rosas et multa lilia in horto suo habet."}
+{"prompt":"","completion":" Hortus Iulii pulcher est, quia in eo sunt multae et pulchrae rosae liliaque."}
+{"prompt":"","completion":" Aemilia femina pulchra est."}
+{"prompt":"","completion":" Syra non est femina pulchra, neque pulcher est nasus eius, sed foedus est."}
+{"prompt":"","completion":" Syra, quae bona ancilla est, nasum magnum et foedum habet."}
+{"prompt":"","completion":" Iulius est vir Aemiliae, feminae pulchrae."}
+{"prompt":"","completion":" Iulius Aemiliam amat, quia ea pulchra et bona femina est."}
+{"prompt":"","completion":" Aemilia Iulium virum suum amat et cum eo habitat."}
+{"prompt":"","completion":" Pater et mater liberos suos amant."}
+{"prompt":"","completion":" Iulius non solus, sed cum Aemilia et cum magna familia in villa habitat."}
+{"prompt":"","completion":" In villa sunt duo ostia: ostium magnum et ostium parvum."}
+{"prompt":"","completion":" Villa duo ostia et multas fenestras habet."}
+{"prompt":"","completion":" In villa Iulii magnum atrium est cum impluvio."}
+{"prompt":"","completion":" Quid est in impluvio? In eo est aqua."}
+{"prompt":"","completion":" In atrio nullae fenestrae sunt."}
+{"prompt":"","completion":" Etiam peristylum magnum et pulchrum in villa est."}
+{"prompt":"","completion":" 'Peristylum' est vocabulum Graecum."}
+{"prompt":"","completion":" In villis Graecis et Romanis magna et pulchra peristyla sunt."}
+{"prompt":"","completion":" Estne impluvium in peristylo? Id non in peristylo, sed in atrio est."}
+{"prompt":"","completion":" In peristylo parvus hortus est."}
+{"prompt":"","completion":" In villa sunt multa cubicula."}
+{"prompt":"","completion":" Quintus in cubiculo parvo dormit."}
+{"prompt":"","completion":" Estne magnum cubiculum Marci? Id quoque parvum est."}
+{"prompt":"","completion":" Iulius et Aemilia in cubiculo magno dormiunt."}
+{"prompt":"","completion":" Ubi dormiunt servi? Ii quoque in cubiculis dormiunt."}
+{"prompt":"","completion":" Suntne magna eorum cubicula? Ea non magna sunt, et multi servi in uno cubiculo dormiunt."}
+{"prompt":"","completion":" Etiam ancillae multae in uno cubiculo dormiunt, neque eae magna cubicula habent."}
+{"prompt":"","completion":" Aemilia in peristylo est."}
+{"prompt":"","completion":" Estne sola? Aemilia sola non est: liberi cum ea in peristylo adsunt."}
+{"prompt":"","completion":" Iulius abest."}
+{"prompt":"","completion":" Aemilia sine viro suo Iulio in villa est."}
+{"prompt":"","completion":" Ubi est Iluius? In opido Tusculo est sine Aemilia, sed cum servis quattuor."}
+{"prompt":"","completion":" Aemilia cum Marco, Quinto Iuliaque in peristylo est."}
+{"prompt":"","completion":" Iulia rosas pulchras in horto videt et ab Aemilia discedit."}
+{"prompt":"","completion":" Iam ea cum Aemilia non est. Aemilia eam non videt."}
+{"prompt":"","completion":" Puella in horto est."}
+{"prompt":"","completion":" Aemilia imperat: \"Marce et Quinte! Iuliuam vocate!\""}
+{"prompt":"","completion":" Marcus et Quintus Iuliam vocant: \"Iulia! Veni!\" sed Iulia eos non audit neque venit."}
+{"prompt":"","completion":" Iulia pueros vocat: \"Marce et Quinte! Venite! Hic multae rosae sunt.\""}
+{"prompt":"","completion":" Pueri Iuliam audiunt, neque ii ab Aemilia discedunt."}
+{"prompt":"","completion":" Quintus: \"Carpe rosas, Iulia!\""}
+{"prompt":"","completion":" Iulia rosas carpit et cum quinque rosis ex horto venit."}
+{"prompt":"","completion":" Iulia: \"Vide, mater! Videte, pueri! Videte rosas meas!\" Iulia laeta est, rosae eam delectant."}
+{"prompt":"","completion":" Aemilia: \"Ecce puella pulchra cum rosis pulchris!\""}
+{"prompt":"","completion":" Verba Aemiliae Iuliam delectant."}
+{"prompt":"","completion":" Marcus: \"Rosae pulchrae sunt; puella sine rosis pulchra non est!\" Verba Marci Iuliam non delectant!"}
+{"prompt":"","completion":" Aemilia (irata): \"Tace, puer improbe! Iulia puella pulchra est -- cum rosis et sine rosis.\""}
+{"prompt":"","completion":" Iulia: \"Audite, Marce et Quinte!\""}
+{"prompt":"","completion":" Marcus: \"Mater non videt nasum tuum foedum!\""}
+{"prompt":"","completion":" Marcus et Quintus rident: \"Hahahae!\""}
+{"prompt":"","completion":" Iulia: \"Audi, mamma: pueri etiam me rident!\""}
+{"prompt":"","completion":" Iulia plorat et cum una rosa ab iis discedit."}
+{"prompt":"","completion":" Aemilia: \"Tacete, pueri improbi! Nasus Iuliae foedus non est. Discedite ex peristylo! Sumite ceteras rosas easque in aqua ponite!\""}
+{"prompt":"","completion":" Pueri ceteras quattuor rosas sumunt et cum iis discedunt."}
+{"prompt":"","completion":" Aemilia, quae iam sola est in peristylo, ancillas vocat: \"Delia et Syra! Venite!\""}
+{"prompt":"","completion":" Delia et Syra ex atrio vuniunt. Aemilia eas interrogat: \"Suntne pueri in atrio?\""}
+{"prompt":"","completion":" Delia respondet: \"In atrio sunt.\""}
+{"prompt":"","completion":" Aemilia: \"Quid agunt Marcus et Quintus?\""}
+{"prompt":"","completion":" Delia: \"Pueri aquam sumunt ex impluvium...\""}
+{"prompt":"","completion":" Syra: \"...et rosas in aqua ponunt.\""}
+{"prompt":"","completion":" Hic domina et ancillae pueros audiunt ex atrio: Quintus plorat et Marcus ridet."}
+{"prompt":"","completion":" Aemilia: \"Quid iam agunt pueri? Age, Delia! discede et interroga eos!\" Delia ab Aemilia et Syra discedit."}
+{"prompt":"","completion":" Aemilia Syram interrogat: \"Ubi est Davus?\""}
+{"prompt":"","completion":" Syra respondet: \"In oppido est cum domino.\""}
+{"prompt":"","completion":" Delia ex atrio venit et dominam vocat: \"Veni, o domina! Veni!\""}
+{"prompt":"","completion":" Aemilia: \"Quid est, Delia?\""}
+{"prompt":"","completion":" Delia: \"Quintus est in impluvio!\""}
+{"prompt":"","completion":" Aemilia: \"In impluvio? Quid agit puer in impluvio?\""}
+{"prompt":"","completion":" Delia: \"Aquam pulsat et te vocat.\""}
+{"prompt":"","completion":" Aemilia: \"Quid agit Marcus?\""}
+{"prompt":"","completion":" Delia: \"Is ridet, quia Quintus in aqua est!\""}
+{"prompt":"","completion":" Aemilia: \"O, puer improbus est Marcus! Agite! Iulium vocate, ancillae!\""}
+{"prompt":"","completion":" Syra: \"Sed dominus in oppido est.\""}
+{"prompt":"","completion":" Aemilia: \"O, iam rursus abest Iulius!\""}
+{"prompt":"","completion":" Delia: \"Age! Veni, domina, et Marcum verbera!\""}
+{"prompt":"","completion":" Quid agit domina? Domina irata cum ancillis ex peristylo discedit."}

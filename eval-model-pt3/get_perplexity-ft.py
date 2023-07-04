@@ -58,7 +58,7 @@ file_path = Path.cwd() / parser.parse_args().second_argument
 with file_path.open(mode='r', encoding="utf-8") as f:
     data = json.load(f)
 
-model = "davinci"
+model = "davinci:ft-personal:ch1to35-txt-2023-07-03-21-57-28"
 
 # creating output base filename
 info_list = parser.parse_args().second_argument.split(".")

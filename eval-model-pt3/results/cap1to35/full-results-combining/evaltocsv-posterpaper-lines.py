@@ -81,6 +81,9 @@ output_directory = "graphs/"
 # No 'shot' column, so we remove that filter
 filtered_df = df[df['model'].isin(['hugging13B', 'alltextbook', 'davinci', 'davinci:ft-personal:ch1to35-txt-2023-07-03-21-57-28'])] # Filter for specific models
 
+import matplotlib.pyplot as plt
+from matplotlib.ticker import MaxNLocator
+
 # renaming models
 model_name_mapping = {
     'hugging13B': 'LLaMA',
@@ -90,46 +93,33 @@ model_name_mapping = {
 }
 filtered_df['model'] = filtered_df['model'].replace(model_name_mapping)
 
-
 pivot_df_model_chapter = create_pivot_table(filtered_df, 'model', 'chapter', 'accuracy')
 pivot_df_model_chapter.to_csv(output_directory + 'results-model-chapter.csv')
 
-# model chapter plot
-ax = pivot_df_model_chapter.T.plot(kind='line')
-ax.xaxis.set_major_locator(MaxNLocator(integer=True))
-ax.set(xlabel='Chapter', ylabel='Accuracy', title='Accuracy per model and chapter')
+# Divide models into two groups
+models_group1 = ['LLaMA', 'Latin-LLaMA']
+models_group2 = ['Davinci', 'Latin-Davinci']
 
-# Move the legend to the bottom right corner
-plt.legend(title='Model', loc='lower right')
+# Create two subplots
+fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(12, 6))
+
+# Plot models from group 1
+pivot_df_model_chapter.loc[models_group1].T.plot(kind='line', ax=ax1, color=['darkgreen', 'limegreen'])
+ax1.xaxis.set_major_locator(MaxNLocator(integer=True))
+ax1.set(xlabel='Chapter', ylabel='Accuracy', title='Accuracy per model and chapter (Group 1)')
+ax1.legend(title='Model', loc='lower right')
+ax1.set_xlim(1, 35)  # Set x-axis limits
+
+# Plot models from group 2
+pivot_df_model_chapter.loc[models_group2].T.plot(kind='line', ax=ax2, color=['darkblue', 'deepskyblue'])
+ax2.xaxis.set_major_locator(MaxNLocator(integer=True))
+ax2.set(xlabel='Chapter', ylabel='Accuracy', title='Accuracy per model and chapter (Group 2)')
+ax2.legend(title='Model', loc='lower right')
+ax2.set_xlim(1, 35)  # Set x-axis limits
+
+# Adjust spacing between subplots
+plt.subplots_adjust(hspace=0.4)
 
 # Save the figure
 plt.savefig(output_directory + 'model_chap.png')
 plt.close()
-
-
-# Group by model and calculate the mean accuracy
-model_accuracy = filtered_df.groupby('model')['accuracy'].mean()
-
-# Create a bar plot
-plt.bar(model_accuracy.index, model_accuracy.values)
-
-# Add exact numbers above the columns
-for i, v in enumerate(model_accuracy.values):
-    plt.annotate(str(round(v, 2)), (i, v), ha='center', va='bottom')
-
-# Set labels and title
-plt.xlabel('Model')
-plt.ylabel('Accuracy')
-plt.title('Mean Accuracy by Model')
-
-# Save the figure or show it
-plt.savefig(output_directory + 'accuracy_bar_chart.png')
-plt.show()
-
-# Create bar graph
-model_accuracy.plot(kind='bar', xlabel='Model', ylabel='Accuracy', title='Accuracy per Model')
-plt.savefig(output_directory + 'model_accuracy.png')
-
-# Create bar chart for quiz type accuracy
-pivot_df_chapter_quiztype.plot(kind='bar', xlabel='Model', ylabel='Accuracy', title='Accuracy per Quiz Type')
-plt.savefig(output_directory + 'quiztype_accuracy.png')

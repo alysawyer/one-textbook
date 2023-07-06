@@ -62,15 +62,17 @@ model = "davinci"
 
 # creating output base filename
 info_list = parser.parse_args().second_argument.split(".")
-json_name = ".".join([ info_list[0].split("/")[2], info_list[0].split("/")[1], model])
+json_name = ".".join([ info_list[1].split("/")[1], info_list[0].split("/")[1], model, info_list[1].split("/")[0]])
+
+print(json_name)
 
 # creating output filepaths
-output_perplexity_file = "results/full/" + json_name + ".json"
-output_response_file = "results/full-raw/" +  json_name + ".raw.json"
+output_perplexity_file = "results/cap1to5-accent-experiment/" + json_name + ".json"
+output_response_file = "results/cap1to5-accent-experiment-raw/" +  json_name + ".raw.json"
 
 
 # only running new code 
-if not os.path.exists(output_response_file) or os.path.getsize(output_response_file) == 0: 
+if not os.path.exists(output_perplexity_file) or os.path.getsize(output_perplexity_file) == 0: 
     
     # Iterate through questions
     for item in data:
@@ -82,7 +84,7 @@ if not os.path.exists(output_response_file) or os.path.getsize(output_response_f
 
         # Iterate through evalsentences
         result_list = []
-        time.sleep(10)
+        time.sleep(7)
         for sentence in evalsentences:
             # Evaluate each sentence and calculate perplexity
             

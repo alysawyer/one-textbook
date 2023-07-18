@@ -122,4 +122,6 @@ plt.subplots_adjust(hspace=0.4)
 
 # Save the figure
 plt.savefig(output_directory + 'model_chap.png')
+plt.savefig('model_chap.svg', format='svg')
+
 plt.close()

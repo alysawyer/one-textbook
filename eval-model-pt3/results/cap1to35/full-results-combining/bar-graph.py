@@ -90,45 +90,40 @@ model_name_mapping = {
 }
 filtered_df['model'] = filtered_df['model'].replace(model_name_mapping)
 
+# Define the colors for each model
+colors = {
+    'Davinci': 'darkblue',         # Dark blue
+    'Latin-Davinci': 'deepskyblue',   # Light blue
+    'LLaMA': 'darkgreen',           # Dark green
+    'Latin-LLaMA': 'limegreen'       # Light green
+}
 
-pivot_df_model_chapter = create_pivot_table(filtered_df, 'model', 'chapter', 'accuracy')
-pivot_df_model_chapter.to_csv(output_directory + 'results-model-chapter.csv')
-
-# model chapter plot
-ax = pivot_df_model_chapter.T.plot(kind='line')
-ax.xaxis.set_major_locator(MaxNLocator(integer=True))
-ax.set(xlabel='Chapter', ylabel='Accuracy', title='Accuracy per model and chapter')
-
-# Move the legend to the bottom right corner
-plt.legend(title='Model', loc='lower right')
-
-# Save the figure
-plt.savefig(output_directory + 'model_chap.png')
-plt.close()
-
+# Order the models
+ordered_models = ['Davinci', 'Latin-Davinci', 'LLaMA', 'Latin-LLaMA']
 
 # Group by model and calculate the mean accuracy
 model_accuracy = filtered_df.groupby('model')['accuracy'].mean()
 
-# Create a bar plot
-plt.bar(model_accuracy.index, model_accuracy.values)
+# Set the figure size to be longer horizontally than vertically
+plt.figure(figsize=(12, 6))
+
+# Create a bar plot with the ordered models and corresponding colors
+for i, model in enumerate(ordered_models):
+    plt.bar(i, model_accuracy[model], color=colors[model])
 
 # Add exact numbers above the columns
-for i, v in enumerate(model_accuracy.values):
-    plt.annotate(str(round(v, 2)), (i, v), ha='center', va='bottom')
+for i, model in enumerate(ordered_models):
+    plt.annotate(str(round(model_accuracy[model], 2)), (i, model_accuracy[model]), ha='center', va='bottom')
+
+# Set the x-axis tick labels
+plt.xticks(range(len(ordered_models)), ordered_models)
 
 # Set labels and title
 plt.xlabel('Model')
 plt.ylabel('Accuracy')
+plt.title('Mean Accuracy by Model')
 
 # Save the figure or show it
 plt.savefig(output_directory + 'accuracy_bar_chart.png')
+plt.savefig('accuracy.svg', format='svg')
 plt.show()
-
-# Create bar graph
-model_accuracy.plot(kind='bar', xlabel='Model', ylabel='Accuracy', title='Accuracy per Model')
-plt.savefig(output_directory + 'model_accuracy.png')
-
-# Create bar chart for quiz type accuracy
-pivot_df_chapter_quiztype.plot(kind='bar', xlabel='Model', ylabel='Accuracy', title='Accuracy per Quiz Type')
-plt.savefig(output_directory + 'quiztype_accuracy.png')

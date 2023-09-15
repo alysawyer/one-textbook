@@ -1,0 +1,2197 @@
+HANS H. 0RBERG 
+LINGVA LATINA 
+PER SE ILLVSTRATA 
+COLLOQV1APERSONARVM 
+DOMVS LATINA 
+ANNOMMV COLLOQV1APERSONAR� 
+© Hans H. 0rberg 1998 
+Ornnia proprietatis iura reservantur 
+Ex officina typographica Special-Trykkeriet Viborg 
+anno 1998,2001,2005 
+Imagines delineavit Peer Lauritzen 
+ISBN 87-997016-6-9 
+LINGVA LATINA 
+PER SE ILLVSTRATA 
+p ARS I: F AMILIA ROMANA 
+PARS II: ROMA AETERNA 
+INDICES 
+GRAMMATICA LATINA 
+EXERCITIA LATINA I & II 
+COLLOQVIA PERSONARVM 
+SERMONES ROMANI 
+Plautus: AMPHITRYO COMOEDIA 
+CATILINA. Sallustius & Cicero 
+Caesar: DE BELLO GALLICO 
+Petronius: CENA TRIMALCHIONIS 
+Domus Latina, Skovvangen 7 
+DK-8500 Grenaa, Dania 
+www.lingua-latina.dk AD DISCIPV LVM 
+Colloquia quae hoc libro eontinentur legenda sunt post singula capitula 
+eius libri cui titulus est FAMILIA ROMANA: Colloquium I post Capitulum 
+I, Colloquium II post Capitulum II, item eetera. 
+Diseipulus qui hune ordinem sequetur in legendo nullas dec1inationes 
+sibi ignotas inveniet nee ulla voeabula nova praeter pauea quae illustrantur 
+in marginibus paginarum aut per se intelleg untur. Itaque his amicorum 
+Romanorum eolloquiis legendis discipulus studiosus res gramma tieas 
+neeessarias et voeabula Latina frequenti ssima, quae in ipsis eapitulis iam 
+eognovit, etiam eertius diseet ac memoria retinebit. 
+Hans H 0rberg Suavis autem est narratio quae habet 
+colloq uia personarum 
+CICERO, Partitiones oratoriae 32 INDEX COLLOQVIORVM 
+Colloquium I Miircus, lii lia 7 
+Colloquium II Delia, Libanus 9 
+Colloquium III Delia, Syra, Aemilia, liilia lO 
+Colloquium IV Syra, Diivus, liilius 12 
+Colloquium V liilius, Diivus, Medus 14 
+Colloquium VI Medus, liilius, Diivus, Syrus, Leander, Ursus 16 
+Colloquium VII Dorippa, Lydia, Medus 18 
+Colloquium VIII liilius, Aemilia, Flora, liilia 20 
+Colloquium IX Faustinus, Riifus 23 
+Colloquium X liilia, Syra 25 
+Colloquium XI Sextus, F abia 28 
+Colloquium XII Mfles, Cornelius, Medus 30 
+Colloquium XIII Medicus, Syrus, liilius, Aemilia, Syra 33 
+Colloquium XIV Aemilia, liilius 36 
+Colloquium XV Miircus, liilia, Aemilia, liilius, servi 39 
+Colloquium XVI Dorippa, Lepidus, Lydia, Medus 41 
+Colloquium XVII liilia, Miircus 45 
+Colloquium XVIII Sextus, Miircus, Titus 49 
+Colloquium XIX Fabia, Cornelius 53 
+Colloquium XX Diodorus, Tlepolemus, Symmachus 57 
+Colloquium XXI Diodorus, Symmachus, Sextus 63 
+Colloquium XXII Dorippa, Sannio, Albinus 67 
+Colloquium XXIII liinitor, Tlepolemus, Diivus 70 
+Colloquium XXIV Diodorus, Symmachus, Tlepolemus 72 PERSONAE 
+Aemilia, uxor IUlii 
+Albfnus, tabemarius 
+Corneli us, dominus 
+Diivus, servus IUlii 
+Diodorus, liidi magister 
+Dorippa, amIca Lydiae 
+Fabia, uxor Comelii 
+F austfnus, pastor 
+FlOra, puella 
+liinitor IUlil 
+Iulia, puella, filia IUlii et Aemiliae 
+Iulius, dominus 
+Leander, servus IUlil 
+L ydia, amIca MedI 
+Miircus, puer, filius IUlil et Aemiliae 
+Medus, servus IUlii 
+Mfles Romanus 
+Qufntus, puer, filius IUlil et Aemiliae 
+Rufus, agricola 
+Sannio, ianitor 
+Sextus, puer, filius Comèlii et Fabiae 
+Symmachus, medicus 
+Syra, ancilla Aemiliae 
+Syrus, servus IUlil 
+Titus, puer 
+Tlepolemus, servus DiodorI 
+Ursus, servus IUlii COLLOQVlAPERSONARVM 
+COLLO QVIVM PRIMVM 
+Personae: Miircus , Iulia 
+Marcus : "Ubi est Syria, liilia?" 
+liilia: "Suria est in Asia." 
+Marcus: "Non Suria, sed Syria in Asia est." 
+liilia: "Siria ... " 
+Marcus : "O liilia! Syria, non Siria: littera secunda est y, non i. " 
+liilia: ''Non i, sedy: i-y, i-y. Numy littera Latina est?" 
+Marcus : "Y non est littera Latina, sed littera Graeca. Syria est 
+vocabulum Graecum ." 
+liilia: "Siria, Syria: non Siria, sed Syria." 
+Marcus: "Ubi est Syria?" 
+liilia: "Syria in Asia est." 
+Marcus: "Ubi est Aegypt us?" 
+liilia: "Aegiptus ... " 
+Marcus: "Aegypt us!" 
+liilia: "Aegyptus quoque in Asia est." 
+Marcus: "In Asia? Aegyptus non est in Asia!" 
+liilia: "Aegyptus in Africa est -sed Barabia est in Asia." 
+Marcus: "Quid? Barabia? In Asia non est Barabia!" 
+liilia: "Estne Barabia in Africa? " 
+Marcus : "Barabia non est in Africa." 
+7 COLLOQVIA PERSONARVM 
+IUlia: "Num Barabia in Europa est?" 
+Marcus: "Barabia in Europa, in Africa, in Asia non est!" 
+IUlia: "Sed ubi est Barabia?" 
+Marcus : "Arabia, non Barabia, in Asia est. In Arabiii littera 
+prIma est a, non b. " 
+IUlia: "Arabia, Aegyptus, Syria. Syria et Arabia sunt in Asia, sed 
+Aegyptus in Africa est. Nilus quoque in Africa est." 
+Marcus: "Quid est Nilus?" 
+IUlia: "NIlus magnus fluvius est." 
+Marcus: "Quid est Sparta?" 
+IUlia: "Sparta est magnum oppidum Graecu m." 
+Marcus : "Estne Creta oppidum Graecum?" 
+IUlia: "Est." 
+Marcus : "Non est!" 
+IUlia: "Quid est Creta?" 
+Marcus: "Creta est Insula Graeca. Creta et Naxus et Rhodus 
+Insulae Graecae sunt. In Graecia sunt multae Insulae. Estne 
+Syria Insula Graeca?" 
+IUlia: "Non est." 
+Marcus : "Quid est Syria?" 
+IUlia: "Siria est..." 
+Marcus: "Syria!" 
+IUlia: "Syria est... vocabulum Graecum !" 
+8 COLLOQVIA PERSONARVM 
+COLLOQVIVM SECVNDVM 
+Personae: Delia, Libanus 
+Delia ancilla est. Libanus est servus. 
+Libanus: "Quae est domina tua, Delia?" 
+Delia: "Domina mea est Aemilia. Iiilius dominus 
+meus est. Quis est dominus tuus?" 
+Libanus: "Dominus meus est Comelius, et Fabia est domina 
+mea. Estne magna familia Iiilii?" 
+Delia: "Est magna." 
+Libanus: "Mea quoque familia magna est." 
+Delia: "Tua familia? Non tua, sed Comelii familia est. Num 
+ceteri servi Comelii tui servi sunt?" 
+Libanus : "Familia domini mei est familia me a! Quot servi sunt 
+in familia tua?" 
+Delia: "Centum servi ancillaeque. " 
+Libanus: "Liberi quot sunt?" 
+Delia: "Tres: duo filii et Una filia. In familia Iiilii sunt multi servi 
+et pauci liberi. Quot sunt liberi in familia Comelii?" 
+Libanus: "In familia Comelii non tres, sed duo liberi sunt: Una 
+filia, Cornelia, et unus filius, Sextus. Numerus liberorum 
+parvus est, sed numerus servorum non est parvus." 
+Delia: "Quot servi et quot anci11ae sunt in familia domini tui?" 
+Libanus: "Decem servi decemque ancillae." 
+Delia: "Decem parvus numerus est." 
+Libanus : "Sed decem et decem sunt viginti. Viginti non est 
+parvus numerus. Familia mea est magna!" 
+Delia. "Non magna, sed parva est -neque tua est familia!" 
+9 decem = x (lO) 
+viginti = xx (20) COLLOQ V1APERSONARVM 
+COLLOQVIVM TERTIVM 
+Personae: Delia, Syra, Aemilia, liilia 
+Puella dormit. Quae est puella quae dormit? Puella quae dormit 
+est liilia, filia Aemiliae. 
+Ancilla cantat: "Lalla." Quae est ancilla quae cantat? Ancilla 
+quae cantat est Delia. Ciir Delia cantat? Delia cantat quia laeta 
+est. Syra Deliam audit. Syra et Delia sunt ancillae Aemiliae. 
+Syra: "St, Delia! Puella mea dormit." 
+Delia: "Puella tua? Quae est puella tua?" 
+Syra: "Est liilia." 
+Delia: "liilia non est tua puella, liilia puella Aemiliae est." 
+Syra: "liilia est filia Aemiliae -et mea quoque puella est." 
+Delia: "Lalla, lalla." Ancilla laeta cantat. 
+Syra: "Ssst! liilia te audit." Syra irata est. 
+Delia: "Hahah ae! liilia me non audit, quia dormit. Lalla, lalla, 
+lalla!" Delia ridet et cantat. 
+liilia Deliam audit. Iam non dormit puella. 
+Venit Aemilia, domina ancillarum. Delia iam non cantat neque 
+ridet, quia dominam videt. 
+Aemilia, quae liiliam non videt, Syram interrogat: "Ubi est liilia, 
+Syra?" 
+lO COLLOQVIA PERSONARVM 
+Delia respondet: "Fili a tua non hIc est, domina. " 
+Syra: "Domina non te, seti me interrogat." 
+Aemilia interrogat Syram: "Cfu filia mea hIc non est?" 
+Syra: "IUlia hic non est, quia dormit." 
+IUlia, quae iam non dormit, Syram vocat: "Syra!" 
+Syra puellam non audit, sed Aemilia eam audit. 
+Aemilia: "liilia non dormit; te vocat." 
+Syra interrogat: "Quem liilia vocat?" 
+Aemilia respondet: "Te." 
+liilia Aemiliam vocat: "Mamma ! Mam-ma !" 
+Iam Syra liiliam audit. 
+Syra: "IUlia non me, sed te vocat, domina." 
+liilia venit et Aemiliam interrogat: "Cur Syra non venit?" 
+Aemilia: "Non venit, quia te non audit." 
+Syra: "O, hIc est mea IUlia puella." 
+Aemilia: "Mea puella est liilia, non tua. Sed cur non dormi t?" 
+Non Syra, sed liilia respondet: "Qui a ancilla cantat et rIdet." 
+Aemilia irata Syram interrogat: "Quae est ancilla improba quae 
+cantat et rIdet?" 
+Syra non respondet. Cur non respondet Syra? Non respondet, 
+quia dominam videt Iratam. Syra ancilla proba est. 
+liilia: "Iam non cantat ancilla neque rIde t." 
+Aemilia: "N eque iam dormit mea puella!" 
+11 COLLOQVlAPERSONARVM 
+COLLOQVIVM QV ARTVM 
+Personae: Syra, Davus, Ialius 
+Davus, servus IUliI, laetus est, quia nummum habet in sacculo 
+suo. Syra eum laetum videt. 
+Syra: "Quid est, Dave?" 
+Davus: "Ecce sacculus meus, Syra." 
+Syra sacculum DavI videt, nummum in sacculo non videt. 
+Syra: "Vacuus est sacculus." 
+Davus: "Non est. In sacculo meo est pecfulia." 
+Syra: "Quot nummi sunt in sacculo tuo?" 
+Davus: "Unus nummus. Ecce nummus meus." 
+Syra: "Unus tantum nummus? Non magna est pecfulia tua! In 
+sacculo MedI non unus tantum, sed multi nummi sunt." 
+Davus: "Sed meus est nummus qUI in sacculo meo est." 
+Syra: "Quid? Nonne MedI est pecunia quae est in sacculo eius?" 
+Davus, qUI probus est servus, tacet neque Medum accusat. 
+Servus pro bus servum non accusat. 
+Syra: "Re sponde, Dave!" 
+Davus: "Medum interroga!" 
+Syra: "Sed is non adest. Ubi est Medus?" 
+(Iiilius Medum vocat: "Mede ! VenI!") 
+Davus: "Medus abest. AudI! Dominus eum vocat." 
+12 COLLOQVIA PERSONARVM 
+(liilius riirsus Medum vocat: "Me-de ! Veni, improbe serve!") 
+Iam Syra dominum audit. 
+Syra: "Clir dominus iratus est?" 
+Davus non respondet. 
+Syra: "Responde, Dave! Clir iratus est dominus? " 
+liilius venit. Syra dominum iratum -et baculum eius -videt. 
+liilius: "Ubi est Medus, Dave?" 
+Davus: "Non est hic." 
+I-l' "0- . b l'' U lUS: , servum lmpro um .... 
+Syra: "Quid est, domine? Nonne servus probus est Medus?" 
+liilius: "Num probus est servus qui pecfiniam domini in sacculO 
+suo habet?" 
+Syratacet. 
+Dominus iratus discedit. 
+13 noniigintii = xc (90) 
+Tusculiinus -a -um 
+< Tusculum COLLOQVIA PERSONARVM 
+COLLOQVIVM QVINTVM 
+Persi5nae: liilius, Dtivus, Medus 
+In oppido Tuscuio magnum forum est. In foro est tempium 
+antìquum. IUlius in foro est cum quattuor servìs, neque 
+Medus in iìs est. 
+Ubi est Medus? Medus quoque in oppido Tuscuio est, neque is 
+in foro est cum domino, sed sine domino in tempIo. Medus 
+solus est in magno tempIo vacuo. Quid agit servus IUIiì in 
+tempIo? Nummos numerat. 
+Medus: "Quot nummì sunt in saccuio meo? Onus, duo, tres, quat-
+tuor, quìnque, sex, septem, octo, novem, decem ....... nonaginta. 
+Ecce nonaginta nummì : magna pecunia mea est!" 
+" ... mea est!" respondet tempium vacuum. 
+Medus: "Quid? Num dominus adest?" 
+" ... adest" respondet tempium vacuum. 
+Sed solus est servus in tempIo. Nullus dominus verba eius audit. 
+Non in tempIo, sed in foro est IUIius. Quid agit IUIius in foro 
+Tuscuiano? Dominus servum suum quaerit. 
+IUIius imperat: "Quaere Medum, Dave!" 
+Davus: "Ubi?" 
+IUIius: "Quaere eum in tempIo !" 
+14 COLLOQVIA PERSONARVM 
+Davus ab IiiIio discedit. 
+Iam Davus in tempIo est et Medum quaerit. 
+Davus Medum in tempIo videt. 
+Davus: "O Mede ... !" 
+Medus: "St, tace, Dave! Tace et discerle!" 
+Davus: "Dominus in oppido est et te quaerit. 
+Iratus est dominus. " 
+Medus: "Mene quaerit dominus? Cfu me quaerit?" 
+Davus: "Quia nummi eius in saccuio tuo suntI 
+Dominus nummo s suos quaerit ." 
+Medus: "Iiilius meus dominus iam non est. Neque nummi eius in 
+saccuiO meo sunt." 
+Davus: "O improbe serve!" 
+Medus: "Age, discede, Dave -et tace! Improbus est servus qui 
+servum accusat. " 
+Davus tacet, neque ab eo discedit. 
+Medus ex saccuio suo sumit duos nummos. 
+Medus: "Ecce nummi tui, probe serve!" 
+Davus: "Non mei sunt nummi, neque tui, sed Iiilii sunt." 
+Davus nummos non sumit, et solus discedit ex tempiO. 
+In foro IiiIius Davum interrogat: "Estne Medus in tempIo?" 
+Davus tacet. 
+IiiIius: "Responde, Dave! In tempione est servus meus?" tempio-ne ... ? 
+Davus respondet: "In tempiO est... servus tuus nullus. (Medus 
+servus tuus iam non est!)" 
+Iiilius, qui prima tantum verba Davi audit, ex oppido discedit 
+sine Merlo. 
+Medus sine domino ex oppido discedit. 
+15 � @,. --COLLOQVLAPERSONAR� 
+COLLOQVIVM SEXTVM 
+Personae: Medus, liilius, Diivus, Syrus, Leander, Ursus 
+Via Latina est longa, sed Medus, qui via Latina Tiisculo Romam 
+ambulat, fessus non est, nam is ambulat ad Lydiam amicam, 
+quae Romae habitat. Lydia Medum amat et ab eo amatur. 
+Medus cantat: "Non via longa est Romam ... " 
+Medus autem solus ambulat; itaque id quod cantat a nlillo 
+auditur. 
+Via quae est inter Tiisculum et villam liilii non tam longa est 
+quam via Latina, sed servi quattuor qui Tlisculo ad villam 
+ambulant fessi sunt, quia lectIcam et saccos portant. Duo servi, 
+Davus et Ursus, lectIcam cum domino portant. Saccos portant 
+Syrus et Leander. 
+liilius, qui lectica vehitur, servos videt fessos et imperat: "Ponite 
+lectIcam in via, servi!" 
+Servi fessi lecticam in via ponunt neque iam ambulant. Syrus et 
+Leander saccos ponunt. 
+Davus: "PhU! Via longa est ab oppido ad villam!" 
+Syrus: "Non longa est via, sed sacci magni sunt." 
+Leander: "Tuus saccus est parvus. Ecce saccus meus magnus! 
+Davus autem lectIcam cum domino portat, non saccum." 
+Syrus: "Davus non solus, sed cum Urso lecticam portat." 
+16 COLLOQV1A PERSONARVM 
+Ursus: "Neque vacua est lectica! Dominus non tam parvus est 
+S " quam saccus tu us, yre. 
+liilius, qui Davum fessum videt, imperat: "1am saccum Syri 
+porta, Dave! Urse, sume saccum Leandri ! Agite, Syre et 
+Leander, lecticam portate !" 
+Servi parent: Davus et Ursus saccos sUmunt, lecticam sumunt 
+Syrus et Leander. 
+liilius imperat: "Ambulate, servi!" 
+1am rursus ambulant servi. Syrus et Leander lecticam cum 
+domino portant, et sacci portantur ab Urso et Davo: Ursus 
+saccum magnum portat, saccus parvus a Davo portatur. 
+1am Davus non tam fessus est quam Syrus. 
+Syrus: "PhU! Via longa est ab oppido ad villam!" 
+Davus ridet. 
+Ursus (ad Davum) : "Cur non ambulat dominus post lecticam?" 
+Davus: "Dominus fessus vehitur, non ambulat, quia non est 
+servus." 
+Ursus: "Et servi fessi ambulant, non vehuntur, quia domini non 
+sunt." 
+Leander: "Num fessus est dominus, qui lectica vehitur?" 
+Davus: "Tace, Leander! Dominus te audit." 
+liilius stertit: "Ssst-rrrch, ssst-rrrch ... !" 
+Leander: "Ecce dominus iam dormit, quia longa via fessus est! 
+1s me non audit." 
+V erba servorum a liilio non audiuntur, nam dominus fessus iam 
+dormit in lectica! Dominus qui dormit a servis non timetur. 
+17 COLLOQVIA PERSONARVM 
+COLLOQVIVM SEPTIMVM 
+Personae: Dorippa, Lydia, Medus 
+Dorippa, quae amIca Lydiae est, amIcam suam interrogat: "Quis 
+est amIcus tuus?" 
+Lydia respondet: "AmIcus meus est Med us." 
+Dorippa: "Estne vir Roman us?" 
+Lydia: "Non Romanus, sed Graecus est amIcus meus." 
+Dorippa: "Habitatne Romae?" 
+Lydia: "Medus non Romae, sed prope Tiisculum habitat." 
+Dorippa: "Quid est Tiisculum?" 
+Lydia: "Tiisculum est oppidum in via Latina non procul a Roma. 
+Medus in vIlla prope Tusculum habitat." 
+Dorippa: "VIllamne habet amIcus tuus?" 
+Lydia: "Non Medus, sed dominus eius habet vIllam. " 
+Dorippa: "Ah! Servus est amlcus tuus! Meus amIcus, Lepidus, 
+non est servus. Pater eius vIllam habet et magnam peciinia m." 
+Lydia: "Medus bonus servus est et bonus amicus, qUI me solam 
+amat." 
+Dorippa: "Ciir amIcus tuus Romam ad te non venit?" 
+Lydia non respondet. 
+Dorippa: "Quia in vIlla multae sunt ancillae rormosae ... " 
+Lydia: "Quid?" 
+Doripp a: "AmIcus tuus non solum te, sed etiam ancillam amat!" 
+Lydia: "Tace, Dorippa!" 
+18 COLLOQVIA PERSONARVM 
+Pulsatur ostium. 
+Lydia: "Intra!" 
+Medus ostium aperit et intrat. 
+Medus: "Salve, mea Lydia! Ecce amIcus tuus, 
+qUI solus Romam ad te venit." 
+Lydia: "O amIce, salve!" 
+Medus laetus ad Lydiam adit et eI multa oscula 
+dat. Lydia verbis et osculis Medi delectatur. 
+Lydia: "Ecce Dorippa. Saliita eam!" 
+Medus se vertit ad Dorippam eamque saliitat: "Salve, Dorippa!" 
+Dorippa Medum salUtat: "Salve, serve!" 
+Medus Lydiam interrogat: "Estne Dorippa ancilla tua?" 
+Lydia: "Dorippa non est ancilla, neque amicus eius servus est." 
+Medus : "Neque tuus amicus servus est, Lydia." 
+Lydia: "Quid? Ubi est dominus tuus?" 
+Medus: "Iiilius in villa est apud servos suos -neque is iam 
+meus dominus est!" 
+Lydia laeta se vertit ad Dorippam: "AudI, Dorippa: amicus 
+meus iam servus non est." 
+Doripp a: "Neque ancilla est amica tua!" 
+Dorippa irata per ostium exit. In via ante ostium 
+videt Lepidum, amicum suum. Lepidus autem 
+Dorippam non salUtat neque ab ea saliitatur, 
+nam is cum ancilla fOrmosa in via ambulat! 
+Lepidus ancillae osculum dat! 
+Dorippa discedit. In oculis eius lacrimae sunt. 
+19 IUlius 
+1111!! (voc) 
+noster -tra -trum 
+= meus et tuus COLLOQVIA PERSONARVM 
+i� 
+COLLOQVIVM OCTA VVM 
+Personae: liilius, Aemilia, Flora, liilia 
+Ecce IUlius et Aemilia in foro Tusculano . Forum plenum est 
+virorum et reminarum qUI emunt aut vendunt, in hIs FlOra, 
+puella fOrmosa, quae rosas vendit. Aemilia rosas videt. 
+Aemilia: "Aspice rosas, 1UlI!" 
+IUlius: "Quas rosas?" 
+Aemilia: "Quas illa puella vendit." Puellam digito monstrat. 
+IUlius puellam aspicit. 
+IUlius: "Formosa est puella." 
+FlOra c1amat: "Ecce rosae! Emite rosas!" 
+Aemilia cum IUlio adit ad FlOram, quae eos salUtat: "Salvete, 
+domine et domina ! Aspicite has rosas!" 
+Aemilia: "O, quam pulchrae sunt rosae tuae !" 
+IUlius: "Hortus noster plenus est rosarum. " 
+Aemilia: "Sed illae rosae quae sunt in horto nostro non tam 
+pulchrae sunt quam hae." 
+IUlius: "Neque filia nostra tam pulchra est quam haec puella." 
+Aemilia: "Tace, 1UlI! Rosas aspice, non puellam !" 
+Flora ad IUlium rIdet. Aemilia non rIdet. 
+IUlius iinam rosam sumit et puellam interrogat: "Quantum est 
+pretium huius rosae?" 
+20 COLLOQV1A PERSONARVM 
+Aemilia: "Non unam tantum, sed multas rosas eme, IUli!" 
+Flora IUlio et Aemiliae decem rosas ostendit: "Ecce decem 
+rosae. Pretium barum rosarum est duo sestertii tantum." 
+IUlius: "Id magnum pretium non est. Ecce duo sestertii." 
+IUlius Florae duos sestertios dat. Puella nummos sumit et IUlio 
+decem rosas vendit. IUlius rosas siimit et Aemiliae dat. 
+IUlius: "Accipe bas rosas a viro tuo, qui te amat, Aemilia! " 
+Aemilia laeta rosas accipit, et viro suo osculum dato 
+IUlius et Aemilia ad villam suam adveniunt et a IUlia laeta 
+saliitantur: "Salvete, pater et mater!" 
+IUlius et Aemilia: "Salve, IUlia!" 
+IUlia, quae venit ex horto, decem rosas pulchras ante se tenet. 
+IUlia: "Ecce rosae. Nonne pulchrae sunt?" 
+Aemilia: "O, quam pu1chrae sunt rosae tuae! Unde sunt illae 
+rosae?" 
+IUlia: "Ex horto sunt. Accipe rosas, mamma!" 
+IUlia Aemiliae decem rosas dato 
+IUlia: "Iam non meae, sed tuae sunt." 
+Aemilia laeta rosas accipit, et filiae suae osculum dato 
+IUlia: "Pretium decem rosarum non est iinum osculum, sed 
+decem!" 
+IUlius: "Id magnum pretium est!" 
+Aemilia ridet et filiae suae decem oscula dat. 
+21 COLLOQVIA PERSONARVM 
+liilius: "Mater tua alias decem rosas habet. Ecce rosae eius." Ex 
+lectica decem rosas sumit et liiliae ostendit. Illae rosae iam 
+non tam pulchrae sunt quam in foro, quia in aqua non sunt. 
+liilia rosas aspicit et interrogat: "Unde sunt illae rosae?" 
+liilius: "Ex foro Tusculano, ubi puella fOrmosa rosas vendit." 
+liilia: "Quantum est pretium illarum rosarum?" 
+liilius: "Duo sestertii -et Unum tantum osculum !" 
+liilia: "Duo sestertii? Id est magnum pretium! In horto nostro 
+sunt mille rosae, quarum pretium nullum est." 
+Aemilia: "Num decem oscula nullum est pretium?" 
+liilia: "Cur pater, qui hortum habet plenum rosarum, alias rosas 
+emit a puella Tusculana? Nonne rosae horti nostri tam pul­
+chrae sunt quam eae quae tanto preti o in foro emuntur ?" 
+liilius Aemiliam aspicit, quae non respondet. 
+liilius: "Responde, Aemilia! liilia te interrogat." 
+Aemilia: "Sine aqua rosae non tam pulchrae sunt..." 
+liilia liilium interrogat: "Nonne filia tua tam pu1chra est quam 
+puella quae rosas vendit?" 
+Aemilia liilium aspicit, qui non respondet. 
+Aemilia: "Responde, liili! liilia te interrogat." 
+liilius: "Filia mea tam pulchra est quam rosa ... " 
+liilia: "Num illa puella tam pulchra est?" liilius tacet. 
+Aemilia: "Age, sUme rosas meas viginti, liilia, easq ue in aqua 
+pone!" 
+liilia viginti rosas sumit et cum iis abit. 
+liilius: "Pretium decem rosarum non est unum osculum tantum, 
+sed decem oscula!" 
+Aemilia ridet et liilio quoque decem oscula dat. 
+22 COLLOQVIA PERSONARVM 
+COLLOQVIVM NONVM 
+Personae: Faustfnus, Riifus 
+Faustin us, pastor IUlii, abest ab ovibus suis, quia ovem nigram in 
+silva quaerit. Oves sine pastore in campo errant. 
+Ecce Faustinus cum cane suo ex silva venit. Pastor ovem nigram 
+umeris portato 
+Canis latrat: "Bauba u!" 
+Oves canem audiunt et ad pastorem suum currunt. 
+Faustinus ovem nigram in terra ponit sub arbore. 
+Ovis biilat: "Baba!" 
+Pastor oves numerat: "Una, duae, tres, quattuor, quinque ...... " 
+Dum oves a pastore numerantur, vir iratus accurrit. Est Rfifus, 
+qui parvam villam cum horto prope silvam habet. 
+Rfifus iratus baculum ante se tenet et c1amat: "O improbe pastorI 
+Oves tuae in horto meo sunt!" 
+Faustin us: "Quid agunt oves meae in horto tuo?" 
+Rfifus: "Rosas meas edunt." 
+Faustin us: "Oves non rosas, sed herbam edunt. Neque oves meae 
+a pastore suo abeunt. Quot oves sunt in horto tuo?" 
+Rfifus: "Quattuor." 
+Faustin us: "Non meae sunt illae oves. Ecce oves meae, quae 
+apud me sunto Numerus earum est centum. Age, numera eas!" 
+23 COLLO QV1APERSONARVM 
+Riifus oves aspicit, neque eas numerat. 
+Riifus: "Rlc centum oves non sunt." 
+FaustInus : "Sunt centum. Niilla ovis abest." 
+Ecce autem quattuor oves albae accurrunt ! Post eas venit parvus 
+canis Iratus, qui iinam ovem dentibus petit. 
+Riifus: "Ecce Persa, canis meus, qui cum ovibus tuIs venit." 
+mordere = dentibus Faustln us: "Voca canem tuum! Ovem meam mordet !" 
+petere Riifus: "Persa, venI!" 
+Canis Iratus non venit, sed ovem mordet. Ovis, quae mordetur, 
+balat: "Babaa !" 
+Iam canis pastoris parvum canem videt et ad eum currit. 
+Persa se vertit ab ove ad canem pastoris, qui ante eum consistit 
+et dentes ostendit. 
+Canis pastoris Hitrat: "Baubaubau !" 
+Parvus canis, qui magnum canem timet, non latrat, sed ululat: 
+"UhuhU !" et ad dominum suum currit. 
+Oves quattuor, quae canem parvum iam non timent, laetae ad 
+pastorem adeunt et ad eum balant. 
+Riifus: "Oves dominum suum amant. Nonne tuae sunt?" 
+FaustIn us: "Niillae oves meae iam sunt in horto tuo." 
+Riifus: "Sed vestigia ovium tuarum in horto meo sunt." 
+FaustInus: "Et in collo ovis meae sunt vestigia dentium canis tuI! 
+Canis ille parvus tam malus est quam lupus!" 
+Riifus: "Immo bonus canis est Pers a. Canis meus oves non est." 
+Faustln us: "Neque oves meae rosas edunt." 
+24 COLLOQVIA PERSONARVM 
+COLLOQVIVM DECIMVM 
+Personae: liilia, Syra 
+Iiilia et Syra in horto ambulant cum Margarita, cane Iiiliae parva 
+et crassa. Sollucet in cae10 sine nubibus. Iiilia laeta canit. 
+Canis eam canere audit et caudam movet. 
+Ecce avis ante canem volat. Canis avem ante se volare videt et 
+currit, sed avis iam pro cui a cane est. Cani s, quae avem capere 
+vult neque potest, irata latrat: "Bauba u!" 
+Iiilia canem suam vocat: "Margarit a! Veni!" 
+Canis consistit et ad Iiiliam, dominam suam, currit. 
+Syra: "N ecesse non est canem vocare, neque enim canis aves 
+capere potest." 
+Iiilia: "Sed aves canem timent." 
+Canis iam fessa iacet ad pedes Iiiliae. Syra canem crassam in 
+herba iacere videt eamque spirare audit. 
+Syra: "Canem tuam crassam nulla avis timet." 
+Iiilia: "Margarita non est crassa!" 
+Canis aspicit Iiiliam et caudam movet. 
+Iiilia: "Sed ciir non canunt aves? Quid timent?" 
+Syra: "Non canem fessam, sed avem feram timent." 
+Iiilia: "Quam avem feram?" 
+Syra magnam avem quae supra hortum volat digitò monstrat: 
+"Ecce avis fera quae a parvis avibus timetur." 
+25 COLLOQVIA PERSONARVM 
+IUlia caelum aspicit et magnam avem supra se volare videt. Avis 
+magnis alis sustinetur, neque Iiilia alas moveri videt. 
+IUlia: "Quae est illa avis?" 
+Syra: "Est aquila, quae cibum quaerit." 
+IUlia: "In cae10 cibum reperire non potest." 
+Syra: "Non in cae1o, sed in terra cibum quaerit. Aquila enim 
+bonos oculos habet et parva animalia procul videre potest. 
+Aquila est avis fera, quae alias aves capit et est." 
+IUlia: "Avis improba est aquila!" 
+Syra: "Magna aquila etiam parvam puellam capere potest et ad 
+nidum suum portare ." 
+IUlia: "Quid? Mene aquila portare potest?" 
+Syra IUliam aspicit: puella tam crassa est quam canis sua. Syra 
+ridet neque respondet. IUlia eam ridere non videt, nam caelum 
+aspicit neque iam aquilam videt. 
+IUlia: "Iam abest aquila." 
+Syra: "Est apud nidum suum." 
+IUlia: "Ubi est nidus aquilae?" 
+Syra: "Pro cuI in monte est, qua nemo potest ascendere. Pueri 
+nidum aquilae reperire non possunt." 
+IUlia: "Sed alias nidos reperire possunt. Ecce pueri qui nidos 
+quaerunt in arboribus ." IUlia Marcum et Quintum in umbra 
+inter arbores errare et nidos quaerere videt. 
+IUlia et Syra in sole sunt. 
+Syra: "Veni in umbram, IUlia!" 
+IUlia canem, quae ad pedes eius iacet, pede pulsat: "Age, curre, 
+Margarita crassa!" 
+Syra canem aspicit, et ridet. Etiam Iiilia ridet. 
+Margarita ante IUliam currit ad parvam arborem. Canis caudam 
+movet et latrat: "Baubau!" 
+26 COLLOQVIA PERSONARVM 
+Ecce avis perterrita ex arbore volat. IUlia et Syra consistunt ante 
+arborem, unde parvae voces audiuntur: "Pipipi, pipipi!" 
+IUlia Syram interrogat: "Quid hoc est?" 
+Syra ramos et folia arboris movet et inter ramos parvum nidum 
+videt. Syra nidum prope aspicit. 
+Syra: "Ecce nidus in quo quinque pulli sunt. Aspice, Iiilia!" 
+Iiilia nidum aspicit, neque pullos videt, quia nimis parva est. 
+Iiilia, quae pullos aspi cere vult, imperat: "Impone me in umeros 
+tuos, Syra!" 
+Syra: "Umeri mei te portare non possunt." 
+IUlia: "Sustine me tantum !" 
+Syra IUliam a terra sustinet. Iam puella pullos videt in nido. 
+Pulli autem tacent neque iam pipiant. 
+Iiilia: "O, quam parvi sunt! Cur non pipiant neque se movent?" 
+Syra: "Qui a perterriti sunt; te enim vident." 
+IUlia: "Pulli me videre non possunt, neque enim oculos aperiunt ." 
+Syra fessa puellam crassam in terra ponit. 
+Syra: "Sed vocem tuam audiunt pulli -et mater pullorum te 
+non solum audit, sed etiam videt. Audi: avis plpiat, quia ad 
+nidum suum adire non audet." 
+Auditur vox Marci: "Veni, Quinte! In Mc arbore nidus est." 
+Iiilia: "O, Marcus nidum videt." 
+Syra: "Discede ab arbore, IUlia! Marcus alium nidum 
+videt, hunc nidum reperire non potest." IUlia et Syra 
+cum cane ab arbore discedunt. Avis eas discedere 
+videt et ad nidum suum volat. 
+Pulli, qui matrem suam venire vident, rUrsus pipiant: 
+"Pipipi !" Pulli cibum exspectant. 
+Avis pullis suis cibum dat. 
+27 pullus pipiat: 
+"pipipi!" 
+mater (nom) 
+matrem (ace) mater matris f 
+pater patris m 
+Marcus: "Pater 
+meusX equos 
+habet." 
+M. dicit 'patrem 
+suum xequos 
+habere' 
+magnam familiam 
+= multos servos COLLOQVIA PERSONARVM 
+COLLOQVIVM VNDECIMVM 
+Pers6nae: Sextus, Fabia 
+Comelius et Fabia, qUI Tusculi habitant, fulum filium, Sextum, 
+habent. Sextus Tusculi apud matrem suam est, sed Comelius 
+abest. Fabia virum suum exspectat. 
+Sextus matrem interrogat: "Cfu non venit pater?" 
+Fabia: "Roma Tusculum via longa est." 
+Sextus: "Non longa est via. Atque bonum equum habet pater." 
+Fabia: "Equus bonus est. Comelius equum suum amat neque 
+eum verberat; itaque equus non currit, sed ambulat." 
+Sextus: "Estne solus pater?" 
+Fabia: "Non solus, nam equus est apud eum." 
+Sextus: "Cur nullus servus apud patrem meum est?" 
+Fabia: "Quia pater tuus fulum tantum equum habet, neque fulus 
+equus duos homines Tusculo Romam vehere potest." 
+Sextus: "Cur pater meus fulum tantum equum habet? Pater MarcI 
+multOs equos habet." 
+Fabia: "Quis dIcit 'IUlium multos equos habere'?" 
+Sextus: "Marcus id dIcit." 
+Fabia: "Quot equos habet IUlius?" 
+Sextus: "Marcus dicit 'patrem suum decem equos rormosos 
+habere.' Cur pater meus decem equos non habet?" 
+Fabia: "Quia pater tuus non tam pecfuliosus est quam pater 
+MarcI. IUlius magnam familiam habet et magnam vIllam." 
+28 COLLOQVIA PERSONARVM 
+Sextus: "Quot servos habet IUlius?" 
+Fabia: "Interroga Marcum !" 
+Sextus: "Marcus dIcit 'servos eius numerari non posse! ,,, 
+Fabia: "IUlius habet centum servos, ut ipse dicit - sed Marcus 
+centum numerare non potest!" 
+Fabia Marcum puerum stultum esse putat. 
+Sextus: "Marcus non potest centum servos numerare, sed decem 
+equos numerare potest! Ciir Iiilius, qui decem equos habet, 
+patri meo equum non dat? Nonne IUlius amIcus patris est?" 
+Fabia: "Est. Sed IUlius multos amIcos habet." 
+Sextus: "Quid Iiilius non habet?" 
+Fabia: "Cornelius quoque multos habet amicos. Pecuniosus non 
+est vir meus, sed bonus vir, bonus pater, bonus amIcus est." 
+Sextus: "Etiam IUlius bonus pater est. Cum revenit ex oppido, 
+lIberis suIs multa dona dat." 
+Fabia: "QuI magnam pecuniam habet, multa et magna dona 
+emere potest." 
+Sextus: "Nec solum lIberis suIs, sed etiam matti eorum magna 
+dona dat. Mater MarcI multa ornamenta accipit a viro suo. 
+Marcus dIcit 'matrem suam et gemmIs et margaritis et anulis 
+pulchris ornari nec aliam reminam tam fOrmosam esse .. .''' 
+Fabia: "Num mater Marci sine ornamentis tam fOrmosa est quam 
+mater tua?" 
+Sextus: "Nulla !emina tam pulchra est quam mater mea!" 
+Fabia verbIs fili! delectatur eumque interrogat: "Quis id dIcit?" 
+Sextus non respondet, nam equum accurrere audit. 
+Sextus: "AudI! Pater venit. Equus eius non ambulat, sed currit." 
+Fabia: "Quid est? Ciir equus currit? Age, exI ante ostium!" 
+Exit Sextus. 
+Cur equus CorneliI currit? Vide colloquium duodecimum ! 
+29 donum -i n = id 
+quod datur 
+duo-decimus -a -um 
+= XII. (12.) COLLOQVIA PERSONARVM 
+COLLOQVIVM DVODECIMVM 
+Personae: Mlles, Cornelius , Medus. 
+Comelius via Latina Roma Tiisculum it. In via Latina miles 
+Romanus, qui ipse Roma Tiisculum it, Comelium post se 
+venire audit. 
+Miles, qui in sole ambulat, fessus est, quia arma gravia fert. 
+Comelius dominus, qui equo vehitur, non est fessus, sed fessus 
+est equus qui dominum gravem vehit. Itaque equus Comelii 
+non currit, sed ambulat. Comelius non verberat equum suum 
+fessum. 
+Mi1es Comeli um saliitat: "Salve, domine ! Equus tuus bonus est, 
+nec solum te, sed etiam me portare potest!" 
+Comeli us virum armatum timet, quia ipse arma non fert; itaque 
+militem equum ascendere iubet: "Ascen de! Hic post me sede!" 
+Mi1es equum ascendit. Iam duo homines iino equo vehuntur: 
+mi1es sedet post Comelium, Comelius ante militem sedet. 
+Equus Comelii, qui duos viros graves Tiisculum vehere non 
+potest, iratus hinnit: "Hihihi !" atque in via consistito 
+Comelius equum ambulare iubet: "Ambula, eque!" Equus autem 
+riirsus hinnit neque se movet. 
+Mi1es equum hinnire audit et Comelium interrogat: "Ciir non 
+ambulat equus?" 
+30 COLLOQVIA PERS ONARVM 
+Comelius respondet: "Qui a unum tantum hominem vehere 
+potest." 
+Miles: "1mprobus est equus. Verbera eum!" 
+Comeli us: "Equus meus probus est; eum verberare necesse non 
+est." Comelius equum suum amat neque eum verberare vult. 
+Miles Iratus c1amat: "Age, curre, eque!" atque equum gladio 
+verberat! 
+Equus perterritus currit, atque miles ad terram caditI Caput eius 
+viam pulsato 
+Comelius equum consistere iubet, sed equus perterritus Tuscu­
+lum currit. Sextus, filius ComeliI, quI ex ostio viam spectat, 
+equum accurrere videt ac perterritus ab eo fugit. Equus cum 
+domino ante ostium consist it. 
+Miles autem quietus in via iacet ut mortuus. De fronte eius 
+sanguis fluito 
+Dum mIles iUIc in sole iacet, Medus advenit. Unde venit Medus? 
+1s Tusculo venit et via LatIna Romam ambulat. 
+Medus laetus canit: "Non via longa est Romam ... " 
+HIc Medus hominem in via iacere videt et ante eum consistit. 
+Medus se interrogat: "Quis est hic vir qui in media via iacet?" 
+et ipse respondet: "Est mIles, nam armatus est." 
+Servus caput mIlitis manu sustinet et, dum sanguinem deterget, 
+interrogat eum: "Quid est, amIce? Doletne caput?" 
+31 in media via = in 
+media parte viae "Salve!" dicit is 
+qui advenit 
+"Vale!" dicit is 
+qui discedit COLLOQVIA PERSONARVM 
+Vox Medi a milite non auditur. Miles se non movet, nec Medus 
+eum spirare audit. Ergo Medus militem mortuum esse putat. 
+Sed ecce miles oculos aperit et parva voce dicit: "Aquam ... !" 
+Medus, qui militem vivere gaudet, ex parvo rivo aquam ar cessit 
+et militi dato 
+Miles laetus e manu Medi bibit et 'aquam bonam esse' dicit: 
+"Aqua bona est. Iam necesse non est me sustinere, amice!" 
+Medus : "Doletne caput?" 
+Miles: ''Non male dolet..." 
+Medus : "Veni Romam ad medicum !" 
+Miles: "Id necesse non est -sed necesse est me Tusculum ire: 
+illic enim dux exercims in castris me exspectat." 
+Medus : "Romae me exspectat amica mea." 
+Miles: "Id me delectat. Me quoque puella Romana amat et 
+Romam vocat... Sed iam dux me vocat in castra. Bonus miles 
+duci suo paret, ut bonus servus domino suo . Ergo vale, bone 
+serve, ac bene ambula!" 
+Medus ridet et respondet: "Vale, bone miles!" 
+Miles, qui ducem exercims timet, Medum relin'}uit et Tusculum 
+ad exercitum ambulat. Miles duci suo pareto 
+Medus, qui Romam ambulat ad amicam suam, militem stultum 
+esse putat. Medus domino suo non pareto 
+32 COLLOQVIA PERSONARVM 
+COLLOQVIVM TERTIVM DECIMVM 
+Personae: Medicus, Syrus, Iulius, Aemilia, Syra 
+Hora octava est. Dum QuIntus in lecto iacet in cubiculo suo, 
+Medicus in atrio lUlium exspectat. Servus adest Syrus. 
+lUlius ex cubiculo QuIntI venit. 
+Medicus interrogat: "Dormitne puer?" 
+"Non dormit" respondet lUlius, "QuIntus dormIre non potest, 
+quod iam non modo pes eius dolet, sed etiam bracchiu m." 
+Medicus: "Pes tantum aegrota t." 
+lUlius: "Cum pes aegrotat, necesse non est venam bracchi! 
+aperire. Hoc modo pes aeger non sanatur." 
+Medicus : "Sanguis a corde per venas fluit in totum corpus 
+hUmanum, ut dIcit Hippocrates ... " 
+HIc intrat Aemilia cum Syra ancilla, quae poculum fert plenum 
+sanguinis. 
+Aemilia: "Ecce sanguis QuInti in poculo. In corpore eius iam 
+non multum sanguinis est, ut ostendit color eius albus. FIlius 
+noster nunc aegrior est quam erat!" 
+Medicus : "Sed facies eius nimis rubra erat. Puer crassus ... " 
+Aemilia: "Num filius meus puer crassus est?" 
+Syra (parva voce ad Aemiliam): "Is non est tam crassus quam 
+ipse medicus !" Sed ea verba a crasso medico non audiuntur. 
+33 Hippocrates -is m COLLOQVIA PERSONARVM 
+Medicus : "Non nimis crassus est puer. Homo autem crassus, cui 
+color facieI ruber est, nimis multum sanguinis habet..." 
+Iiilius: " ... ut dIcit Hippocrate s!" 
+Aemilia: "Quis est Hippocra tes?" 
+Medicus: "Est medicus Graecus c1arissimus. Ille dIcit 'hominem 
+crassum ac rubrum nimis multum sanguinis habere in corpore' ." 
+Iiilius: "Ergo in corpore tuo crasso nimis multum est sanguin is!" 
+Medicus : "Num crassum est corpus meum?" 
+Iiilius: "Crassius est quam corpus QuIntI. Atque ecce facies tua 
+rubra. Sana te ipsum, medice !" 
+Medicus : "Quo modo?" 
+Iiilius: "Siime cultrum ac venam aperI tuam!" 
+RIdent Aemilia et Syra. Item Syrus ridere incipit. 
+Medicus (iratus): "Servus tuus me ridet!" 
+Iiilius Syrum tacere iubet: "Tace, Syre! Exi atque equum medici 
+diic ante ostium!" 
+Exit Syrus. 
+Vox Quinti auditur ex cubiculo: "Veni, mater!" 
+Iiilius: "AudI, Aemilia! Quintus te vocat. Estne solus in 
+cubicul o?" 
+"Non est" respondet Aemilia, "Delia est apud eum. Quintus 
+gaudet medicum abesse, et me exspecta t." 
+Medicus : "Ciir me abesse gaudet?" 
+34 COLLOQVIA PERS ONARVM 
+Aemilia: "Quia te atque cultrum tuum metuit. DIcit 'te esse 
+malum medicum! ,,, 
+Medicus : "Quid? Ille puer id dicere audet?" 
+Syra (parva voce in aurem Aemiliae): "Non puer tantum id 
+dicit!" 
+Iiilius: "Nonne malus est medicus qui homines aegros non sanat, 
+sed aegriores facit?" 
+Medicus : "Qui medicus id facit?" 
+Iiilius medicum aspicit nec respondet. 
+Qulntus rursus matrem vocat: "Mater! Ma-a-ter !" 
+Iiilius: "l ad Quintum, Aemilia, atque iube eum dormire ! Rora 
+octava est." 
+Aemilia abit ad filium suum aegrum. 
+Medicus : "ram tempus est me abire." 
+Iiilius: "Nemo te hic tenet." 
+Medicus : "Ubi est equus meus?" 
+Iiilius: "ram stat ante ostium. " 
+Iiilius cum medico ante ostium exit. Illic stat equus medici, qui a 
+Syro tenetur. Medicus equum ascendit. 
+Medicus: "Vale, domine !" 
+Iiilius: "Vale, medice! Necesse non est te post hunc diem 
+-" revemre. 
+Medicus solus discedit. 
+35 vesperi (adv) 
+�mane COLLOQVlA PERSONAR� 
+COLLOQVIVM QVARTVM DECIMVM 
+Pers6nae: Aemilia, liilius 
+Vesper est. Aemilia in peristylo est cum IUlio. 
+Aemilia: "Veni mecum in hortum, 1U1i. Delectat me tecum 
+ambuliire in horto nostro." 
+Iiì1ius: "Me quoque id delectat. Sed sol iam non lucet. Vesper 
+est." 
+Aemilius: "Cum sollUcet, nimis calidus est iier in horto. Meridie 
+in sole ambuliire me non delectat, sed vesperi iier nec nimis 
+calidus nec nimis frigidus est." 
+Iiì1ius: "Sed obscfuus est hortus vesperi. Rosae videri non pos­
+sunt." 
+Aemilia: "Hiic nocte hortus obscfuus non est, nam lUna et stellae 
+lUcent. Ecce magna lUna quae suprii montem ascendit ." 
+Lunam spectiins IUlius "Luna pIena est hiic nocte" inquit "quae 
+est ante kalendiis IUniiis. Sed res male illustrantur lUce lUnae. 
+Rosiirum color videri non potest." 
+Aemilia: "Lux lunae hortum nostrum pulchrum etiam pulchri­
+orem facit. Age, veni mecum, 1Uli!" 
+Aemilia manum IUlii capit eumque secum ducit in hortum. 
+In horto Aemilia "Nonne pulchra est lUna?" inquit, "Est ut facies 
+humiina. Ecce os eius quod ad te ridet ." 
+36 COLLOQVIA PERS ONARVM 
+Iiilius prirnum lunarn spectat, deinde faciern Aemiliae ridentem: 
+"Ad me" inquit "non salurn os lUnae rIdet, sed etiam os tuum 
+rubrum ut rosa." 
+Aemilia rIdens "Hac lUce" inquit "color rosarum videri non 
+potest -num oris meI color videri potest?" 
+Iiilius rUrsus Aemiliam aspiciens "Etiam sine colOre" inquit 
+"facies tua fOrmosa est, Aemilia: ocull tuI ut stellae lucent et 
+dentes ut margarIt ae! Atque collum tuum album bene videtur. 
+0, quam rormosum est collum tuum!" Iiilius collo Aemiliae 
+osculum fert. 
+Aemilia: "O IiilI! Verba tua me delectan t." 
+Iiilius: "Ubi sunt margarItae quibus collum tuum amari solet?" 
+Aemilia: "Nonne rormosum est collum meum sine margarIti s?" 
+Iiilius: "Non tam rormosum quam cum margarIt Is! Margaritae te, 
+reminam pulchram, etiam pulchriorem faciunt. Ubi sunt cetera 
+omamenta tua?" 
+Aemilia: "Ecce gemrnae in auribus et anull in digitis." 
+Iiilius: "Sed collum tibi nudum est. Ubi sunt eae margarIt ae, 
+Aemilia?" Iiilius terram ante Aemiliam spectat. 
+Aemilia: "Sunt in cubiculo nostro." 
+IUlius, quI margarItas in herba quaerit, haec verba non audit, sed 
+"Quid est hoc" inquit "quod ante pedes tuos iacet?" 
+Aemilia: "Non est margarI ta." 
+IUlius id quod in herba iacet manu tangit atque "Fui!" inquit 
+horrens, "Est parva bestia nuda." 
+Aemilia: "Quae bestia? VIvitne?" 
+"Hac lUce" inquit Iiilius "nihil videri potest", ac deinde: "Non 
+Una, sed quattuor parvae bestiae hIc iacent. Non vIvunt, nam 
+frigidae sunt nec se movent." 
+Iiilius corpora bestiarum rursus tangit et alas breves sentit. 
+Iiilius: "PulII avium sunt. 0, quam foedI sunt pulII mortuI!" 
+37 osculum ferre = 
+osculum dare COLLOQVIA PERSONARVM 
+Aemilia: "Hac luce vidérl non possunt." 
+Iiilius: "Non vidérI, sed tangI possunt. Corpora eorum nuda sunt 
+atque foeda et sordida, colla longa et nuda ... " 
+Aemilia: "Mihi quoque nudum est collum." 
+Iiilius: "Cur quattuor pulli mortuI hIc iacent?" 
+Aemilia: "Interroga Iiiliam: ea respondére potest." 
+Iiilius: "Eane etiam margarltas tuas reperlre potest?" 
+Aemilia "Surge, Iiin!" inquit, "Neque enim necesse est marga­
+rItas in horto quaerere : in cubi culo nostro sunto I in cubiculum 
+atque affer mihi margarltas !" 
+Iiilius autem Aemiliam aspiciéns "MargarItas tibi afferre" inquit 
+"necesse non est. Sine ornamento rormosissimum est collum 
+tuum atque umerI tuI..." 
+HIc Iiilius collo et umerIs Aemiliae oscula fert atque "Iam venI 
+mécum" inquit "in cubiculum nostru m!" 
+Iiilius manum Aemiliae capit eamque sécum ducit in cubiculum. 
+38 COLLOQVIA PERS ONARVM 
+COLLOQVIVM QVINTVM DECIMVM 
+Personae: Miircus, Iùlia, Aemilia, Iùlius, servf 
+Post meridiem Marcus in horto ambulans Iiiliam inter rosas 
+sedentem videt. Puella quieta est neque canit. 
+Frater apud sororem considit eamque interrogat: "Cfu tam quieta 
+es, Iiilia, neque canis?" 
+Iiilia: "Non cano, quia tristis sum." 
+Marcus: "Quid tristis es? Nonne rosae te delectant?" 
+Marcus Iiiliae rosas pulchras monstrat, neque ea rosas aspicit. In 
+oculis'puellae lacrimae sunto Marcus eam lacrimare videt. 
+Marcus: "Quid est, Iiilia? Quid ploras?" 
+Iiilia: "Non ploro. Lacrimo quod pulIi sunt mortui. Ecce pulIi." 
+Iiilia nidum e rosis sumit et fratri ostendit. In nido sunt quattuor 
+pulIi mortui. 
+Marcus tacitus pullos aspicit, tum ridere incipit: "Hahaha !" 
+Iiilia: "Quid rides, Marce?" 
+Marcus: "Rideo, quod pulIi foedi sunt!" 
+Iiilia: "Formosi sunt pulIi mortuI. Cfu tU eos foedos esse putas?" 
+Marcus: "Aspice, Iiilia: corpora eorum sunt nuda et sordida, 
+colla nimis longa, alae nimis breves. Nihil foedius est quam 
+pullus mortuus !" 
+Haec verba audiens Iiilia p16rare incipit atque matrem vocat: 
+"Uhuhu ! Mamma !" 
+Marcus ridens a sorore plorante discedit. 
+39 COLLOQVIA PERSONARVM 
+Aemilia accurrit et IUliam oculos tergere ac laetam esse iubet: 
+"Terge oculos, IUlia! Es laeta! Quid manii tenes?" 
+"Nidum cum pullis teneo" inquit IUlia, et matri nidum et pullos 
+ostendit. 
+Aemilia nidum aspiciens "At mortuI sunt pu1li:!" inquit, "Cur eos 
+pullos foedos non relinquis et mecum venis in villam?" 
+Haec verba audiens IUlia rUrsus plorare incipit. 
+Aemilia: "Desine p16rare, IUlia! Veni in cubiculum ! Fessa es." 
+IUlia exclamat: "Non sum fessa! Non sum fessa!" sed mater 
+manum eius capit et eam secum in villam ducit. 
+Nidus ad terram cadit. Quattuor pulli: mortui in herba iacent. 
+ram IUlia quieta in lectulo suo dormit. Servi autem quieti non 
+sunt, sed canunt et rident, quia dominum non vident; servi 
+enim dominum severum a villa abesse putant. 
+Sed rUlius, qui in peristylo est, servos canere et ridere audit eos­
+que quietos esse iubet: "Este quieti, servi! Cfu canitis et 
+ridetis, dum IUlia dormit?" 
+Respondent servi: "Canimus et ridemus quia laeti sumus. Nonne 
+tU canis et rides cum laetus es?" 
+Dominus iratus magna voce clamat: "Tacete!!! Ego dominus 
+sum, vos servi estis! IUlia dormit." 
+Puella dormiens clamore patris excitatur. IUlia 
+e lectO surgit atque e cubi culo exit. 
+IUlius filiam suam venire videt eamque inter­
+rogat: "Quid non dormis, IUlia?" 
+IUlia: "Non dormio, quod te clamare audiO; ita­
+que non possum dormire. Cur clamas, pater?" 
+IUlius: "Ego servos clamantes tacere iubeo. 
+Nonne servos improb Os clamare audis?" 
+40 COLLOQV1A PERSONARVM 
+COLLOQVIVM SEXTVM DECIMVM 
+Personae: Dorippa, Lepidus, Lydia, Medus 
+Mane est. Urbs Roma prima liice solis orientis illiistratur. Ventus 
+frigidus a montibus flare incipit. 
+Dorippa, amica Lydiae, e lecto surgit et fenestram aperit. In via 
+infra fenestram Lepidum advenire videt. 
+Lepidus, qui multas rosas secum fert, ad cubiculum Dorippae 
+ascendit atque intrans "Salve" inquit, "amica mea!" 
+Dorippa eum non saliitat. 
+Lepidus : "Ecce rosas quas tibi affero, Dorippa, rosa mea! Accipe 
+has rosas ab amico tuo!" 
+Dorippa tacita Lepidum intuetur neque loco se movet. 
+Lepidus : "Nonne rosae te delectant?" 
+Dorippa rosas manii capit et ad terram iacit! 
+Lepidus : "Quid agis, Dorippa? Ciir rosas pulchras ad terram 
+iacis?" 
+Dorippa: "Eas rosas da amicae tuae!" 
+Lepidus : "At rosas amicae meae do." 
+Dorippa: "Non sum ego amica tua." 
+Lepidus: "Quid audio?" 
+Dorippa: "Id quod verum est." 
+Lepidus: "Sed ego te amo, Dorippa." 
+41 ace me dat mihi 
+te tibi 
+se sibi 
+D.: "Mihi friiter est" 
+D. dicit 'sibi friitrem 
+esse' COLLOQV1A PERSONARVM 
+Dorippa: "Tu non me, sed ancillam amas." 
+Lepidus: "Quid dIcis?" 
+Dorippa: "Dico 'non me, sed ancillam a te amari'." 
+Lepidus: "Quam ancillam dicis?" 
+Dorippa: "Eam ancillam rormosam cum qua ambulare soles." 
+Lepidus : "Ego non soleo ambulare cum ancilla." 
+Dorippa: "Putasne me oculos non habere? In media via ancillae 
+oscula das!" 
+Lepidus: "Desine me accusare, Dorippa! Ea remina quam tU 
+'ancillam' dicis non ancilla, sed ... soror mea est." 
+Dorippa: "Verum non dicis. Tibi soror nulla est. Sed mihi est 
+frater magnus qui te pulsare potest!" Dorippa 'sibi fratrem 
+esse' dicit -id quod verum non est! 
+Lepidus: "Ubi est ille frater tuus?" 
+Dorippa: "Hic apud me habitat." 
+Lepidus: "Id vérum non est. Ego fratrem tuum non timeo!" 
+Doripp a: "Nec frater meus te timet. Iam discede, Lepide, 
+antequam ille revenit !" 
+Dum Dorippa loquitur, aperitur ostium, atque Lydia cum Médo 
+cubiculum intrat. Lydia et Médus Dorippam salUtant et ab ea 
+salUtantur, Lepido spectante. 
+Dorippa se ad Lepidum vertit et "Ecce frater meus" inquit "qui 
+cum amica sua venit!" 
+Médus : "Quid dicis?" 
+Dorippa: "Sume rosas tuas, Lepide, atque abi, antequam frater 
+meus te per fenestram iacit!" 
+Lepidus, qui Médum virum magnum et fortem atque fenestram 
+apertam videt, statim per ostium egreditur neque ro sas secum 
+fert. Dorippa autem rosas sumit easque per fenestram iacit in 
+viam! 
+42 COLLOQVIA PERSONARVM 
+Lydia: "Quid agis, Dorippa? Cfu' amicum tuum abire iubes ac 
+rosas per fenestram iacis?" 
+Dorippa: "Is amicus meus iam non est." 
+Medus: "Clir me 'fratrem tuum' appellas?" 
+Doripp a: "Quia Lepidus fratrem meum veretur." 
+Lydia: "Sed tibi nlillus est frater, Dorippa." 
+Dorippa: "Nec Lepido soror est! Ille dicit 'sibi sororem esse', 
+ergo ego 'mihi fratrem esse' dico!" 
+Lydia: "Clir Lepidus dicit 'sororem sibi esse'?" 
+Dorippa: "Quia non me, sed aliam reminam amat. Eam reminam 
+'sororem suam esse' dicit -id quod verum non est." 
+Hoc/dicens Dorippa lacrimas tenere non potest. Lydia amicam 
+lacrimantem complectitur atque consolari conatur. 
+Lydia: "Desine lacrimare, Dorippa mea! Gaude quod ille vir 
+improbus te non amat!" 
+Dorippa: "Omnes viri sunt improbi !" 
+'" 
+Lydia: "Non omnes, Dorippa. Aspice Medum: is est vir probus 
+atque verus amicus, qui amicam suam non relinquit. 
+Dorippa Medum aspicit, tum ad Lydiam se vertens "Et tU" inquit 
+"es remina proba atque vera amica, quae non relinquis amicam 
+tuam. -Sed quid hodie mane ad me venis?" 
+Lydia: "Venio quia mihi necesse est Roma proficisci cum amico 
+meo. In portU Ostiensi bona navis nos opperitur, atque ventus 
+secundus est." 
+43 dolere � gaudere 
+et vos = etiam vos COLLOQVIA PERSONARVM 
+Dorippa: "Ergo tU quoque me relinquis! Iam neque amicum 
+neque amicam Romae habeo." 
+Lydia: "Multae aliae amicae sunt tibi, Dorippa. Ego omnes 
+amicas meas Romanas relinquo ." 
+Dorippa: "Sed cm necesse est te Roma proficisci atque amicas 
+tuas relinquere? Id te interrogo." 
+Lydia: "Quia amicus meus me Romae relinquere non vult. 
+Necesse est enim Medum Roma fugere, quia dominus eius hic 
+eum reperire potest. In Italia quieti vivere non possumus, quod 
+Medus dominum suum severum metuit." 
+Medus : "Ego nullum dominum metuo nec Roma fugio!" 
+Lydia: "Sed necesse est nos Roma profiscisci ." 
+Medus : "Verum dicis: necesse est nos simul in patriam nostram 
+redire." 
+Dorippa: "Quae est patria vestra?" 
+Lydia: "Est Graecia. Medus in Graeciam, patriam suam, redire 
+vult, itaque necesse est me simul in Graeciam ire, quae mea 
+quoque patria est; neque enim sine amico meo vivere possum." 
+Medus: "Age, veni mecum, Lydia! Tempus est abire." 
+Lydia amicae suae osculum fert et "Doleo" inquit "quod mihi 
+necesse est te relinquere, mea Dorippa. Bene vive valeque !" 
+Medus : "Vale, Dorippa!" 
+Dorippa: "Et vos valete! Bene navigate !" 
+Exit Medus, Lydia sequente. 
+44 COLLOQVIA PERSONARVM 
+COLLOQVIVM SEPTIMVM DECIMVM 
+Personae: Ii1lia, Marcus 
+IUlia Marcum interrogat: "Quid vos discitis apud magistrum?" 
+Marcus sorori respondet: "Computare discimus ." 
+IUlia: "Tu doce me computare, Marce!" 
+Marcus: "Ego non possum te docere, nec enim sum magistero 
+Sed te interrogare possum. Ergo responde mihi: Quot ocuIi: 
+sunt tibi?" 
+IUlia statim respondet: "Duo." 
+Marcus: "Recte respond es, lUlia. Quot ocuIi: sunt deo lano?" 
+lUlia: "Nonne eI quoque duo ocuIi: sunt?" 
+Marcus : "Non duo tantum, nam lanus est deus cui duae facies 
+sunt." 
+lUlia: "Quomo do?" 
+Marcus: "Est ut dIco. In facie eius priore sunt duo oculI, et in 
+facie posteriore alteri duo oculi sunt. Ianus simul ante se et 
+post se aspicere potest." 
+lUlia: "Ergo lanus quattuor oculos habet, nam duo et duo sunt 
+quattuor." 
+Marcus sororem laudat: "Recte respondes, lUlia. Bene com­
+putas." 
+lUlia tacente, Marcus "Nonne tU gaudes" inquit "quod a me 
+laudari s?" 
+45 toL. quot = tam 
+multi... quam COLLOQVIA PERSONARVM 
+lillia: "Gaudeo quod a te laudor, sed id quod interrogor nimis 
+facile est. Ego non parvos tantum numer6 s scio." 
+Marcus: "A parvis numeris incipere oportet. Nunc autem ad hoc 
+responde: Quot digiti sunt tibi?" 
+lillia digitos maniis sinistrae nu merat: "Unus, duo, tres, quattuor, 
+quinque. In Mc manii sunt quinque digiti." 
+Marcus: "Et in manii dextra item quinque digiti sunt. Quot digiti 
+sunt in duabus manibus tuis?" 
+lillia: "Id nescio. " 
+Marcus : "Quot sunt quinque et quinque? Si nescis ad hoc 
+respondere, puella stulta es. Digitis computa!" 
+lillia quemque digitum maniis dextrae tangit, dum numeros dicit 
+a sex iisque ad decem: "Sex, septem, octo, novem, decem. 
+Quinque et quinque sunt decem. Mihi sunt decem digiti." 
+Marcus: "Alterum responsum est rectum -alterum non rectum! 
+Nec enim in manibus tantum, sed etiam in pedibus sunt digiti. 
+In duobus pedibus tuis tot digiti sunt quot in manibu s: quot 
+igitur digiti sunt tibi?" 
+lillia: "Tot digitos numerare non possum." 
+Marcus: "Quot sunt decem et decem?" 
+lillia: "Duodecim, puto; nec vero certa sum." lillia Marco 
+responsum incertum atque pravum dat. 
+Marcus: "Duodecim? Id responsum pravum ac stultum est! Non 
+c6gitas antequam mihi respondes, lillia; itaque prave ac stulte 
+respondes ! " 
+lillia, quae lacrimas tenere vix potest, "Sed nimis difficile est" 
+inquit "id quod interrogor a te, Marce; quamquam multum 
+cogitO, non possum recte respondere ." 
+Marcus: "Id quod tU a me interrogaris multo facilius est quam id 
+quod nos interrogamur a magistro. Difficile non est numerare 
+ornnes digitos suos, et manuum et pedum. Incipe ab iindecim !" 
+46 COLLOQVIA PERSONARVM 
+Ii.ilia lacrimam detergens ab undecim numerare incipit: "Un­
+decim, duodecim, tredecim, quattuordecim ... " Hic puella 
+numerare desinit atque "Cetero s" inquit "numeros nescio." 
+Marcus: " ... qulndecim, sedecim, septendecim, duodevIgintI, 
+undevIgintI, vIginti. Decem et decem sunt vIginti. Tibi sunt 
+vIgintI digiti." 
+Ii.ilia fratrem laudat: "Tu bene computas, Marce." 
+Marcus rIdens "Laetor" inquit "quod a sorore mea laudor. A 
+magistro meo semper reprehendor, numquam laudor." 
+Ii.ilia: "Verum non dIcis; nam SI bene computas, a magi stra 
+laudaris, non reprehende ris." 
+Marcus: "At ab illo magistro ego numquam laudor. Diodorus me 
+laudare non vult, quamquam saepe recte respond eo." 
+Ii.ilia: "Cur te laudare non vult magister?" 
+Marcus : "Qui a me malum discipulum esse putat. Ego vero puto 
+Diodorum malum esse magistrum !" 
+IUlia: "Quid? Nonne doctus est magister tuus?" 
+Marcus : "Non dIco 'eum indoctum esse', nam is multas res scit 
+quas nos discipuli nescIm us; sed malus est magister, quia nihil 
+nos docere potest. Cum ille tergum vertit, nos eum rIdemus 
+atque alias res agimus -nec enim magister post se aspi cere 
+potest ut !anus! Et cum ille e libro suo recitat, nos semper 
+dormlm us! " 
+IUlia: "Vosne dormi:tis magi stra recitante?" 
+Marcus : "Non possumus non dormire, cum magister doctus e 
+magno libro recitare incipit." 
+Ii.ilia: "Nonne a magi stra excitamini?" 
+Marcus : "Magister recitans ocu16s a libro suo non tollit. Nihil 
+igitur videt praeter librum, nihil audit praeter vocem suam! 
+Ergo nos bene dormimus, nec rursus excitamur antequam is 
+recitare desinit; tum clamore magistri iratl excitamur, nec 
+47 COLLOQVIA PERSONARVM 
+modo verbis reprehendimur, sed etiam virga verberamur !" 
+Iiilia: "SI magistrum ridetis atque in liido dormitis, recte repre­
+hendimini et verberaminI, neque enim in liido dormIre licet. 
+Ego te discipulum improbum non consolor, quod tergum tibi 
+dolet, at delector lacrimis tuIs!" 
+Marcus : "Putasne me lacrimare? Immo magister me lacriman­
+tem facere non potest, etiam SI me iterum atque iterum ver­
+berat. Ego puto bracchium eius dextrum tam dolere quam 
+r" tergum meum. 
+48 COLLOQVIA PERSONARVM 
+COLLOQVIVM DVODEVICESIMVM 
+Personae: Sextus, Miircus, Titus 
+Merldie discipuli "Vale" inquiunt, "magister !" atque elUdo ex­
+eunt. 
+In via ante liidum Sextus Marcum interrogat: "Ubi est is servus 
+qui solet te hic exspectare?" 
+Marcus breviter respondet: "Hodie abest." 
+Titus: "Ergo necesse est te ipsum res tuas portare, ut ego et 
+Sextus res nostras ipsi portam us." 
+Marcus: "Ciir vos semper soli in liidum itis?" 
+Titus: "Quia nos in ipso oppido Tiiscu16 habitam us, non pro cuI 
+ab oppido, ut tU. Ego gaudeo quod mihi necesse non est 
+servum mecum habere." 
+Marcus: "At ego gaudeo quod mihi necesse non est tabulam et 
+libros portare ." 
+Sextus: "Id necesse est hodie." 
+Marcus rldens "Necesse non est" inquit, "si vos mecum venitis 
+ac res meas portatis!" 
+Titus: "Quid? putasne nos servos esse tuos?" 
+Sextus: "Mihi non licet tecum venire, nam domi mater me 
+exspectat. " 
+Marcus: "Itane matrem tuam vereris, Sexte?" 
+Sextus, qui matrem suam amat atque veretur ut filius probus, 
+nihil ad hoc respondet. 
+49 inter se aspiciunt 
+: Titus Sexturn 
+aspicit et Sextus 
+Titurn COLLOQVIA PERSONARVM 
+Marcus : "Certe vos filii probi estis, si semper recta via ad 
+mammas vestras reditis!" 
+Titus et Sextus inter se aspiciunt. Paulo post tres puerI simul per 
+portam ex oppido egrediuntur, Marcus autem ipse librum et 
+tabulam suam portat. 
+Dum puerI in via ambulant, Sextus Marco "Ubi est" inquit "is 
+servus quem dIcis hodie abesse?" 
+Marcus : "Puto Medum esse Romae, nam scio puellam Romanam 
+ab eo amari. Medus dicit 'amicam suam esse reminam 
+pulcherrimam ' ." 
+Titus: "Omnes viri id dicere solent. Nonne pater tuus dicit 
+'reminam pulcherrimam esse matrem tuam'?" 
+Marcus : "Saepe ita dicit pater -et vere dicit. Itaque matri oma­
+menta et vestImenta pulchra largItur. Mater mea gemmis et 
+margaritis c1arissimIs omatur. " 
+Sextus: "Pater meus d1cit 'matrem meam etiam sine omamentis 
+reminam esse pulcherrimam' ." 
+Marcus : "Quare id dicit pater tuus? Ita matrem tuam consola tur, 
+quod nulla ei dat omamen ta." 
+Sextus: "Necesse non est reminam rormosam gemmis et 
+margarItis omari." 
+Marcus ridens "Ergo" inquit "necesse est matrem tuam ita 
+omarI!" 
+Ad haec verba Sextus iratus exc1amat : "Quid? Tune dicis 
+'matrem meam reminam turpem esse'?" simulque os Marci 
+pugno pulsatI Marcus perterritus se defendere conatur, sed 
+Sextus corpus eius complectit ur eumque ad terram iacit. 
+Antequam Marcus rUrsus surgere potest, Sextus, qui puer 
+gravior est, super pectus eius considit. 
+Sextus pugnum ante oculos MarcI tenens "Dic" inquit "'remi­
+nam pulchriorem esse matrem meam quam tuam'!" 
+50 COLLOQV1A PERSONARVM 
+Marcus : "Femina pulchrior est mater mea quam tua!" 
+Sextus iratus "Prave dicis" inquit, ac puerum iacentem pulsat. 
+Miircus: "Quid me pulsas? Dico id quod me iubes." 
+Sextus: "Iubeo te 'matrem meam pulchriorem esse' dicere." 
+Marcus: "Atque ego id ipsum 'matrem meam pulchriorem esse' 
+dico." 
+Sextus: "Non 'meam', sed 'tuam' dicere oportet." 
+Miircus: "Tuam ." 
+Sextus: "Dic totam sententiam: 'Mater tua pulchrior est quam 
+mea'." 
+Marcus : "Iam ipse dicis 'matrem meam pulchriorem esse'!" 
+Sextus: "Id non dico, sed te ita dicere iubeo." 
+Marcus: "Ciir igitur me pulsas, cum id dico?" 
+Sextus: "Quia prave dicis. Iam dic recte!" 
+Miircus : "Recte !" 
+Sextus: "Etiamne me ridere audes? Iam satis est. Hoc accipe!" 
+Ita dicens Sextus nasum Marci pugno pulsat. 
+Marcus perterritus Titum vocat: "Tite! Tite! Defende me ab hOc 
+puero barbaro !" 
+Statim Titus, qui sanguinem de naso Marci fiuere videt, Sextum 
+a tergo oppugnat. Sextus, quamquam puer fortis est, simul 
+contra duos pueros pugnare non potest: iam is in via dUra iacet 
+sub TitO et Marco, qui eum semel atque iterum pugnis pulsant. 
+Sextus se lo co movere non potest, quod duo pueri super corpus 
+eius sedent alter bracchia, alter criira tenens. 
+51 COLLOQVIA PERSONARVM 
+Tum Sextus "Aspicite cae1um !" inquit, "Ecce nubes atrae. Non­
+ne tempestatem ac fulgura vereminI?" 
+EOdem tempore caelum magno fulgure illustratur atque imber 
+cadere incipit. Titus et Marcus, quI fulgura ac tonitrum veren­
+tur, statim surgunt et Sextum in via iacentem relinquunt. Titus 
+librum tabulamque suam tollit et recta via ad oppidum currit. 
+Item Marcus res suas tollit atque abIre vult, cum tabulam SextI 
+in mollI herba apud viam iacere videt. Quid tum facit Marcus? 
+Tabulam SextI capit tabulamque suam in loco eius ponit. 
+Deinde solus per imbrem ambulat ad vmam. 
+Postremo surgit Sextus. VestImenta eius sordida sunt, sanguis de 
+naso fl.uit, deest Unus e dentibus prioribus. Antequam ad oppi­
+dum Ire incipit, tabulam in herba iacentem tollit. Sextus, quI 
+eam putat tabulam suam esse, Tusculum ad matrem redit. 
+52 COLLOQVIA PERSONARVM 
+COLLOQVIVM VNDEVI CESIMVM 
+Pers6nae: Fabia, Cornelius 
+Comelius iam domi est apud Fabiam uxorem, quae maTitum ad­
+esse gaudet. Post meridiem maritus et uxor in atrio Sextum, 
+filium suum, exspectant. 
+Fabia: "O, quam sola hic eram sine te, mi Comel1 ! Sed iam 
+gaudeo te mecum esse." 
+Comelius : "Ego non minus gaudeo me esse domi apud te, uxo­
+rem meam amantissimam. In urbe Roma male me habeo, sed 
+Tusculi semper delector domo mea pulcherrima ... " 
+Fabia: "Num domo tua plus delectaris quam uxore tua?" 
+Cornelius : "Scis nihil a me plUs amari quam te, mea Fabia. Hac 
+domo delector et quia ipsa per se pulchra est et quia hic 
+uxorem meam pulcherrimam aspicio ." 
+Fabia: "Me quoque delectat domus nostra, quamquam minor est 
+quam aliae domus nec signis deorum ornatur." 
+Corneli us: "Scio multas domos Tusculanas et maiores et melio­
+res esse quam nostram atque columnis et signis pulchrioribus 
+ornaTi, nec tamen haec domus mihi videtur minus pulchra esse. 
+Domus hominum divitum signis dearum magnificis ornantur 
+-domus mea remina ornatur optima et pulcherrim a!" 
+Fabia: "Verbis magnificis scis tU laudare et uxorem et domum 
+tuam, Comeli. Mihi quoque haec domus pulchra videtur, nec 
+53 res pulchra (esse) 
+mihi videtur = 
+rem pulchram 
+esse puto domum=ad 
+domum COLLOQVlA PERSONAR� 
+iillum peristylum floribus pulchrioribus omatur quam nostrum; 
+sed hoc atrium nimis obsciirum est." 
+Comelius : "Cum solliicet, atrium nostrum satis c1arum est. Iam 
+vero caelum niibibus atrIs operItur, itaque obsciirum est 
+atrium." 
+Fabia caelum obsciirum aspicit et "Recte dIcis" inquit, "Sed, 
+nescio quomodo, merIdie prope tam obscUrum est quam 
+vesperI." 
+Comelius : "Non merIdies, sed bOra septima est." 
+Fabia: "Iamne bOra septima est? Ubi igitur est Sextus? Non 
+multo post merIdiem e liido redIre solet. Quid eum in via 
+agere putas?" 
+Comelius : "Nescio. Sunt puerI puerL. " 
+Fabia: "At Sextus semper recta via domum redit." 
+Comelius : "SI improbI sunt discipulI, iisque ad bOram septimam 
+in liido tenentur a magistro ." 
+Fabia: "Sextus non est discip ulus improbus. Praeterea ille liidi 
+magister pigerrimus numquam discipulos suos post meridiem 
+tenet: bOra sexta omnes domum remittit, neque eos post 
+merIdiem revenire iubet - ut alii magistr I." 
+Comelius : "Ego non puto pigrum esse magistrum Sexti. Certe 
+non optimus est magister, sed tamen melior est quam tU putas. 
+Nonne filium nostrum bene legere, scribere, computare 
+docet?" 
+Fabia: "Sextus discipulus industrius ac priidens est, ut scis; ergo 
+bene discit, quamquam male docetur a magistro pigro atque 
+stulto!" 
+Comelius : "Ita sunt matres discipu16rum: si filii earum male 
+discunt, magistrum acciisant 'eum'que 'male docere' dicunt; 
+si autem bene discunt filii, non magistrum, sed discipulos 
+laudant ." 
+54 COLLOQVIA PERSONARVM 
+Fabia: "Nonne licet mihi laudare Sextum? An putas tuum 
+Sextum malum esse discipulum?" 
+Corneli us: "Id non dico. Scio Sextum bonum discipulum esse, 
+nec vero Diodorum malum esse magistrum puto." 
+Fabia: "Cfu igitur alii parentes filios suos ad alios magistros 
+mittunt?" 
+Cornelius : "Non omnes id faciunt. Filii IUlii ab eodem magistro 
+docentur ac filius noster." 
+Fabia: "Scio Diodorum adhuc quattuor discipulos habere, quorum 
+duo sunt filii lUIii; sed ante paucos menses octo discipuios 
+habebat. Iamne intellegis malum esse magistrum, qui a 
+discipulis suis relinquitur?" 
+Cornelius : "Certe non peior ludi magister est Diodorus quam ille 
+qui me Romae docebat. " 
+Fabia: "Neque Sextus, ut ego puto, peior discipulus est quam tU 
+apud magistrum tuum eras." 
+Corneli us: "Ergo optimus discipulus est Sextus!" 
+Fabia: "His verbis non modo Sextum, sed etiam te ipsum Iaudas, 
+Corneli." 
+Cornelius : "Ego ipse non plus me laudo quam magister meus me 
+Iaudabat: semper enim dicebat 'optimum me esse discipuIum '." 
+Fabia: "Itane dicebat magister tuus?" 
+Corneli us: "Ita, atque vere dicebat; nam ceteri discipuli omnes 
+peiores erant: male computabant, male scribebant, male reci­
+tabant, quia cotidie in ludo dormiebant nec magistro parebant 
+-ego solus bene computabam, bene sCribebam, bene recita­
+bam, quia numquam in lUdo dormiebam, sed omnia verba 
+magistri audiebam et semper ei parebam !" 
+Fabia: "Si hoc verum est, tU certe optimus eras omnium disci­
+pulorum!" 
+Cornelius : "Recte dicis, Fabia: ego optimus discipulus eram!" 
+55 COLLOQVIA PERSONARVM 
+Fabia: "Tace, Corneli ! Non oportet se ipsum ita laudare. Num 
+vere eOdem modo a magistro tuo laudabaris?" 
+Cornelius : "Hs ipsIs verbIs laudabar a magistro meo. Sed iam 
+taceo. Hoc tantum addo: Cum ita me laudo, simullaudo 
+magistrum meum; ego enim bonus discipulus eram et bene 
+discebam, quod ab optimo magistro docebar." 
+Fabia: "Cfu ceterI discipull tam male docebantur ab illo magistro 
+optimo?" 
+Cornelius : "Non male docebantur, sed tamen male discebant, 
+quia ipsI tam pigrI erant quam filius IiiliI." 
+Fabia: "Utrum filium dIcis, maioremne an minorem?" 
+Cornelius : "FIlium eius maiorem dIco, eum cui praenomen est 
+Marcus." 
+Fabia: "Recte dicis, Cornelio Is enim discipulus omnium 
+pigerrimus est atque tam stultus quam puer barbarus !" 
+Cornelius : "Nimis severa es, Fabia. Discipulum pigrum esse 
+Marcum scio -Iiilius ipse id dIcit -, nec tamen puto eum 
+stultiorem esse quam ceteros discipulo s." 
+Fabia: "Ergo Marcus, puto, tam priidens est discipulus quam 
+Sextus noster! Nonne tibi satis est laudare malum magistrum 
+-etiamne discipulum eius pessimum laudare audes? VerbIs 
+tuIs laudantibus omnes res in contrariam partem vertis!" 
+Tum Cornelius rIdens "Id non dIcis" inquit "cum pulchritiidinem 
+tuam laudo!" -sed eo ipso tempore atrium illiistratur claris­
+simo fulgure atque maximus tonitrus audItur. Verba Cornelii 
+propter tonitrum a Fabia non audiuntur. 
+56 COLLOQVIA PERSONARVM 
+COLLOQVIVM VICES IMVM 
+Personae: Diodorus, Tlepolemus , Symmachus 
+Diodorus, liidi magister, qui laetatur discipulos improb Os iam 
+abesse, suum Tlepolemum servum vocat. 
+Tlepolemus intrans silentium domini animadvertit eumque 
+interrogat: "Valesne, domine?" 
+Diodorus : "Non recte valeo, Tlepoleme. Fessus sum. Caput dolet 
+-et bracchium dextrum ." 
+Tlepolemus : "Ciir medicum non adis?" 
+Diodorus : "Medicus stultus est. Ipse melius me sanare possum. 
+Primum esse et bibere volò, tum dormire. Affer mihi cibum!" 
+Exit Tlepolemus. Paulo post panem et duos pisces et poculum 
+aquae plenum domino affert. 
+Diodorus aquam videns "Quid?" inquit, "Aquamne mihi affers?" 
+Tlepolemus : "Meridie aquam bibere oportet." 
+Diodorus : "Servos oportet aquam bibere. Ego non aquam, sed 
+vinum bibere volo." 
+Tlepolemus : "Sine peciinia vinum tibi emere non possum, nec tU 
+mihi iillam peciiniam das." 
+Diodorus sacculum nummorum plenum servo ostendit atque 
+"Hodie" inquit "nummos habeo. Nescisne kalendas liinias esse 
+hodie? Kalendis mercedem accipio a discipulis. Iam bonum 
+- " vmum emere possum. 
+57 vlnum -I n vis-ne me te-cum 
+venire? (: iubes-
+ne me ... v.?) 
+volo te ... manere 
+(: iubeo te ... m.) 
+angustus -a -um 
+� latus 
+facere 
+imp fac! facite! COLLOQVlA PERSONARVM 
+Tlepolem us: "Ego ad tabemam Ibo vInumque tibi emam." 
+Diodorus: "Bene facies. Ecce pecunia." Magister servo suo 
+denarium dat. 
+Servus ad ostium versus gradum facit, cum Diodorus "Mane !" 
+inquit, "Noli abIre! Ipse ad tabemam 1M." 
+Tlepolem us: "VIsne me tecum venIre? Ego vinum feram." 
+Diodorus : "VolO te hic manere. Vinum e tabema non feram, sed 
+imc bibam. Redde mihi nummum !" 
+Servus domino denarium reddens "Paulum bibe!" inquit, "CUra 
+corpus tuum!" 
+"Tu officium tuum cura!" inquit Diodorus, "Non medicus, sed 
+" servus meus es. 
+Tlepolem us: "Quid vis me facere?" 
+Magister epistulam promit atque "Ranc epistulam" inquit "volo 
+te ad Lucium IUlium Balbum ferre." 
+Tlepolemus : "Ubi habitat ille?" 
+"Aspice per hanc fenestram !" inquit Diodorus, "Videsne illum 
+montem?" 
+Tlepolemus per fenestram apertam montem Albanum aspicit. 
+Inter Tusculum et montem Albanum parva vallis interest. 
+"Video" inquit Tlepolemus, "Est mons Albanus." 
+Diodorus : "VIlla ruliI sub illo monte sita est, nec vero ab hOc 
+loco cemi potest; sed ecce via angusta quae ad vIllam fert. 
+Age, discede !" 
+Tlepolem us: "Quid est in epistula?" 
+Diodorus: "Nihil ad te, serve! Modo fac officium tuum! Vale!" 
+Tlepolemus discedit epistulam magistn ferens. 
+Solus Diodorus panem et pisces est atque paulum aquae bibit. 
+Rodie autem, quamquam fessus est, post cibum non dormit, 
+58 COLLOQVIA PERSONARVM 
+sed statim domo exit. Magister viam angustam intrat, ubi 
+tabemam obseiiram adit. Ea tabema pIena est hominum 
+bibentium qui inter se eolloquuntur, alii c1amant ridentque, 
+alii eanunt. Iam Diodorus quoque e magno poculo vinum 
+bibit, dum eolloquitur eum amieis. 
+"Salve, liidi magister !" inquit iinus e bibentibus. 
+Diodorus poculum tollens "Et tU salve, Symmache !" inquit. 
+Symmach us: "Quid agis? pueros non doces?" 
+Diodorus : "Quid tU, medice? aegros non ciiras?" 
+Symmaeh us: "Hoc anni tempore pauci sunt aegr i." 
+Diodorus : "Mihi sunt pauei diseipuli - quos meridie domum 
+remitto, neque eos post meridiem revenire iubeo. Sex hOras 
+pueros docere satis est mihi! Nunc vero vinum bibere volo." 
+Symmaeh us: "Meridie non vinum, sed aquam bibere oportet ." 
+Diodorus : "Ciir non lae bibere me iubes, mediee, ut parvulum 
+infantem?" 
+Symmach us: "Si vis sanus vivere, paulum vini bibe! Ciira corpus 
+tuum!" 
+Diodorus : "Semper me paulum bibere iubes, sed ipse pliira 
+poeula bibis quam ego." 
+Symmach us: "Ego recte valeo, nec plus bi bo C\.uam opus est. Te 
+autem male valere video, Diodore, ae medieus tuus sum." 
+Diodorus: "Ego satis bene valeo , quamquam fessus sum atque 
+caput mihi dolet." 
+59 sanguinem mittere 
+= venam aperire COLLOQVIA PERSONARVM 
+Symmach us: "Ergo sanguis tibi superest. Visne me sanguinem 
+mittere tibi?" 
+Diodor us: "Nolo profectO ! Iam satis dolet bracchium. Eo modo 
+me sanare non potes." 
+Symmach us: "Mene malum esse medicum putas?" 
+Diodor us: "Immo optimum te esse medicum putO. Sed hoc quod 
+me fessum ac dolentem facit nullus medicus potest sanare." 
+Symmach us: "Quid est hoc quod a nullo medico sanari potest?" 
+Diodor us: "Quod ego malus sum magisterI Discipuli mei male 
+discunt nec mihi parent..." 
+Symmach us: "Atque ego optimum te esse magistrum putabam ." 
+Diodorus : "Parentes id non putant, neque igitur liberos suos ad 
+me mittere volunt." 
+Symmach us: "Quot discipuli sunt tibi?" 
+Diodorus : "Adhuc quattuor; sed mox ii quoque me relinquent. " 
+Symmach us: "Cur hoc metuis?" 
+Diodor us: "Quia !Ulius, pater duo rum discipu16rum, mox epis­
+tulam leget in qua scribO 'discipulum improbum ac pigrum 
+esse eius filium maiorem' -id quod verum est!" 
+Symmach us: "Etiam si verum est, necesse non erat te id scribere. 
+Certe !Ulius non minus iratus erit tibi, quod tU filium eius 
+maiorem nihil docere potes, quam mihi iam est, quia ego non 
+possum sanare filium eius minorem ." 
+Diodorus : "Nesciebam te eius familiae medicum esse. Sed cur 
+filium !Ulii sanare non potes?" 
+Symmach us: "Profect6 possum. Puer pede tantum aeger est, 
+atque etiam sine medico mox sanus erit. Neque igitur, ut nunc 
+puto, necesse erat sanguinem ei mittere. !Ulius dicit 'filium 
+suum propter medicum iam non solum pede, sed etiam 
+bracchio aegrum esse, atque me esse malum medicum ! ,,, 
+Diod6rus : "Noli id cUrare, Symmache !" 
+60 COLLOQV1A PERSONARVM 
+Symmach us: "Facile est hoc dicere, sed liilius me riirsus 
+arcessere non vult nec mihi mercedem meam dare." 
+Diodorus : "Idem liilius iam dicet 'me esse ludi magistrum pessi­
+mum' , neque mihi ex hOc die mercedem dabit. Sed ego id non 
+curo. 1am nolo pueros docere. Ludum meum claudam. Dum 
+discipulos pigros litteras et numero s docere conor, nullum mihi 
+tempus vacuum est ad libros meos." 
+Symmach us: "At quomodo tU vives sine mercede?" 
+Diodorus : "Ego neque uxorem neque liberos habeo. Paulum 
+mihi satis est. Omnes res meas vendam praeter libros: etiam si 
+nihil aliud possideb6, parvo bene vivere potero." 
+Symmach us: "Etiamne vino carebis?" 
+Diodorus: "Si necesse erit, aquam bibam -dum bonos libros 
+legam." 
+Symmach us: "Quos tU 'bonos libros' dicis?" 
+Diodorus : "Multos 'bonos libros' dicere possum, sed in primis 
+libros Platoni s, in quibus Socratem cum ami cis colloquentem 
+facit. Semper delector cum lego sermones illos clarissimos, 
+quamquam multa sunt in iis quae ego non bene intellego; ne­
+que Aristoteles, discipulus Platonis doctissimus, facilior esse 
+mihi videtur. 1am vero EpicUri libros legere incipiam." 
+Symmach us: "Quis est Epicuru s?" 
+Diodorus : "EpicUrus est philosophus Graecus, ut Socrates et 
+Plato et Aristote les." 
+Symmach us: "Ego numquam philosophum audio aut lego. Cur 
+tU philosophOs Graecos ita diligis?" 
+Diodorus: "Quia philosophi nos recte beateque vivere docent. 
+Noli putare, Symmache, homini satis esse corpus curare: etiam 
+mentem cUrare opus est, neque id fieri potest sine libris philo­
+sophOrum. 1s solus beatus esse mihi videtur cui non modo 
+corpus sanum est, sed etiam mens sana in corpore sano." 
+61 parvum -i n 
+=paulum 
+in primis = ante 
+alios omnes 
+Plato -onis m 
+Socrates -is m 
+Aristoteles -is m 
+Epicurus -i m 
+philosophus -i m 
+mens mentis f 
+�corpus particula = parva 
+pars 
+atomus -il 
+constare ex = 
+effici ex 
+natiira -ae I 
+Lucretius -i m 
+ex-haurire 
+Bimplere COLLOQVIA PERSONARVM 
+Symmach us: "Ego beate vivo ac mentem sanam habeo, quam­
+quam philosophOs non lego neque deos vereor." 
+Diodorus : "Epicfuus docet deos res hiimanas non ciirare." 
+Symmach us: "Ego putO niillos esse deos. Tiine Iovem ceterosq ue 
+deos vereris?" 
+Diodorus. "Non vereor eos, ut me docet Epiciirus. Sed, ne scio 
+quomodo, multas res video quae incertum me faciunt. Si niillus 
+est deus, quomodo sol et stellae moveri possunt? unde oriuntur 
+venti et imbres? quis fulgura tonitriisque efficit?" 
+Symmach us: "Interroga Epiciirum, magistrum tuum!" 
+Diodorus : "Si Epiciirum recte intellego, 'haec omnia per se fieri' 
+dicit. Praeterea dicit, ut ante eum Democritus, 'omnem rem, 
+omnem materiam effici ex partibus minimis, quae semper 
+moventu r.' Eae particulae minimae, quae dividi non possunt, 
+Graece appellantur 'atomi' ." 
+Symmachus poculum tollens "Quid?" inquit, "Etiamne hoc 
+poculum ex minimis particulis constare putas? Cum tam stulte 
+loqueris, non putO mentem tibi sanam esse!" 
+Diodorus : "Adhiic incertus sum, sed iam pliira de natiira rerum 
+legam apud Epicfuum et apud Lucretium ." 
+Symmach us: "Quis est Lucretius?" 
+Diodorus : "Est discipulus Epiciiri Romanus. Sex libros eius 
+possideo quibus titulus est De rerum natura." 
+Hic Symmachus poculum exhauriens "Bene vale" inquit, 
+"discipule Epiciiri !" Sed eo ipso tempore fulgur c1arissimum 
+tabemam obsciiram illiistrat, sequente tonitrii maximo. 
+"Itippiter Optime Maxime !" exc1amat medicus perterritus, dum 
+poculum ei e manii labitur. 
+Diodorus ridens "Videsne" inquit "poculum tuum constare ex 
+particulis minimis?" 
+62 COLLOQVIA PERSONARVM 
+COLLOQVIVM VNVM ET VICES IMVM 
+Personae: Diodorus, Symmach us, Sextus 
+Viae oppidI, quae paulo ante plenae erant hominum, iam propter 
+tonitrum atque imbrem vacuae sunt. Homines enim fulgura 
+tonitrumque metuunt neque per imbrem ambuHire volunt. 
+Diodorus quoque cum amIco suo SymmachO sub tecto manet. 
+Iterum atque iterum tabema obscfua fulgure cHirissimo 
+illiistratur. Inter tonitriis amIcI colloquI ac vInum bibere 
+pergunt. Medicus iam novum poculum vInI plenum tenet. 
+Diodorus autem poculum vacuum in mensa ponit et "Tempus 
+iam est" inquit "domum me redIre. Post merIdiem horam 
+dormIre soleo." 
+Symmach us: "Per hunc tonitrum dormIre non potes. Mane sub 
+tectO atque alterum poculum bibe mecum !" 
+Diodorus: "Num me1ius est bibere quam dormIre?" 
+Symmach us: "Certe vInum bibere melius est quam per imbrem 
+frIgidum ambulare. Ecce vacuae sunt viae. Nemo per hunc 
+imbrem inter tot fulgura ambulare audet." 
+Diodorus alterum poculum vInI poscit. Tum viam aspiciens 
+puerum solum ambulantem videt atque "Videsne" inquit 
+"parvum puerum quI nec fulgura nec imbrem metuit?" 
+Symmachus puerum vocat: "Heus, puer! VenI sub tectum ! Non 
+per imbrem frIgidum ambulare !" 
+63 heus! : audi! 
+sub + abl/acc: 
+mane sub tectO 
+veni sub tectum COLLOQVIA PERSONARVM 
+Ad vocem Symmachi puer se vertit et tabemam adit. Non solum 
+umida, sed etiam sordida sunt vestimenta eius, atque facies 
+cruore et sordibus operitur. Itaque Diodorus non cognoscit 
+discipulum suum Sextum, neque Sextus in tabema obscfua 
+magistrum suum cognoscit. 
+Symmachus puerum sordidum spectans exc1amat: "O, quam 
+sordidus es, puer! Unde venis et quo is?" 
+Sextus respondet: "E !Udo venio et domum eo." 
+At Symmachus "Non recta via" inquit "e ludo venis." 
+Hic tabema novo fulgure illustratur. Symmachus cruorem in 
+facie pueri conspiciens "Quid? " inquit, "unde est cruor ille? 
+Num magister ludi os tuum ita pulsavit?" 
+Simul Sextus magistrum suum inter homines bibentes cognoscit 
+et "Salve" inquit, "magister !" 
+Symmachus Diodoro "Tune" inquit "eius pueri es magister?" 
+"lta sum" inquit Diodorus, "Iam discipulum meum cognosco. 
+Sextus est discipulus meus optimus ." 
+Ad hoc Symmachus "At tU" inquit "magister es severissimus, si 
+discipulum tuum optimum pugno pulsavisti !" 
+Diodorus : "Ego non pulsavi eum." 
+Symmach us: "Sed ecce cruor in facie pueri. Aliquis os et nasum 
+eius pulsavit. Quis te pulsavit, puer?" 
+Tacente Sexto, Diodoru s "Certe" inquit "is cum aliis pueris 
+pugnavit et ab iis pulsatus est." 
+Symmach us: "Non magistrum, sed discipulum interrogavi. Tu 
+responde, Sexte: a quo pulsatus es?" 
+Sextus: "A Marco pulsatus sum. Sed ego ipse Marcum pulsavi." 
+Diodorus : "Cfu tU Marcum pulsavisti?" 
+Sextus: "Qui a puer improbus est. Primum dIxit 'matrem meam 
+turpem esse', deinde me 'puerum barbarum ' appellavi t! Itaque 
+eum pulsavi !" 
+64 COLLOQV1A PERSONARVM 
+Diodorus : "ProfectO non sine causa Marcum pulsavistl. Ego te 
+non reprehendo. Sed quid tU ipse ab eo pulsatus es? Non puto 
+Marcum tam validum esse quam te." 
+Sextus: "Non a Marco solo, sed a Marco et Tito pulsatus sum. 
+Duo pueri me fulum pulsaverunt !" 
+Diodorus : "Ubi pugnavi stis?" 
+Sextus: "Pugnavimus in via non procul a porta." 
+Symmach us: "Ciir tam sordida est vestis tua?" 
+Sextus: "Quia humi iacul. Sed vestis Marci tam sordida est quam 
+mea: is quoque humi iacuit..." Sic Sextus de pugna puerorum 
+narrare pergit. 
+Symmach us, postquam omnia audivit, "Iam satis nobis narra­
+visti" inquit "de pugna vestra. Ostende mihi tabulam tuam! 
+Magister iam dixit 'te esse discipulum optimum '." 
+Sextus medico tabulam ostendit, in qua litterae scriptae sunt. 
+Symmachus litteras legere conatur et "Has litteras foedas" inquit 
+"vix legere possum." 
+Diodorus : "Quid ais? Nonne pulchrae tibi videntur litterae Sexti? 
+Ego illas litteras laudavi: dix! 'Sextum et pulchre et recte 
+scripsisse' ." 
+Symmach us: "Tfule has litteras foedas laudavisti? Neque solum 
+foede, sed etiam prave scripsit discipulus tuus optimus! !tane 
+tU eum scribere docuisti?" 
+"Ego Sextum pulchre et recte scribere docui" inquit Diodorus, 
+"Da mihi tabulam !" Et, postquam tabulam in maniis siimpsit: 
+"Quid hoc est? Tfule has litteras scripsisti?" 
+Sextus: "Quare id me interrogas, magister? Certe ego litteras 
+scripsi, atque tU eas laudavisti: dixisti 'me pulcherrime et 
+rectissime scripsisse'." 
+Diodor us: "Hae litterae foedissimae a te scriptae non sunt. 
+65 ferre: 
+fero ferimus 
+fers fertis 
+fert ferunt 
+diicere 
+diixisse 
+dUx-< ducs-COLLOQVIA PERSONARVM 
+Non tua, sed MarcI est haec tabula. Cm tU tabulam MarcI 
+tecum fers? Vosne tabulas miitavi stis?" 
+Sextus: "Nesciebam me tabulam alienam ferreo Sed iam intellego 
+Marcum tabulas mutavisse. Eum puto meam tabellam 
+- . 
+" sumpSlsse. 
+Symmach us: "Ciir Marcus tabellas miitiivit?" 
+Diodorus : "Stulte interrogas, medice. Marcus patrI suo tabellam 
+SextI ostendet atque dIcet 'se eas litteras pulchras scripsisse'." 
+Symmach us: "Et simul Sextus patrI suo hanc tabellam ostendet 
+atque dIcet 'Marcum has litteras foedas scrIpsisse'." 
+Diodorus : "Recte dIcis. Sed neque Iiilius, pater MarcI, neque 
+Comelius, pater Sexti, filio suo credet. ram non solum liilius, 
+sed etiam Comelius dIcet 'me esse pessimum magistru m'!" 
+Sextus: "Meus pater mihi credet: scit enim me non mentirI. Ego 
+semper verum dico ac parentibus meIs pareo." 
+Symmach us: "SI id verum est, profecto non solum bonus disci­
+pulus es, sed etiam bonus filius." 
+Diodorus : "Bonus filius semper recta via e liido domum redIre 
+debet." 
+Sextus: "Ego recta via redIre soleo. Hodie vero Marcus ridens 
+dlxit 'me, ut filiolum probum, semper recta via ad mammam 
+meam redlre!' Ha Marcus me secum diixit." 
+Symmach us: "Ergo non parentibus, sed Marco paruistI hodie." 
+Sextus: "Est ut dlcis: Marco paruI-sed paulo post pulsavI 
+eum! ram recta via domum 1M ac parentibus meis narraM hoc 
+quod verum est: 'Marcum matrem meam teminam turpem et 
+me puerum barbarum appellav isse!' Tum mater non mihi, sed 
+Marco Irata erit, atque gaudebit puerum illum improbum a me 
+pulsatum esse!" 
+Hoc dicens Sextus ex tabema exit et domum Ire pergit. 
+66 COLLOQV1A PERSONARVM 
+COLLOQVIVM ALTERVM ET VICES IMVM 
+Personae: Dorippa, Sannio, Alblnus 
+Sola in cubiculO suo Dorippa forem c1ausam aspicit, tum ad 
+fenestram apertam accedit, unde Tiberim fliimen spectat et 
+pontem Fabricium, qui ducit ad parvam insulam in medio 
+fliimine sitam. 
+Dorippa sic loquitur secum: "Quid iam hic exspecto? Ab om­
+nibus amicis relinquor. Quare maneo in Mc urbe, ubi nemo 
+mihi est amicus? " Tum oculOs terget atque e cubiculo exit. 
+Ianitor, cui nomen est Sannio, Dorippam egredientem interrogat: Sannio -onis m 
+"Quo is, Dorippa?" 
+Dorippa intra limen resistens "Ad forum eo" inquit, "NolO sola 
+manere in Mc domo. Si Lepidus revenit, noli adrnittere eum!" 
+Ianitor faciem Dorippae tristem aspiciens "Numquam" inquit 
+"te tristiorem vidi. Quid tibi est?" 
+Dorippa: "Nulla !emina me miserior vivit, Sannio. Melius est me 
+mortuam esse quam sine amicis in hac urbe vivere!" 
+Sannio: "Quid ais: 'sine amicis'? Nuper non modo Lepidus 
+amicus, sed etiam Lydia amica tua hic fuerunt. Ipse vidi 
+Lepidum flores tibi afferre." 
+Dorippa flores extra limen iacentes ianitori monstrat et "Ecce" 
+inquit "flores Lepidi in via. Nolo flores accipere ab i116 viro 
+67 videre 
+v/disse 
+me (abi) miserior 
+= miserior quam 
+ego dare 
+dedisse COLLOQVIA PERSONARVM 
+improb O. Nec hunc anulum, quem ille mihi dedit, iam gerere 
+volo." Dorippa Sannioni magnum anulum aureum ostendit. 
+"O, quam magnificum donum !" inquit Sannio, "Tantum anulum 
+aureum numquam antea me vidisse arbitror. Profecto vir 
+divitiss imus est amicus tu us." 
+Dorippa: "In flfunen eum iaciam!" 
+Sannio : "Ain' tU? Lepidumne in flumen iacies?" 
+Doripp a: "Non Lepidum scilicet, sed anulum eius iaciam in 
+Tiberim !" 
+Sannio : "Noli stulte agere, Dorippa, moneo te! Tantus anulus 
+aureus magni pretii est. Quin vendis eum? Certe Albinus, qui 
+tabemam habet prope forum Romanum, magnum pretium 
+dabit tibi." 
+At Dorippa "Donum vendere" inquit "non decet. Nec pecunia 
+me miseram consola ri potest. Ego non modo hunc anulum, sed 
+etiam me ipsam in Tiberim iacere volO! Vale, Sannio !" 
+"Mane, Doripp a! Sana non es" inquit ianitor, nec vero puellam 
+miseram retinere potest. Dorippa recta via ad Tiberim flumen 
+it ac statim pontem Fabricium intrat. In medio ponte consistit 
+atque aquam spectat sub ponte fluentem. In speculo aquae 
+videt imaginem suam. Puella tremens atque horrens oculos 
+c1audit, deinde se vertit ac pontem relinquit. 
+Quo it Dorippa? Ad forum versus it. In via quae ad forum ducit 
+Albinum c1amare audit: "Omamenta! Emite omamen ta!" 
+Dorippa ad tabemam accedit. 
+"Salve, Dorippa!" inquit Albinus, "Visne omamentum?" 
+Doripp a: "Nolo omamentum emere, sed hunc anulum aureum 
+vendere volo. Quantum pretium mihi dabis?" 
+Albinus, pos tquam anulum in manus sumpsit, "Non magni 
+pretii" inquit "est iste anulus." 
+68 COLLOQVIA PERSONARVM 
+Dorippa: "Quantum dabis?" 
+AlbInus : "Octo sestertios." 
+Dorippa: "Me derIdes! Putasne me tantum 
+atque tam pu1chrum anulum aureum octo 
+sestertiIs vendere. Non sum ego tam stulta!" 
+"Iste anulus non est aureus" inquit AlbInus, 
+"AudI!" et anulum in mensam iacit. 
+Ànulus tinnit: "Tintintin ... " 
+Dorippa: "Ànulum tinnIre audio. Quid igitur?" 
+AlbInus : "Non ut aurum, sed ut ferrum tinnit iste anulus: est 
+anulus ferreus auro opertus. Nunc vero audI anulum aureum !" 
+AlbInus anulum aureum promit eumque iacit in mensam. 
+Dorippa: "Certe non eodem modo tinniunt anulL" 
+AlbInus: "Neque eiusdem pretiI sunt. Hic anulus ex auro puro 
+factus est, anulus tuus ex ferro, quod tenuI auro operItur. Bene 
+factus est anulus tuus, nec tamen me fallere potes." 
+Dorippa: "NolO ego te fallere, AlbIne. Iam vero intellego Lepi­
+dum, qUI anulum ferreum mihi dedit, falsum amIcum esse. 
+Quanti est anulus aureus?" 
+AlbInus Dorippae anulum aureum gemmatum ostendit et "Hic 
+anulus" inquit "centum sestertiIs constat. Talem anulum habet 
+amIca tua Lydia." 
+Dorippa: "Quomodo Lydia tantO pretio anulum emere potuit?" 
+AlbInus : "Ipsa tantam pecuniam non habet, sed nuper ad taber­
+nam meam venit cum amIco pecunioso, quI nummIs numeratIs 
+anulum aureum gemmatum emit et Lydiae dedit." 
+Dorippa: "Facile erat amIcum Lydiae fallere. Cur non anulum 
+ferreum eI vendidistI?" 
+AlbInus: "Ego anulos ferreos neque emi) neque vendo." 
+Dorippa anulum suum capit et iterum ad Tiberim flumen abit. 
+69 operfre 
+operuisse 
+opertum esse 
+quanti est? = 
+quanti pretii 
+est? 
+posse 
+potuisse 
+vendere 
+vendidisse di-mittere 
+di-mfsisse 
+di-missum esse 
+red-fre 
+red-iisse 
+red-itlirum esse 
+(inffut) 
+An alpha 
+B 13 beta 
+[y gamma COLLOQVIA PERSONARVM 
+COLLOQVIVM VICESIMVM TERTIVM 
+Personae: liinitor, Tlepolemus , Diivus 
+In villa Iiilii Tlepolemus, postquam epistulam ianitori tradidit, 
+intra fores responsum Iiilii exspectat. Canis iratus dentes os­
+tendit ac fremit. Tabellarius vero canem vinctum non timet. 
+Paulo post redit ianitor. "Epistulam " inquit "domino tradidi; ille 
+me dimisit sine responso. Necesse est te responsum opperirI ." 
+Tlepolem us: "Sed ero meo promisi 'me brevi tempore reditUrum 
+esse.' Neque enim alios habet servos." 
+Hinitor: "Quis est iste dominus pauper cui iinus servus est?" 
+Tlepolem us: "Est Diodorus , liidi magistero Certe non dives est 
+erus meus, sed vir doctus est, qui multos libros habet et 
+LatInos et Graeco s." 
+Ianitor: "Sed magni pretii sunt libri. Quomodo pauper magister 
+tot libros emere potest?" 
+Tlepolem us: "Erus meus nec uxorem nec liberos habet. Non 
+multum ei necessarium est, nec vero sine libris potest vivere. 
+Cum pueros non docet, libros legit philosoph6rum Graecorum. 
+Non puto eum umquam ante mediam noctem dormitum ire." 
+Ianitor: "Ego sine libris bene vivo, neque enim legere scio. Tiine 
+scis Graece legere?" 
+Tlepolem us: "Scio nomina litterarum: alpha, beta, gamma ... " 
+70 COLLOQVIA PERSONARVM 
+Ianitor: "Noli: mihi Graece loqul! Eam linguam non intellego ." 
+Tlepolemus : "Graece nec loqui nec legere scio, sed scio Latine 
+legere." 
+Hinitor: "Ergo lege mihi id quod in solo inscriptum est infra hanc 
+. _ . " lmagmem. 
+Tlepolem us: "C-A ca, V-E ve: ca-ve, C-A ca, N-E-M nem: ca-nem: v littera dicitur 'ii' 
+cave canem!" 
+Ianitor: "Profecto vir doctus es!" 
+Tlepolem us: "Non tam doctus quam erus meus. Nemo me legere 
+docuit; sed saepe Diodorum pueros docentem audio, ita litteras 
+et syllabas disco." 
+Ianitor: "Meus quoque dominus est vir doctus, ego vero servus 
+indoctus sum ac stultus. Litteras Latinas nescio. Dominus dicit 
+'me tam stultum esse quam canem meum! ,,, 
+Tlepolemus : "Fortas se non tam stultus est canis tuus: certe unam 
+litteram scit." 
+Ianitor: "Quam litteram?" 
+"Canis iratus R litteram planius dicit quam homo" inquit Tlepo­
+lemus baculum tollens, "Audi!" 
+Canis rUrsus fremere incipit: "Rrrr!" Tum vero, tonitru territus, 
+post ianitorem recedit atque ululare incipit: "UuuU!" 
+"Atque canis territus tam pIane dicit litteram v" inquit ianitor, 
+"Sed stultus est quod tonitru terretur ." 
+Tlepolemus : "Non stultus, sed prudens est qui tonitrum metuit. " 
+Exit Davus ex atrio; qui tabellarium conspiciens "Quare hic 
+manes?" inquit, "Quid exspectas?" 
+Tlepolemus : "Responsum exspecto domini tui." 
+Davus: "Tempus perdis. Tibi responsum non dabitur hodie, cras 
+magistro dabitur a Marco. Quin hinc discedis? Num quid vis?" 
+"Nolo plus temporis perdere. Redeo ad dominum meum. 
+Valete!" inquit Tlepolemus, atque ab iis discedit. 
+71 ab-ire 
+ab-iisse 
+domus ardet COLLOQVIA PERSONARVM 
+COLLOQVIVM VICESIMVM QVARTVM 
+Personae: Diodorus, Symmac hus, TIepolemus 
+Postquam Sextus abiit, magister poculum suum exhaurit et "Ego 
+quoque" inquit "redire volo, etsi nemo domi me opperitur." 
+Symmach us: "Nonne ianitor custodit domum tuam?" 
+Diodorus : "Mihi, ut magistro pauperr imo, iinus tantum est 
+servus, neque is nunc domi est." 
+Symmach us: "Quid servus tuus agit foris?" 
+Diodorus : "Multa sunt servi mei officia. Hodie tabellarius est: 
+epistulam fert ad patrem Marci, neque euro ante horam nonam 
+reditiirum esse puto. Sed eo absente canis meus ferox domum 
+custOdit ." 
+Symmach us: "Ergo non opus est te iam redire. Quin hic exspec­
+tas duro desinit imber ac tonitrus? Mox sol riirsus liicebit." 
+Diodorus caelum spectans "Id non arbitror" inquit, "Ecce nova 
+nubes atra oritur." 
+Item Symmachus caelum intuetur et "Non niibes" inquit, "sed 
+rumus est." 
+Diodorus : "Fiimus? Unde venit ille f'iimus?" 
+Symmach us: "Semper ex igne venit rumus. Ego aliquam domum 
+ardere puto." 
+72 COLLOQVIA PERSONARVM 
+Subito aliquis magna voce "Incendium !" clamare incipit, atque 
+brevi tempore viae oppidi implentur hominibus, qui omnes in 
+eam partem currunt unde fiimus oritur. Diodorus quoque et 
+Symmachus e tabema exeunt atque ceteros sequuntur. 
+"Quo imus?" interrogat Diodorus. 
+"In eam partem ubi tU habitas, puto" respondet Symmach us. 
+Diodorus quoque currere incipit. 
+Paulo post Diodorus ante domum suam ardentem consistit. 
+Intra fores clausas canis vinctus ululat. 
+"Age, aperi ianuam, Diodore ! Solve canem tuum!" clamat ali­
+quis, dum alii magno cum strepitU fores frangere conantur. 
+Diodorus continuo c1avem promit, fores aperit et canem territum 
+solvit. Canis laetus e domo excurrit. At dominus, etsi propter 
+fiimum crassum vix spirare potest, in mediam domum procedit 
+libros suos quaeren s. Tandem, uno libro capto, recedit, ac vix 
+vivus intra fores labitur. 
+Eo ipso tempore Tlepolemus revertitur. "Ubi est erus meus?" 
+inquit. 
+"Intra llmen iacet" respondet aliquis, "Tu serva dominum tuum!" 
+Vix haec verba dicta erant, cum Tlepolemus per fores apertas 
+currit, dominum iacentem tollit eumque extra fores portat. 
+Diodorus, qui unum librum manu tenet, ocu16s aperit. 
+"O domine !" inquit Tlepolemus, "Gaudeo te vivere!" 
+At magister "Mene vivere" inquit "sine domo ac sine libris?" 
+Rlc advenit Symmachus et "O mi Diodore !" inquit, "Quid tibi 
+factum est?" 
+Diodorus : "Nonne vides domum meam ardere? Iuppiter me per­
+didit. Egone hoc merui? Quid male reci? Ciir me sic punivit 
+Iuppiter?" 
+Symmachus : "Ipse dicis 'te deos non vereri.' Cur igitur putas te 
+a Iove pUnitum esse?" 
+73 incendium -i n == 
+domus iirdens 
+ex-currere 
+capere 
+cepisse 
+captum esse ex-ire 
+ex-iisse 
+con-currere = si­
+mul in eundem 
+locum currere COLLOQVIA PERSONARVM 
+Diodorus : "Quia Iuppiter est deus cae1i qui tonitrum ac fulgura 
+efficit. Ille domum meam perdidit. Mihi necesse erit sub cae10 
+aperto vivere!" 
+Symmach us: "Certe sub tecto vives, Diodore. Veni apud me 
+habitatum. Domus mea satis magna est." 
+Diodorus: "Quid fiet ludo ac discipulls meis?" 
+Symmach us: "Nuper dixisti 'te ludum c1ausUrum esse.' Iam 
+c1ausus est ludus. Discipull tui novum magistrum quaerent. 
+Neque iam opus est te pueros improb os docere: omne tempus 
+tibi vacuum est ad libros tuos." 
+Diodorus : "Quid me derides, Symmache? Ex omnibus libris 
+meis Unum tantum servavL " 
+Symmach us: "Quomodo librum ex incendio servavistl? Tune 
+solus domum ardentem intravisti?" 
+Diodorus : "Solus intravi, nec solus illinc exii: servus meus, qui 
+interim advenerat, me vix vivum e domo ardenti tulit. Ecce 
+servus fortis qui erum suum servavit ." 
+Tlepolem us: "Antequam ego erum servavi, ille canem suum 
+servaverat. " 
+"Nec solum canem servaveram, sed etiam hunc librum" inquit 
+Diodorus et medico librum ostendit. 
+Symmach us: "Qui liber est iste?" 
+Diodorus titulum aspiciens "Lucretii" inquit "De rerum miturii 
+liber sextus. Is est liber de caelo ac de toniW fulguribusque ." 
+Symmach us: "Quid dicit Lucretius de causa tonitrus?" 
+Diodorus : "Lucretius dicit 'tonitrum fieri quia nubes volantes in 
+cae10 concurrunt ventis pugnantibus ... ' Certe negat 'Iovem 
+facere tonitrum '." 
+Symmach us: "Neque igitur Iuppiter te punivit ." 
+74 DECLINATIONES 
+NOMINA 
+Declfniitiii I Declfniitiii II 
+sing p!iir sing p!iir sing p!iir sing p!iir 
+nom horlaf horlae servlus m servii liber m librli verblumn verbla 
+ace hOrlam hOrlas servlum servlos librlum librlos verblum verbla 
+gen horlae horlarum servii servlorum libri i librlorum verbli verblorum 
+dat horlae horlis servlo servlis libri o librlis verblo verblis 
+ab! horla horlis servlo servlis librlo librlis verblo verblis 
+voc servle 
+Declfniitiii III 
+niim sOl m solles leom leoni es vox vocles nomenn nominla 
+ace sollem solles leonlem leoni es voclem vocles nomen nominla 
+gen sOilis sollum leonlis leonlum voclis voclum nominlis nominlum 
+dat sOili sollibus leonli leonlibus vocli voclibus nominli nominlibus 
+ab! solle sollibus leonle leonlibus vocle voclibus nominle nominlibus 
+nom navlis f navles urblsf urbles mons m monti es marlen marlia 
+ace navlem navles urblem urbles montlem montles marle marlia 
+gen navlis navlium urblis urblium montlis montlium marlis marlium 
+dat navli navlibus urbli urblibus monti i montlibus marli marlibus 
+ab! navle navlibus urble urblibus monti e montlibus marli marlibus 
+Declfniitiii IV Declfniitio V 
+nom manlus fmanltis comltin comlua diles m diles rlesf rles 
+ace manlum manltis comlti comlua dilem diles rlem rles 
+gen manlUs manluum comltis comluum dilei dilerum rlei rlerum 
+dat manlui manlibus comlti comlibus dilei dilebus rlei rlebus 
+ab! manlti manlibus comlti comlibus dile dilebus rle rlebus 
+Declifniitiii I et II: adiectfva 
+m f n m f n 
+sing nom magnlus magnla magnlum nUlllus nUllla nUlllum 
+ace magnlum magnlam magnlum nUlllum nUlllam nUlllum 
+gen magnli magnlae magnli ntilllius nUlllius nUlllius 
+dat magnlo magnlae magnlo nUllli nUllli nUllli 
+ab! magnlo magnla magnlo nUlllo nUlli a nUlllo 
+pliir niim magnli magnlae magnla nUllli nUlllae nUllla 
+ace magnlos magnlas magnla nUlllos nUlllas nUllla 
+gen magnlorum magnliirum magnlorum nUlllorum nUllliirum nUlllorum 
+dat magnlis magnlis magnlis nUlllis nUlllis nUlllis 
+ab! magnlis magnlis magnlis ntilliis ntilliis ntilliis 
+Declfniitiii III: adiectfva 
+mlf n mlf n mlf n 
+sing niim brevlis brevle prudens prudens melior melius 
+ace brevlem brevi e prudens prudens melior melius 
+gen brevlis brevlis prudentlis prudentlis meliorlis meliorlis 
+dat brevli brevli prudenti i prudenti i meliorli meliorli 
+ab! brevli brevli prudentli prudentli meliorle meliorle 
+p!iir nom brevles brevlia prudenti es prudentlia meliorles meliorla 
+ace brevi es brevlia prudenti es prudentlia meliorles meliorla 
+gen brevlium brevlium prudentlium prudentlium meliorlum meliorlum 
+dat brevlibus brevlibus prudentlibus prudentlibus meliorlibus meliOrlibus 
+ab! brevlibus brevlibus prudentlibus prudentlibus meliorlibus meliorlibus 
+75 ADIECTIVA ET ADVERBIA 
+Comparatio 
+adieetfvum adverbium adieetlvum adverbium 
+positfvus rectlus -a -um rectle brevlis -e brevliter 
+comparatfvus rectlior -ius -iorlis rectlius brevlior -ius -iorlis brevlius 
+super!atfvus rectlissimlus -a -um rectlissime brevlissimlus -a -um brevlissime 
+NVMERI 
+1 Unlus -a um primlus -a -um Il Undecim XI Undecimlus -a -um 
+2 dulo -ae-o II secundlus 12 duodecim XII duodecimlus 
+3 trles -ia III tertilus 13 tredecim XIII tertiuls decimlus 
+4 quattuor IV quartlus 14 quattuord ecim XIV quartlus decimlus 
+5 quinque V quintlus 15 quindecim xv quintlus decimlus 
+6 sex VI sextlus 16 sedecim XVI sextlus decimlus 
+7 septem VII septimlus 17 septendecim XVII septimlus decimlus 
+8 octo VIII octavlus 18 duodeviginti XVIII duodevicesimlus 
+9 novem IX nonlus 19 iindeviginti XIX Undevicesimlus 
+lO decem X decimlus 
+20 viginti xx vicesimlus 200 ducentli -ae -a cc ducentesimlus -a -um 
+30 triginta xxx tricesimlus 300 trecentli CCC trecentesimlus 
+40 quadraginta XL quadragesimlus 400 quadringent li CCCC quadringente simlus 
+50 quinquaginta L quinquagesimlus 500 quingentli D quingente simlus 
+60 sexaginta LX sexagesimlus 600 sescentli DC sescentesimlus 
+70 septuaginta LXX septuagesimlus 700 septingentli DCC septingente simlus 
+80 octoginta LXXX octogesimlus 800 octingentli DCCC octingent esimlus 
+90 nonaginta xc nonagesimlus 900 nongentli DCCCC nongentesimlus 
+100 centum C centesimlus 1000 mille M millesimlus 
+PRONOM INA 
+PersonaUa Possessiva 
+nom ego tU nos vos melus -a-UIn noster -trla -trlum 
+ace me te se nos vos vocmi 
+dat mihi tibi sibi nobis vobis tulus -a -um vester -trla -trlum 
+ab! me te se nobis vobis sulus -a -um 
+Demonstratz va 
+m f n m f n m f n 
+sing nom ils eia ild hic haec hoc illie illia illiud 
+acc elum elam ild hunc hanc hoc illium illiam illiud 
+gen. elius elius elius huius huius huius illlius illlius illlius 
+dat eli eli eli huic huic huic illii illii illii 
+ab! elo eia elo hoc hac hOc illio illia illio 
+p!ilr nom ili elae eia hi hae haec illii illiae illia 
+acc elos elas eia hOs has haec illios illias illia 
+gen elorum elarum elorum h5rum harum hlirum illiorum illilirum illilirum 
+dat ilis ilis ilis his his his illiis illiis illiis 
+ab! ilis ilis ilis his his his illiis illiis illiis 
+Interrogatf vum/re!attvum 
+m f n m f n 
+sing nom qulis/quli qulae qulid/qulod p!ilr nom quli qulae qulae 
+ace qulem qulam qulid/qulod ace qulos qullis qulae 
+gen culius culius culius gen qulorum qullirum qulorum 
+dat culi culi culi dat qulibus qulibus qulibus 
+ab! qulo qulli qulo ab! qulibus qulibus qulibus 
+76 VERBA 
+[A] Actfvum 
+lnjìnftfvus 
+praes amalre monelre leglere audllre eslse 
+peif amavlisse monulisse leglisse audlvlisse fulisse 
+fut amaltiilrum esse monitlurlum esse lectlurlum esse audItlurlum esse futlurlum esse 
+Imperiitfvus 
+sing ama mone legle audI es 
+pliir amai te monelte leglite audllte eslte 
+Indiciitfvus 
+praesens 
+sing I amlo monelo leglo audilo slum 
+2 amals monels leglis audIls es 
+3 amalt monelt leglis audilt eslt 
+pliir 1 amalmus monelmus leglimus audllmus slumus 
+2 amaltis moneltis leglitis audlltis esltis 
+3 amalnt monelnt leglunt audilunt slunt 
+impeifectum 
+sing 1 amalbalm monelbalm leglebalm audilebalm eralm 
+2 amalbals monelbals leglebals audilebals erals 
+3 amalbalt monelbalt leglebalt audilebalt eralt 
+pliir 1 amalbalmus monelbalmus leglebalmus audilebalmus eralmus 
+2 amalbaltis monelbaltis leglebaltis audi I ebaltis eraltis 
+3 amalbalnt monelbalnt leglebalnt audilebalnt eralnt 
+futiirum 
+sing 1 amalblo monelblo leglalm audilalm erlo 
+2 amalblis monelblis leglels audilels erlis 
+3 amalblit monelblit leglelt audilelt erlit 
+pliir 1 amalblimus monelblimus leglelmus audilelmus erlimus 
+2 amalblitis monelblitis legleltis audileltis erlitis 
+3 amalblunt monelblunt leglelnt audilelnt erlunt 
+peifectum 
+sing 1 amavlI monulI leglI audlvlI full 
+2 amavlisti monulisti leglisti audlvlisti fulistI 
+3 amavlit monulit leglit audlvlit fulit 
+pliir I amavlimus monulimus leglimus audlvlimus fulimus 
+2 amavlistis monulistis leglistis audlvlistis fulistis 
+3 amavlerunt monulerunt leglerunt audlvlerunt fulerunt 
+pliisquam peifectum 
+sing 1 amavleralm monuleralm legleralm audlvleralm fuleralm 
+2 amavlerals monulerals leglerals audlvlerals fulerals 
+3 amavleralt monuleralt legleralt audlvleralt fuleralt 
+pliir 1 amavleralmus monuleralmus legleralmus audlvleralmus fuleralmus 
+2 amavleraltis monuleraltis legleraltis audlvleraltis fuleraltis 
+3 amavleralnt monuleralnt legleralnt audlvleralnt fuleralnt 
+Participium 
+praes amalns -alntlis monelns -elntlis leglens -entlis audilens -entlis 
+fut amatlurlus monitlurlus lectlurlus audItlurlus futlurlus 
+77 [B] Passfvum 
+lnjìnftivus 
+praes amiilri monelri legli audilri 
+perf amiitlurn esse monitlurn esse lectlum esse auditlum esse 
+Indiciitfvus 
+praesens 
+sing 1 amlor monelor leglor audilor 
+2 amiilris monelris legleris audilris 
+3 amiiltur moneltur leglitur audiltur 
+plur 1 amiilmur monelmur leglimur audilmur 
+2 amiilmini monelmin i leglimini audilmini 
+3 amalntur monelntur legluntur audiluntur 
+imperfectum 
+sing 1 amiilbalr monelbalr leglebalr audilebalr 
+2 amiijbiilris monelbiilris leglebiilris audilebiilris 
+3 amiilbiiltur monelbiilt ur leglebiiltur audilebiiltur 
+plur 1 amiilbiilmur monelbiilm ur leglebiilmur audilebiilmur 
+2 amiilbiijmini monelbiilmini leglebiilmini audilebiijmini 
+3 amiilbalntur monelbaln tur leglebalntur audilebalntur 
+fotUrum 
+sing 1 amiilblor monelblor leglalr audilalr 
+2 amiilbleris monelbleris leglelris audilelris 
+3 amiilblitur monelblitur legleltur audileltur 
+plur 1 amiilblimur monelblimur leglelmur audilelmur 
+2 amiilblimini monelblimini leglelmini audilelmini 
+3 amiilbluntur monelbluntur leglelntur audilelntur 
+perfectum 
+sing 1 amiitlus sum monitlus sum lectlus surn auditlus surn 
+2 amiitlus es monitlus es lectlus es auditlus es 
+3 amiitlus est monitlus est lectlus est auditlus est 
+plur 1 amiitli surnus monitli surnus lectli sumus auditli surnus 
+2 amiitli estis monitli estis lectli estis auditli estis 
+3 amiitli sunt monitli sunt lectli sunt auditli sunt 
+plilsquam perfectum 
+sing 1 amiitlus eram monitlus eram lectlus eram auditlus eram 
+2 amiitlus eriis monitlus eriis lectlus eriis auditlus eriis 
+3 amiitlus erat monitlus erat lectlus erat auditlus erat 
+plur 1 amiitli eriimus moniti! eriimus lectli eriimus auditli eriimus 
+2 amiitli eriitis monitli eriitis lectli eriitis auditli eriitis 
+3 amiitli erant monitli erant lectli erant auditli erant 
+Participium 
+perf amiitlus monitlus lectlus auditlus 
+78 NOTAE 
+abZ abZiit'ivus 
+ace accusiit'ivus 
+adv adverbium 
+dat dat'ivus 
+f jèmin'inum 
+fut futiirum 
+gen genet'ivus 
+imp imperiit'ivus 
+'inf 'infin'it'ivus 
+m mascuZ'inum 
+n neutrum 
+nom nominiit'ivus 
+per:! perfectum 
+pliir pliiriilis 
+praes praesens 
+sing singuZiiris 
+voc vociit'ivus 
+l persona pr'ima 
+2 persona secunda 
+3 persona tertia 
+B contriirium 
+< ex 
+79 

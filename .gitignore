@@ -6,3 +6,5 @@ nohup*
 __pycache__
 
 .DS_Store
+
+latin-bert
